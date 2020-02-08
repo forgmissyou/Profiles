@@ -1,0 +1,222 @@
+# (GFW)
+# (Music)
+# > Deezer
+USER-AGENT,Deezer*,GFW
+DOMAIN-SUFFIX,deezer.com,GFW
+DOMAIN-SUFFIX,dzcdn.net,GFW
+# > KKBOX
+DOMAIN-SUFFIX,kkbox.com,GFW
+DOMAIN-SUFFIX,kkbox.com.tw,GFW
+DOMAIN-SUFFIX,kfs.io,GFW
+# > JOOX
+USER-AGENT,WeMusic*,GFW
+USER-AGENT,JOOX*,GFW
+DOMAIN-SUFFIX,joox.com,GFW
+# > Pandora
+USER-AGENT,Pandora*,GFW
+DOMAIN-SUFFIX,pandora.com,GFW
+# > SoundCloud
+USER-AGENT,SoundCloud*,GFW
+DOMAIN-SUFFIX,p-cdn.us,GFW
+DOMAIN-SUFFIX,sndcdn.com,GFW
+DOMAIN-SUFFIX,soundcloud.com,GFW
+# > Spotify
+USER-AGENT,Spotify*,GFW
+DOMAIN-SUFFIX,pscdn.co,GFW
+DOMAIN-SUFFIX,scdn.co,GFW
+DOMAIN-SUFFIX,spotify.com,GFW
+DOMAIN-SUFFIX,spoti.fi,GFW
+DOMAIN-KEYWORD,-spotify-com,GFW
+# > TIDAL
+USER-AGENT,TIDAL*,GFW
+DOMAIN-SUFFIX,tidal.com,GFW
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*,GFW
+USER-AGENT,YouTubeMusic*,GFW
+# (Video)
+# > All4
+USER-AGENT,All4*,GFW
+DOMAIN-SUFFIX,c4assets.com,GFW
+DOMAIN-SUFFIX,channel4.com,GFW
+# > AbemaTV
+USER-AGENT,AbemaTV*,GFW
+DOMAIN-SUFFIX,abema.io,GFW
+DOMAIN-SUFFIX,ameba.jp,GFW
+DOMAIN-SUFFIX,abema.tv,GFW
+DOMAIN-SUFFIX,hayabusa.io,GFW
+DOMAIN,abematv.akamaized.net,GFW
+DOMAIN,ds-linear-abematv.akamaized.net,GFW
+DOMAIN,ds-vod-abematv.akamaized.net,GFW
+DOMAIN,linear-abematv.akamaized.net,GFW
+# > Amazon Prime Video
+USER-AGENT,InstantVideo.US*,GFW
+USER-AGENT,Prime%20Video*,GFW
+DOMAIN-SUFFIX,aiv-cdn.net,GFW
+DOMAIN-SUFFIX,aiv-delivery.net,GFW
+DOMAIN-SUFFIX,amazonvideo.com,GFW
+DOMAIN-SUFFIX,primevideo.com,GFW
+DOMAIN,avodmp4s3ww-a.akamaihd.net,GFW
+DOMAIN,d25xi40x97liuc.cloudfront.net,GFW
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,GFW
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,GFW
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,GFW
+DOMAIN-KEYWORD,avoddashs,GFW
+# > Bahamut
+USER-AGENT,Anime*,GFW
+DOMAIN-SUFFIX,bahamut.com.tw,GFW
+DOMAIN-SUFFIX,gamer.com.tw,GFW
+DOMAIN,gamer-cds.cdn.hinet.net,GFW
+DOMAIN,gamer2-cds.cdn.hinet.net,GFW
+# > BBC iPlayer
+USER-AGENT,BBCiPlayer*,GFW
+DOMAIN-SUFFIX,bbc.co.uk,GFW
+DOMAIN-SUFFIX,bbci.co.uk,GFW
+DOMAIN-KEYWORD,bbcfmt,GFW
+DOMAIN-KEYWORD,uk-live,GFW
+# > DAZN
+USER-AGENT,DAZN*,GFW
+DOMAIN-SUFFIX,dazn.com,GFW
+DOMAIN-SUFFIX,dazn-api.com,GFW
+DOMAIN,d151l6v8er5bdm.cloudfront.net,GFW
+DOMAIN-KEYWORD,voddazn,GFW
+# > Disney+
+USER-AGENT,Disney+*,GFW
+DOMAIN-SUFFIX,bamgrid.com,GFW
+DOMAIN-SUFFIX,disney-plus.net,GFW
+DOMAIN-SUFFIX,disneyplus.com,GFW
+DOMAIN-SUFFIX,dssott.com,GFW
+DOMAIN,cdn.registerdisney.go.com,GFW
+# > encoreTVB
+USER-AGENT,encoreTVB*,GFW
+DOMAIN-SUFFIX,encoretvb.com,GFW
+DOMAIN,edge.api.brightcove.com,GFW
+DOMAIN,bcbolt446c5271-a.akamaihd.net,GFW
+# > FOX NOW
+USER-AGENT,FOX%20NOW*,GFW
+DOMAIN-SUFFIX,fox.com,GFW
+DOMAIN-SUFFIX,foxdcg.com,GFW
+DOMAIN-SUFFIX,theplatform.com,GFW
+DOMAIN-SUFFIX,uplynk.com,GFW
+# > HBO NOW
+USER-AGENT,HBO%20NOW*,GFW
+DOMAIN-SUFFIX,hbo.com,GFW
+DOMAIN-SUFFIX,hbogo.com,GFW
+DOMAIN-SUFFIX,hbonow.com,GFW
+# > HBO GO HKG
+USER-AGENT,HBO%20GO%20PROD%20HKG*,GFW
+DOMAIN-SUFFIX,hbogoasia.com,GFW
+DOMAIN-SUFFIX,hbogoasia.hk,GFW
+DOMAIN,bcbolthboa-a.akamaihd.net,GFW
+DOMAIN,players.brightcove.net,GFW
+DOMAIN,s3-ap-southeast-1.amazonaws.com,GFW
+DOMAIN,dai3fd1oh325y.cloudfront.net,GFW
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,GFW
+DOMAIN,hboasia1-i.akamaihd.net,GFW
+DOMAIN,hboasia2-i.akamaihd.net,GFW
+DOMAIN,hboasia3-i.akamaihd.net,GFW
+DOMAIN,hboasia4-i.akamaihd.net,GFW
+DOMAIN,hboasia5-i.akamaihd.net,GFW
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,GFW
+# > 华文电视
+USER-AGENT,HWTVMobile*,GFW
+DOMAIN-SUFFIX,5itv.tv,GFW
+DOMAIN-SUFFIX,ocnttv.com,GFW
+# > Hulu
+DOMAIN-SUFFIX,hulu.com,GFW
+DOMAIN-SUFFIX,huluim.com,GFW
+DOMAIN-SUFFIX,hulustream.com,GFW
+# > Hulu(フールー)
+DOMAIN-SUFFIX,happyon.jp,GFW
+DOMAIN-SUFFIX,hulu.jp,GFW
+# > ITV
+USER-AGENT,ITV_Player*,GFW
+DOMAIN-SUFFIX,itv.com,GFW
+DOMAIN-SUFFIX,itvstatic.com,GFW
+DOMAIN,itvpnpmobile-a.akamaihd.net,GFW
+# > KKTV
+USER-AGENT,KKTV*,GFW
+USER-AGENT,com.kktv.ios.kktv*,GFW
+DOMAIN-SUFFIX,kktv.com.tw,GFW
+DOMAIN-SUFFIX,kktv.me,GFW
+DOMAIN,kktv-theater.kk.stream,GFW
+# > Line TV
+USER-AGENT,LINE%20TV*,GFW
+DOMAIN-SUFFIX,linetv.tw,GFW
+DOMAIN,d3c7rimkq79yfu.cloudfront.net,GFW
+# > LiTV
+DOMAIN-SUFFIX,litv.tv,GFW
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,GFW
+# > My5
+USER-AGENT,My5*,GFW
+DOMAIN-SUFFIX,channel5.com,GFW
+DOMAIN-SUFFIX,my5.tv,GFW
+DOMAIN,d349g9zuie06uo.cloudfront.net,GFW
+# > myTV SUPER
+USER-AGENT,mytv*,GFW
+DOMAIN-SUFFIX,mytvsuper.com,GFW
+DOMAIN-SUFFIX,tvb.com,GFW
+# > Netflix
+USER-AGENT,Argo*,GFW
+DOMAIN-SUFFIX,netflix.com,GFW
+DOMAIN-SUFFIX,netflix.net,GFW
+DOMAIN-SUFFIX,nflxext.com,GFW
+DOMAIN-SUFFIX,nflximg.com,GFW
+DOMAIN-SUFFIX,nflximg.net,GFW
+DOMAIN-SUFFIX,nflxso.net,GFW
+DOMAIN-SUFFIX,nflxvideo.net,GFW
+DOMAIN-SUFFIX,netflixdnstest0.com,GFW
+DOMAIN-SUFFIX,netflixdnstest1.com,GFW
+DOMAIN-SUFFIX,netflixdnstest2.com,GFW
+DOMAIN-SUFFIX,netflixdnstest3.com,GFW
+DOMAIN-SUFFIX,netflixdnstest4.com,GFW
+DOMAIN-SUFFIX,netflixdnstest5.com,GFW
+DOMAIN-SUFFIX,netflixdnstest6.com,GFW
+DOMAIN-SUFFIX,netflixdnstest7.com,GFW
+DOMAIN-SUFFIX,netflixdnstest8.com,GFW
+DOMAIN-SUFFIX,netflixdnstest9.com,GFW
+IP-CIDR,23.246.0.0/18,GFW
+IP-CIDR,37.77.184.0/21,GFW
+IP-CIDR,45.57.0.0/17,GFW
+IP-CIDR,64.120.128.0/17,GFW
+IP-CIDR,66.197.128.0/17,GFW
+IP-CIDR,108.175.32.0/20,GFW
+IP-CIDR,192.173.64.0/18,GFW
+IP-CIDR,198.38.96.0/19,GFW
+IP-CIDR,198.45.48.0/20,GFW
+# > niconico
+USER-AGENT,Niconico*,GFW
+DOMAIN-SUFFIX,dmc.nico,GFW
+DOMAIN-SUFFIX,nicovideo.jp,GFW
+DOMAIN-SUFFIX,nimg.jp,GFW
+DOMAIN-SUFFIX,socdm.com,GFW
+# > PBS
+USER-AGENT,PBS*,GFW
+DOMAIN-SUFFIX,pbs.org,GFW
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com,GFW
+DOMAIN-SUFFIX,pornhub.com,GFW
+DOMAIN-SUFFIX,pornhubpremium.com,GFW
+# > 台湾好
+USER-AGENT,TaiwanGood*,GFW
+DOMAIN-SUFFIX,skyking.com.tw,GFW
+DOMAIN,hamifans.emome.net,GFW
+# > Twitch
+DOMAIN-SUFFIX,twitch.tv,GFW
+DOMAIN-SUFFIX,twitchcdn.net,GFW
+DOMAIN-SUFFIX,ttvnw.net,GFW
+DOMAIN-SUFFIX,jtvnw.net,GFW
+# > ViuTV
+USER-AGENT,Viu*,GFW
+USER-AGENT,ViuTV*,GFW
+DOMAIN-SUFFIX,viu.com,GFW
+DOMAIN-SUFFIX,viu.tv,GFW
+DOMAIN,api.viu.now.com,GFW
+DOMAIN,d1k2us671qcoau.cloudfront.net,GFW
+DOMAIN,d2anahhhmp1ffz.cloudfront.net,GFW
+DOMAIN,dfp6rglgjqszk.cloudfront.net,GFW
+# > YouTube
+USER-AGENT,com.google.ios.youtube*,GFW
+USER-AGENT,YouTube*,GFW
+DOMAIN-SUFFIX,googlevideo.com,GFW
+DOMAIN-SUFFIX,youtube.com,GFW
+DOMAIN,youtubei.googleapis.com,GFW
