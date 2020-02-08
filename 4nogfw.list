@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,khm1.google.com,DIRECT
 DOMAIN-SUFFIX,khm2.google.com,DIRECT
 DOMAIN-SUFFIX,khm3.google.com,DIRECT
 DOMAIN-SUFFIX,khmdb.google.com,DIRECT
+DOMAIN-SUFFIX,mtalk.google.com,DIRECT
 DOMAIN-SUFFIX,tools.google.com,DIRECT
 DOMAIN-SUFFIX,clientservices.googleapis.com,DIRECT
 DOMAIN-SUFFIX,fonts.googleapis.com,DIRECT
