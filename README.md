@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/规则片段�
 
 7GFWmedia.list 
 境外视频音乐走代理,复制 
-From https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/GlobalMedia.list
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/GlobalMedia.list
 
 8GFW.list 
 GFW全域名列表,提取自 
