@@ -2552,7 +2552,6 @@ HOST-SUFFIX,crashapi.growingio.com,reject
 HOST-SUFFIX,crashes.mo.wps.cn,reject
 HOST-SUFFIX,crasheye.cn,reject
 HOST-SUFFIX,crashlytics.163.com,reject
-HOST-SUFFIX,crashlytics.com,reject
 HOST-SUFFIX,crdrjs.info,reject
 HOST-SUFFIX,cre.dp.sina.cn,reject
 HOST-SUFFIX,cre.mix.sina.com.cn,reject
@@ -3094,7 +3093,6 @@ HOST-SUFFIX,e.ckikq.com,reject
 HOST-SUFFIX,e.cn-3drp.com,reject
 HOST-SUFFIX,e.codlw.com,reject
 HOST-SUFFIX,e.coenr.com,reject
-HOST-SUFFIX,e.crashlytics.com,reject
 HOST-SUFFIX,e.cuomm.com,reject
 HOST-SUFFIX,e.czggcj.com,reject
 HOST-SUFFIX,e.daishuxy.com,reject
@@ -6700,10 +6698,8 @@ HOST-SUFFIX,service.urchin.com,reject
 HOST-SUFFIX,servicer.adskeeper.co.uk,reject
 HOST-SUFFIX,serving-sys.com,reject
 HOST-SUFFIX,sestat.baidu.com,reject
-HOST-SUFFIX,setting.crashlytics.com,reject
 HOST-SUFFIX,setting.rayjump.com,reject
 HOST-SUFFIX,setting.snswin.qq.com,reject
-HOST-SUFFIX,settings.crashlytics.com,reject
 HOST-SUFFIX,sezvc.com,reject
 HOST-SUFFIX,sfloushi.com,reject
 HOST-SUFFIX,sg536.cn,reject
