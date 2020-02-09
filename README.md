@@ -2,8 +2,10 @@
 需直连防广告拦截的域名,iOS应用企业证书吊销依旧可用
 
 2Ad.list 
-广告拦截,修改自 
+广告拦截,直接reject,删除对crashlytics.com的拦截,修改自 
 https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/AdBlock.list
+
+3Speedtest.list
 
 4NoGFW.list 
 可直连不需代理的域名,提取自 
@@ -27,8 +29,11 @@ GFW全域名列表,提取自
 http://s5s5.github.io/GFWListToSurgeRule.js/
 
 9CN.list 
-国内域名直连,删除 DOMAIN-SUFFIX,cn,DIRECT 以及 GEOIP,CN,DIRECT 提取自 
+国内域名直连,删除 DOMAIN-SUFFIX,cn,DIRECT 以及 GEOIP,CN,DIRECT ,提取Apple和Speedtest规则,提取自 
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/China.list
+
+10Apple.list
+从9CN中单列出来
 
 11IP.list 国内/香港IP直连
 
