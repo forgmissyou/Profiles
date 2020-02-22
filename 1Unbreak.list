@@ -1,10 +1,15 @@
 # Unbreak
 # > General
-DOMAIN,app.adjust.com,DIRECT
+HOST,app.adjust.com,DIRECT
 # > Google
-DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
+HOST-SUFFIX,googletraveladservices.com,DIRECT
+HOST,dl.google.com,DIRECT
+HOST,mtalk.google.com,DIRECT
 # > Tencent
-DOMAIN,livew.l.qq.com,DIRECT
-DOMAIN,vd.l.qq.com,DIRECT
+HOST,livew.l.qq.com,DIRECT
+HOST,vd.l.qq.com,DIRECT
 # > apple cert
-DOMAIN,ocsp.apple.com,REJECT
+HOST,ocsp.apple.com,REJECT
+# > Umeng
+HOST,msg.umeng.com,DIRECT
+HOST,msg.umengcloud.com,DIRECT
