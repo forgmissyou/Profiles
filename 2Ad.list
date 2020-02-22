@@ -1,4 +1,3 @@
-# From https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/AdBlock.list
 # Ads in Video apps
 # > iQIYI & PPS
 HOST-SUFFIX,a.ckm.iqiyi.com,reject
