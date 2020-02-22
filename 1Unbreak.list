@@ -3,13 +3,8 @@
 HOST,app.adjust.com,DIRECT
 # > Google
 HOST-SUFFIX,googletraveladservices.com,DIRECT
-HOST,dl.google.com,DIRECT
-HOST,mtalk.google.com,DIRECT
 # > Tencent
 HOST,livew.l.qq.com,DIRECT
 HOST,vd.l.qq.com,DIRECT
 # > apple cert
 HOST,ocsp.apple.com,REJECT
-# > Umeng
-HOST,msg.umeng.com,DIRECT
-HOST,msg.umengcloud.com,DIRECT
