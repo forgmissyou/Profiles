@@ -1,13 +1,16 @@
 # > Apple
-HOST-SUFFIX,aaplimg.com,Apple
-HOST-SUFFIX,apple.co,Apple
-HOST-SUFFIX,apple.com,Apple
-HOST-SUFFIX,apple-cloudkit.com,Apple
-HOST-SUFFIX,appstore.com,Apple
-HOST-SUFFIX,cdn-apple.com,Apple
-HOST-SUFFIX,crashlytics.com,Apple
+USER-AGENT,AppStore*,Apple
+USER-AGENT,com.apple.appstored*,Apple
+USER-AGENT,TestFlight*,Apple
 HOST-SUFFIX,icloud.com,Apple
 HOST-SUFFIX,icloud-content.com,Apple
-HOST-SUFFIX,me.com,Apple
-HOST-SUFFIX,mzstatic.com,Apple
-HOST,www-cdn.icloud.com.akadns.net,Apple
+HOST-SUFFIX,aaplimg.com,DIRECT
+HOST-SUFFIX,apple.co,DIRECT
+HOST-SUFFIX,apple.com,DIRECT
+HOST-SUFFIX,apple-cloudkit.com,DIRECT
+HOST-SUFFIX,appstore.com,DIRECT
+HOST-SUFFIX,cdn-apple.com,DIRECT
+HOST-SUFFIX,crashlytics.com,DIRECT
+HOST-SUFFIX,me.com,DIRECT
+HOST-SUFFIX,mzstatic.com,DIRECT
+HOST,www-cdn.icloud.com.akadns.net,DIRECT
