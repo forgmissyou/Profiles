@@ -1,4 +1,3 @@
 # > Speed Test
-HOST-SUFFIX,speedtest.net,Speedtest
-HOST-SUFFIX,netspeedtestmaster.com,Speedtest
-HOST,speedtest.macpaw.com,Speedtest
+USER-AGENT,SpeedTest*,Speedtest
+HOST-KEYWORD,speedtest,Speedtest
