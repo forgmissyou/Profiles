@@ -2,178 +2,178 @@
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*,GFWmedia
-HOST-SUFFIX,deezer.com,GFWmedia
-HOST-SUFFIX,dzcdn.net,GFWmedia
+DOMAIN-SUFFIX,deezer.com,GFWmedia
+DOMAIN-SUFFIX,dzcdn.net,GFWmedia
 # > KKBOX
-HOST-SUFFIX,kkbox.com,GFWmedia
-HOST-SUFFIX,kkbox.com.tw,GFWmedia
-HOST-SUFFIX,kfs.io,GFWmedia
+DOMAIN-SUFFIX,kkbox.com,GFWmedia
+DOMAIN-SUFFIX,kkbox.com.tw,GFWmedia
+DOMAIN-SUFFIX,kfs.io,GFWmedia
 # > JOOX
 USER-AGENT,WeMusic*,GFWmedia
 USER-AGENT,JOOX*,GFWmedia
-HOST-SUFFIX,joox.com,GFWmedia
+DOMAIN-SUFFIX,joox.com,GFWmedia
 # > Pandora
 USER-AGENT,Pandora*,GFWmedia
-HOST-SUFFIX,pandora.com,GFWmedia
+DOMAIN-SUFFIX,pandora.com,GFWmedia
 # > SoundCloud
 USER-AGENT,SoundCloud*,GFWmedia
-HOST-SUFFIX,p-cdn.us,GFWmedia
-HOST-SUFFIX,sndcdn.com,GFWmedia
-HOST-SUFFIX,soundcloud.com,GFWmedia
+DOMAIN-SUFFIX,p-cdn.us,GFWmedia
+DOMAIN-SUFFIX,sndcdn.com,GFWmedia
+DOMAIN-SUFFIX,soundcloud.com,GFWmedia
 # > Spotify
 USER-AGENT,Spotify*,GFWmedia
-HOST-SUFFIX,pscdn.co,GFWmedia
-HOST-SUFFIX,scdn.co,GFWmedia
-HOST-SUFFIX,spotify.com,GFWmedia
-HOST-SUFFIX,spoti.fi,GFWmedia
-HOST-KEYWORD,-spotify-com,GFWmedia
+DOMAIN-SUFFIX,pscdn.co,GFWmedia
+DOMAIN-SUFFIX,scdn.co,GFWmedia
+DOMAIN-SUFFIX,spotify.com,GFWmedia
+DOMAIN-SUFFIX,spoti.fi,GFWmedia
+DOMAIN-KEYWORD,-spotify-com,GFWmedia
 # > TIDAL
 USER-AGENT,TIDAL*,GFWmedia
-HOST-SUFFIX,tidal.com,GFWmedia
+DOMAIN-SUFFIX,tidal.com,GFWmedia
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*,GFWmedia
 USER-AGENT,YouTubeMusic*,GFWmedia
 # (Video)
 # > All4
 USER-AGENT,All4*,GFWmedia
-HOST-SUFFIX,c4assets.com,GFWmedia
-HOST-SUFFIX,channel4.com,GFWmedia
+DOMAIN-SUFFIX,c4assets.com,GFWmedia
+DOMAIN-SUFFIX,channel4.com,GFWmedia
 # > AbemaTV
 USER-AGENT,AbemaTV*,GFWmedia
-HOST-SUFFIX,abema.io,GFWmedia
-HOST-SUFFIX,ameba.jp,GFWmedia
-HOST-SUFFIX,abema.tv,GFWmedia
-HOST-SUFFIX,hayabusa.io,GFWmedia
-HOST,abematv.akamaized.net,GFWmedia
-HOST,ds-linear-abematv.akamaized.net,GFWmedia
-HOST,ds-vod-abematv.akamaized.net,GFWmedia
-HOST,linear-abematv.akamaized.net,GFWmedia
+DOMAIN-SUFFIX,abema.io,GFWmedia
+DOMAIN-SUFFIX,ameba.jp,GFWmedia
+DOMAIN-SUFFIX,abema.tv,GFWmedia
+DOMAIN-SUFFIX,hayabusa.io,GFWmedia
+DOMAIN,abematv.akamaized.net,GFWmedia
+DOMAIN,ds-linear-abematv.akamaized.net,GFWmedia
+DOMAIN,ds-vod-abematv.akamaized.net,GFWmedia
+DOMAIN,linear-abematv.akamaized.net,GFWmedia
 # > Amazon Prime Video
 USER-AGENT,InstantVideo.US*,GFWmedia
 USER-AGENT,Prime%20Video*,GFWmedia
-HOST-SUFFIX,aiv-cdn.net,GFWmedia
-HOST-SUFFIX,aiv-delivery.net,GFWmedia
-HOST-SUFFIX,amazonvideo.com,GFWmedia
-HOST-SUFFIX,primevideo.com,GFWmedia
-HOST,avodmp4s3ww-a.akamaihd.net,GFWmedia
-HOST,d25xi40x97liuc.cloudfront.net,GFWmedia
-HOST,dmqdd6hw24ucf.cloudfront.net,GFWmedia
-HOST,d22qjgkvxw22r6.cloudfront.net,GFWmedia
-HOST,d1v5ir2lpwr8os.cloudfront.net,GFWmedia
-HOST-KEYWORD,avoddashs,GFWmedia
+DOMAIN-SUFFIX,aiv-cdn.net,GFWmedia
+DOMAIN-SUFFIX,aiv-delivery.net,GFWmedia
+DOMAIN-SUFFIX,amazonvideo.com,GFWmedia
+DOMAIN-SUFFIX,primevideo.com,GFWmedia
+DOMAIN,avodmp4s3ww-a.akamaihd.net,GFWmedia
+DOMAIN,d25xi40x97liuc.cloudfront.net,GFWmedia
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,GFWmedia
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,GFWmedia
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,GFWmedia
+DOMAIN-KEYWORD,avoddashs,GFWmedia
 # > Bahamut
 USER-AGENT,Anime*,GFWmedia
-HOST-SUFFIX,bahamut.com.tw,GFWmedia
-HOST-SUFFIX,gamer.com.tw,GFWmedia
-HOST,gamer-cds.cdn.hinet.net,GFWmedia
-HOST,gamer2-cds.cdn.hinet.net,GFWmedia
+DOMAIN-SUFFIX,bahamut.com.tw,GFWmedia
+DOMAIN-SUFFIX,gamer.com.tw,GFWmedia
+DOMAIN,gamer-cds.cdn.hinet.net,GFWmedia
+DOMAIN,gamer2-cds.cdn.hinet.net,GFWmedia
 # > BBC iPlayer
 USER-AGENT,BBCiPlayer*,GFWmedia
-HOST-SUFFIX,bbc.co.uk,GFWmedia
-HOST-SUFFIX,bbci.co.uk,GFWmedia
-HOST-KEYWORD,bbcfmt,GFWmedia
-HOST-KEYWORD,uk-live,GFWmedia
+DOMAIN-SUFFIX,bbc.co.uk,GFWmedia
+DOMAIN-SUFFIX,bbci.co.uk,GFWmedia
+DOMAIN-KEYWORD,bbcfmt,GFWmedia
+DOMAIN-KEYWORD,uk-live,GFWmedia
 # > DAZN
 USER-AGENT,DAZN*,GFWmedia
-HOST-SUFFIX,dazn.com,GFWmedia
-HOST-SUFFIX,dazn-api.com,GFWmedia
-HOST,d151l6v8er5bdm.cloudfront.net,GFWmedia
-HOST-KEYWORD,voddazn,GFWmedia
+DOMAIN-SUFFIX,dazn.com,GFWmedia
+DOMAIN-SUFFIX,dazn-api.com,GFWmedia
+DOMAIN,d151l6v8er5bdm.cloudfront.net,GFWmedia
+DOMAIN-KEYWORD,voddazn,GFWmedia
 # > Disney+
 USER-AGENT,Disney+*,GFWmedia
-HOST-SUFFIX,bamgrid.com,GFWmedia
-HOST-SUFFIX,disney-plus.net,GFWmedia
-HOST-SUFFIX,disneyplus.com,GFWmedia
-HOST-SUFFIX,dssott.com,GFWmedia
-HOST,cdn.registerdisney.go.com,GFWmedia
+DOMAIN-SUFFIX,bamgrid.com,GFWmedia
+DOMAIN-SUFFIX,disney-plus.net,GFWmedia
+DOMAIN-SUFFIX,disneyplus.com,GFWmedia
+DOMAIN-SUFFIX,dssott.com,GFWmedia
+DOMAIN,cdn.registerdisney.go.com,GFWmedia
 # > encoreTVB
 USER-AGENT,encoreTVB*,GFWmedia
-HOST-SUFFIX,encoretvb.com,GFWmedia
-HOST,edge.api.brightcove.com,GFWmedia
-HOST,bcbolt446c5271-a.akamaihd.net,GFWmedia
+DOMAIN-SUFFIX,encoretvb.com,GFWmedia
+DOMAIN,edge.api.brightcove.com,GFWmedia
+DOMAIN,bcbolt446c5271-a.akamaihd.net,GFWmedia
 # > FOX NOW
 USER-AGENT,FOX%20NOW*,GFWmedia
-HOST-SUFFIX,fox.com,GFWmedia
-HOST-SUFFIX,foxdcg.com,GFWmedia
-HOST-SUFFIX,theplatform.com,GFWmedia
-HOST-SUFFIX,uplynk.com,GFWmedia
+DOMAIN-SUFFIX,fox.com,GFWmedia
+DOMAIN-SUFFIX,foxdcg.com,GFWmedia
+DOMAIN-SUFFIX,theplatform.com,GFWmedia
+DOMAIN-SUFFIX,uplynk.com,GFWmedia
 # > HBO NOW
 USER-AGENT,HBO%20NOW*,GFWmedia
-HOST-SUFFIX,hbo.com,GFWmedia
-HOST-SUFFIX,hbogo.com,GFWmedia
-HOST-SUFFIX,hbonow.com,GFWmedia
+DOMAIN-SUFFIX,hbo.com,GFWmedia
+DOMAIN-SUFFIX,hbogo.com,GFWmedia
+DOMAIN-SUFFIX,hbonow.com,GFWmedia
 # > HBO GO HKG
 USER-AGENT,HBO%20GO%20PROD%20HKG*,GFWmedia
-HOST-SUFFIX,hbogoasia.com,GFWmedia
-HOST-SUFFIX,hbogoasia.hk,GFWmedia
-HOST,bcbolthboa-a.akamaihd.net,GFWmedia
-HOST,players.brightcove.net,GFWmedia
-HOST,s3-ap-southeast-1.amazonaws.com,GFWmedia
-HOST,dai3fd1oh325y.cloudfront.net,GFWmedia
-HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,GFWmedia
-HOST,hboasia1-i.akamaihd.net,GFWmedia
-HOST,hboasia2-i.akamaihd.net,GFWmedia
-HOST,hboasia3-i.akamaihd.net,GFWmedia
-HOST,hboasia4-i.akamaihd.net,GFWmedia
-HOST,hboasia5-i.akamaihd.net,GFWmedia
-HOST,cf-images.ap-southeast-1.prod.boltdns.net,GFWmedia
+DOMAIN-SUFFIX,hbogoasia.com,GFWmedia
+DOMAIN-SUFFIX,hbogoasia.hk,GFWmedia
+DOMAIN,bcbolthboa-a.akamaihd.net,GFWmedia
+DOMAIN,players.brightcove.net,GFWmedia
+DOMAIN,s3-ap-southeast-1.amazonaws.com,GFWmedia
+DOMAIN,dai3fd1oh325y.cloudfront.net,GFWmedia
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,GFWmedia
+DOMAIN,hboasia1-i.akamaihd.net,GFWmedia
+DOMAIN,hboasia2-i.akamaihd.net,GFWmedia
+DOMAIN,hboasia3-i.akamaihd.net,GFWmedia
+DOMAIN,hboasia4-i.akamaihd.net,GFWmedia
+DOMAIN,hboasia5-i.akamaihd.net,GFWmedia
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,GFWmedia
 # > 华文电视
 USER-AGENT,HWTVMobile*,GFWmedia
-HOST-SUFFIX,5itv.tv,GFWmedia
-HOST-SUFFIX,ocnttv.com,GFWmedia
+DOMAIN-SUFFIX,5itv.tv,GFWmedia
+DOMAIN-SUFFIX,ocnttv.com,GFWmedia
 # > Hulu
-HOST-SUFFIX,hulu.com,GFWmedia
-HOST-SUFFIX,huluim.com,GFWmedia
-HOST-SUFFIX,hulustream.com,GFWmedia
+DOMAIN-SUFFIX,hulu.com,GFWmedia
+DOMAIN-SUFFIX,huluim.com,GFWmedia
+DOMAIN-SUFFIX,hulustream.com,GFWmedia
 # > Hulu(フールー)
-HOST-SUFFIX,happyon.jp,GFWmedia
-HOST-SUFFIX,hulu.jp,GFWmedia
+DOMAIN-SUFFIX,happyon.jp,GFWmedia
+DOMAIN-SUFFIX,hulu.jp,GFWmedia
 # > ITV
 USER-AGENT,ITV_Player*,GFWmedia
-HOST-SUFFIX,itv.com,GFWmedia
-HOST-SUFFIX,itvstatic.com,GFWmedia
-HOST,itvpnpmobile-a.akamaihd.net,GFWmedia
+DOMAIN-SUFFIX,itv.com,GFWmedia
+DOMAIN-SUFFIX,itvstatic.com,GFWmedia
+DOMAIN,itvpnpmobile-a.akamaihd.net,GFWmedia
 # > KKTV
 USER-AGENT,KKTV*,GFWmedia
 USER-AGENT,com.kktv.ios.kktv*,GFWmedia
-HOST-SUFFIX,kktv.com.tw,GFWmedia
-HOST-SUFFIX,kktv.me,GFWmedia
-HOST,kktv-theater.kk.stream,GFWmedia
+DOMAIN-SUFFIX,kktv.com.tw,GFWmedia
+DOMAIN-SUFFIX,kktv.me,GFWmedia
+DOMAIN,kktv-theater.kk.stream,GFWmedia
 # > Line TV
 USER-AGENT,LINE%20TV*,GFWmedia
-HOST-SUFFIX,linetv.tw,GFWmedia
-HOST,d3c7rimkq79yfu.cloudfront.net,GFWmedia
+DOMAIN-SUFFIX,linetv.tw,GFWmedia
+DOMAIN,d3c7rimkq79yfu.cloudfront.net,GFWmedia
 # > LiTV
-HOST-SUFFIX,litv.tv,GFWmedia
-HOST,litvfreemobile-hichannel.cdn.hinet.net,GFWmedia
+DOMAIN-SUFFIX,litv.tv,GFWmedia
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,GFWmedia
 # > My5
 USER-AGENT,My5*,GFWmedia
-HOST-SUFFIX,channel5.com,GFWmedia
-HOST-SUFFIX,my5.tv,GFWmedia
-HOST,d349g9zuie06uo.cloudfront.net,GFWmedia
+DOMAIN-SUFFIX,channel5.com,GFWmedia
+DOMAIN-SUFFIX,my5.tv,GFWmedia
+DOMAIN,d349g9zuie06uo.cloudfront.net,GFWmedia
 # > myTV SUPER
 USER-AGENT,mytv*,GFWmedia
-HOST-SUFFIX,mytvsuper.com,GFWmedia
-HOST-SUFFIX,tvb.com,GFWmedia
+DOMAIN-SUFFIX,mytvsuper.com,GFWmedia
+DOMAIN-SUFFIX,tvb.com,GFWmedia
 # > Netflix
 USER-AGENT,Argo*,GFWmedia
-HOST-SUFFIX,netflix.com,GFWmedia
-HOST-SUFFIX,netflix.net,GFWmedia
-HOST-SUFFIX,nflxext.com,GFWmedia
-HOST-SUFFIX,nflximg.com,GFWmedia
-HOST-SUFFIX,nflximg.net,GFWmedia
-HOST-SUFFIX,nflxso.net,GFWmedia
-HOST-SUFFIX,nflxvideo.net,GFWmedia
-HOST-SUFFIX,netflixdnstest0.com,GFWmedia
-HOST-SUFFIX,netflixdnstest1.com,GFWmedia
-HOST-SUFFIX,netflixdnstest2.com,GFWmedia
-HOST-SUFFIX,netflixdnstest3.com,GFWmedia
-HOST-SUFFIX,netflixdnstest4.com,GFWmedia
-HOST-SUFFIX,netflixdnstest5.com,GFWmedia
-HOST-SUFFIX,netflixdnstest6.com,GFWmedia
-HOST-SUFFIX,netflixdnstest7.com,GFWmedia
-HOST-SUFFIX,netflixdnstest8.com,GFWmedia
-HOST-SUFFIX,netflixdnstest9.com,GFWmedia
+DOMAIN-SUFFIX,netflix.com,GFWmedia
+DOMAIN-SUFFIX,netflix.net,GFWmedia
+DOMAIN-SUFFIX,nflxext.com,GFWmedia
+DOMAIN-SUFFIX,nflximg.com,GFWmedia
+DOMAIN-SUFFIX,nflximg.net,GFWmedia
+DOMAIN-SUFFIX,nflxso.net,GFWmedia
+DOMAIN-SUFFIX,nflxvideo.net,GFWmedia
+DOMAIN-SUFFIX,netflixdnstest0.com,GFWmedia
+DOMAIN-SUFFIX,netflixdnstest1.com,GFWmedia
+DOMAIN-SUFFIX,netflixdnstest2.com,GFWmedia
+DOMAIN-SUFFIX,netflixdnstest3.com,GFWmedia
+DOMAIN-SUFFIX,netflixdnstest4.com,GFWmedia
+DOMAIN-SUFFIX,netflixdnstest5.com,GFWmedia
+DOMAIN-SUFFIX,netflixdnstest6.com,GFWmedia
+DOMAIN-SUFFIX,netflixdnstest7.com,GFWmedia
+DOMAIN-SUFFIX,netflixdnstest8.com,GFWmedia
+DOMAIN-SUFFIX,netflixdnstest9.com,GFWmedia
 IP-CIDR,23.246.0.0/18,GFWmedia
 IP-CIDR,37.77.184.0/21,GFWmedia
 IP-CIDR,45.57.0.0/17,GFWmedia
@@ -185,38 +185,38 @@ IP-CIDR,198.38.96.0/19,GFWmedia
 IP-CIDR,198.45.48.0/20,GFWmedia
 # > niconico
 USER-AGENT,Niconico*,GFWmedia
-HOST-SUFFIX,dmc.nico,GFWmedia
-HOST-SUFFIX,nicovideo.jp,GFWmedia
-HOST-SUFFIX,nimg.jp,GFWmedia
-HOST-SUFFIX,socdm.com,GFWmedia
+DOMAIN-SUFFIX,dmc.nico,GFWmedia
+DOMAIN-SUFFIX,nicovideo.jp,GFWmedia
+DOMAIN-SUFFIX,nimg.jp,GFWmedia
+DOMAIN-SUFFIX,socdm.com,GFWmedia
 # > PBS
 USER-AGENT,PBS*,GFWmedia
-HOST-SUFFIX,pbs.org,GFWmedia
+DOMAIN-SUFFIX,pbs.org,GFWmedia
 # > Pornhub
-HOST-SUFFIX,phncdn.com,GFWmedia
-HOST-SUFFIX,pornhub.com,GFWmedia
-HOST-SUFFIX,pornhubpremium.com,GFWmedia
+DOMAIN-SUFFIX,phncdn.com,GFWmedia
+DOMAIN-SUFFIX,pornhub.com,GFWmedia
+DOMAIN-SUFFIX,pornhubpremium.com,GFWmedia
 # > 台湾好
 USER-AGENT,TaiwanGood*,GFWmedia
-HOST-SUFFIX,skyking.com.tw,GFWmedia
-HOST,hamifans.emome.net,GFWmedia
+DOMAIN-SUFFIX,skyking.com.tw,GFWmedia
+DOMAIN,hamifans.emome.net,GFWmedia
 # > Twitch
-HOST-SUFFIX,twitch.tv,GFWmedia
-HOST-SUFFIX,twitchcdn.net,GFWmedia
-HOST-SUFFIX,ttvnw.net,GFWmedia
-HOST-SUFFIX,jtvnw.net,GFWmedia
+DOMAIN-SUFFIX,twitch.tv,GFWmedia
+DOMAIN-SUFFIX,twitchcdn.net,GFWmedia
+DOMAIN-SUFFIX,ttvnw.net,GFWmedia
+DOMAIN-SUFFIX,jtvnw.net,GFWmedia
 # > ViuTV
 USER-AGENT,Viu*,GFWmedia
 USER-AGENT,ViuTV*,GFWmedia
-HOST-SUFFIX,viu.com,GFWmedia
-HOST-SUFFIX,viu.tv,GFWmedia
-HOST,api.viu.now.com,GFWmedia
-HOST,d1k2us671qcoau.cloudfront.net,GFWmedia
-HOST,d2anahhhmp1ffz.cloudfront.net,GFWmedia
-HOST,dfp6rglgjqszk.cloudfront.net,GFWmedia
+DOMAIN-SUFFIX,viu.com,GFWmedia
+DOMAIN-SUFFIX,viu.tv,GFWmedia
+DOMAIN,api.viu.now.com,GFWmedia
+DOMAIN,d1k2us671qcoau.cloudfront.net,GFWmedia
+DOMAIN,d2anahhhmp1ffz.cloudfront.net,GFWmedia
+DOMAIN,dfp6rglgjqszk.cloudfront.net,GFWmedia
 # > YouTube
 USER-AGENT,com.google.ios.youtube*,GFWmedia
 USER-AGENT,YouTube*,GFWmedia
-HOST-SUFFIX,googlevideo.com,GFWmedia
-HOST-SUFFIX,youtube.com,GFWmedia
-HOST,youtubei.googleapis.com,GFWmedia
+DOMAIN-SUFFIX,googlevideo.com,GFWmedia
+DOMAIN-SUFFIX,youtube.com,GFWmedia
+DOMAIN,youtubei.googleapis.com,GFWmedia
