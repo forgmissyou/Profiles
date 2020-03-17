@@ -1,10 +1,10 @@
 # Unbreak
 # > General
-HOST,app.adjust.com,DIRECT
+DOMAIN,app.adjust.com,DIRECT
 # > Google
-HOST-SUFFIX,googletraveladservices.com,DIRECT
+DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
 # > Tencent
-HOST,livew.l.qq.com,DIRECT
-HOST,vd.l.qq.com,DIRECT
+DOMAIN,livew.l.qq.com,DIRECT
+DOMAIN,vd.l.qq.com,DIRECT
 # > apple cert
-HOST,ocsp.apple.com,REJECT
+DOMAIN,ocsp.apple.com,REJECT
