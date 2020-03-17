@@ -1,4 +1,4 @@
 # > Gmail
-HOST,pop.gmail.com,Mail
-HOST,imap.gmail.com,Mail
-HOST,smtp.gmail.com,Mail
+DOMAIN,pop.gmail.com,Mail
+DOMAIN,imap.gmail.com,Mail
+DOMAIN,smtp.gmail.com,Mail
