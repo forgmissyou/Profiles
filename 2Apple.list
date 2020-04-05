@@ -1,8 +1,8 @@
 # > Apple
 DOMAIN,ocsp.apple.com,REJECT
 
-DOMAIN-SUFFIX,aaplimg.com,DIRECT
-DOMAIN-SUFFIX,akadns.net,DIRECT
+DOMAIN-SUFFIX,aaplimg.com,Apple
+DOMAIN-SUFFIX,akadns.net,Apple
 DOMAIN-SUFFIX,apple.co,Apple
 DOMAIN-SUFFIX,apple.com,Apple
 DOMAIN-SUFFIX,apple.com.cn,Apple
