@@ -1,10 +1,5 @@
 # Unbreak
-# > General
-DOMAIN,app.adjust.com,DIRECT
 # > Google
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
-# > Tencent
-DOMAIN,livew.l.qq.com,DIRECT
-DOMAIN,vd.l.qq.com,DIRECT
 # > apple cert
 DOMAIN,ocsp.apple.com,REJECT
