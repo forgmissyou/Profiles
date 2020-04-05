@@ -1,5 +1,0 @@
-# Unbreak
-# > Google
-DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
-# > apple cert
-DOMAIN,ocsp.apple.com,REJECT
