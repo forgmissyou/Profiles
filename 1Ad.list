@@ -1,6 +1,7 @@
 # REJECT
 
 # > Client
+DOMAIN-KEYWORD,adjust,reject
 DOMAIN-KEYWORD,admaster,reject
 DOMAIN-KEYWORD,admdfs,reject
 DOMAIN-KEYWORD,adnewnc,reject
