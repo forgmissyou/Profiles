@@ -1,6 +1,3 @@
-0Unbreak.list 
-需直连防广告拦截的域名,iOS应用企业证书吊销依旧可用,參考
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Unbreak.list
 
 1Ad.list 
 广告拦截,直接reject,删除对crashlytics.com的拦截,修改自 
