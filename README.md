@@ -1,7 +1,7 @@
 
 1Ad.list 
 广告拦截,直接reject,删除对crashlytics.com的拦截,修改自 
-https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/AdBlock.list
+https://raw.githubusercontent.com/scomper/Surge/master/surge.conf
 
 2Apple.list
 从9CN中单列出来
