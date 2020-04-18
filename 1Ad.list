@@ -213,7 +213,7 @@ DOMAIN-SUFFIX,log2.air.yoyi.com.cn,reject
 DOMAIN-SUFFIX,m.adpro.cn,reject
 DOMAIN-SUFFIX,m.gdt.vip1790.cn,reject
 DOMAIN-SUFFIX,m.panda.voiceads.cn,reject
-DOMAIN-SUFFIX,m.qpic.cn,reject
+;DOMAIN-SUFFIX,m.qpic.cn,reject
 DOMAIN-SUFFIX,m.reachmax.cn,reject
 DOMAIN-SUFFIX,m.rmuqvq.cn,reject
 DOMAIN-SUFFIX,m.rwganw.cn,reject
