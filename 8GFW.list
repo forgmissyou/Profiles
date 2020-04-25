@@ -1,4 +1,7 @@
 # GFW
+
+DOMAIN-SUFFIX,aia.com,GFW
+DOMAIN-SUFFIX,aia.com.hk,GFW
 DOMAIN-SUFFIX,compressor.io,GFW
 DOMAIN-SUFFIX,feed43.com,GFW
 DOMAIN-SUFFIX,feedx.net,GFW
