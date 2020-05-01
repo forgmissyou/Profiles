@@ -1,18 +1,18 @@
 
-1Ad.list 
+# 1Ad.list 
 广告拦截,直接reject,删除对crashlytics.com的拦截,修改自
 https://raw.githubusercontent.com/scomper/surge-list/master/adblock.list 
 https://raw.githubusercontent.com/scomper/surge-list/master/reject.list
 
-2Apple.list
-# 从9CN中单列出来
+# 2Apple.list
+从9CN中单列出来
 
-3Speedtest.list
+# 3Speedtest.list
 
-4NoGFW.list 
-# 可直连不需代理的域名,提取自
+# 4NoGFW.list 
+可直连不需代理的域名,提取自
 http://s5s5.github.io/GFWListToSurgeRule.js/
-# Google CN直连
+Google CN直连
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 
 5Mail.list 
