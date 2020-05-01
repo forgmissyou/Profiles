@@ -20,7 +20,8 @@ http://s5s5.github.io/GFWListToSurgeRule.js/
 Google CN直连
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 
-5Mail.list 
+5Mail.list
+
 Gmail走代理,复制
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Mail.list
 
@@ -29,6 +30,7 @@ https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter
 7GFWmedia.list
 
 境外视频音乐走代理,复制
+
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/GlobalMedia.list 
 
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
