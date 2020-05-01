@@ -10,10 +10,10 @@ https://raw.githubusercontent.com/scomper/surge-list/master/reject.list
 3Speedtest.list
 
 4NoGFW.list 
-可直连不需代理的域名,提取自
-# http://s5s5.github.io/GFWListToSurgeRule.js/
-Google CN直连
-# https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
+# 可直连不需代理的域名,提取自
+http://s5s5.github.io/GFWListToSurgeRule.js/
+# Google CN直连
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 
 5Mail.list 
 # Gmail走代理,复制 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Mail.list
