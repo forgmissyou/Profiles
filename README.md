@@ -21,22 +21,28 @@ Google CN直连
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 
 5Mail.list 
-Gmail走代理,复制 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Mail.list
+Gmail走代理,复制
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Mail.list
 
 6Telegram.list 
 
-7GFWmedia.list 
+7GFWmedia.list
+
 境外视频音乐走代理,复制
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/GlobalMedia.list 
-以及 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
+
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 
 8GFW.list 
+
 自用+GFW全域名列表,提取自
 http://s5s5.github.io/GFWListToSurgeRule.js/
 
 9CN.list 
+
 国内域名直连,删除 DOMAIN-SUFFIX,cn,DIRECT 以及 GEOIP,CN,DIRECT ,Apple和Speedtest规则,提取自
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/China.list
+
 中国云服务商IP直连
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 
