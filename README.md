@@ -48,6 +48,7 @@ http://s5s5.github.io/GFWListToSurgeRule.js/
 国内域名直连,删除 DOMAIN-SUFFIX,cn,DIRECT 以及 GEOIP,CN,DIRECT ,Apple和Speedtest规则,提取自
 
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/China.list
+
 中国云服务商IP直连
 
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
