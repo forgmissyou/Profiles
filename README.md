@@ -7,8 +7,13 @@ https://raw.githubusercontent.com/scomper/surge-list/master/adblock.list
 
 https://raw.githubusercontent.com/scomper/surge-list/master/reject.list
 
+1AdACL.list
+
+修改自
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
+
 2Apple.list
-从9CN中单列出来
 
 3Speedtest.list
 
@@ -22,7 +27,7 @@ https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 
 5Mail.list
 
-Gmail走代理,复制
+Gmail走代理,提取自
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Mail.list
 
 6Telegram.list 
@@ -37,7 +42,7 @@ https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 
 8GFW.list 
 
-自用+GFW全域名列表,提取自
+自用+GFW全域名列表,Google最后，提取自
 http://s5s5.github.io/GFWListToSurgeRule.js/
 
 9CN.list 
