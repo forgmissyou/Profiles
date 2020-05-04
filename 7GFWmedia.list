@@ -214,6 +214,7 @@ DOMAIN-SUFFIX,socdm.com,GFWmedia
 # > Pandora
 USER-AGENT,Pandora*,GFWmedia
 DOMAIN-SUFFIX,pandora.com,GFWmedia
+DOMAIN-SUFFIX,pandora.tv,GFWmedia
 # > PBS
 USER-AGENT,PBS*,GFWmedia
 DOMAIN-SUFFIX,pbs.org,GFWmedia
