@@ -1,5 +1,3 @@
-# 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
-
 # 广告关键词
 DOMAIN-KEYWORD,admarvel,reject
 DOMAIN-KEYWORD,admaster,reject
@@ -33,28 +31,6 @@ DOMAIN-KEYWORD,tracking,reject
 DOMAIN-KEYWORD,usage,reject
 DOMAIN-KEYWORD,wlmonitor,reject
 DOMAIN-KEYWORD,zjtoolbar,reject
-
-# 常见互联网公司广告域名
-# Google
-DOMAIN-SUFFIX,admob.com,reject
-DOMAIN-SUFFIX,ads.gmodules.com,reject
-DOMAIN-SUFFIX,ads.google.com,reject
-DOMAIN-SUFFIX,adservice.google.com,reject
-DOMAIN-SUFFIX,afd.l.google.com,reject
-DOMAIN-SUFFIX,badad.googleplex.com,reject
-DOMAIN-SUFFIX,csi.gstatic.com,reject
-DOMAIN-SUFFIX,doubleclick.com,reject
-DOMAIN-SUFFIX,doubleclick.net,reject
-DOMAIN-SUFFIX,google-analytics.com,reject
-DOMAIN-SUFFIX,googleadservices.com,reject
-DOMAIN-SUFFIX,googleadsserving.cn,reject
-DOMAIN-SUFFIX,googlecommerce.com,reject
-DOMAIN-SUFFIX,googlesyndication.com,reject
-DOMAIN-SUFFIX,mobileads.google.com,reject
-DOMAIN-SUFFIX,pagead-tpc.l.google.com,reject
-DOMAIN-SUFFIX,pagead.google.com,reject
-DOMAIN-SUFFIX,pagead.l.google.com,reject
-DOMAIN-SUFFIX,service.urchin.com,reject
 
 # 广告联盟-国内****************
 DOMAIN-SUFFIX,09mk.cn,reject
@@ -579,7 +555,6 @@ DOMAIN-SUFFIX,rubiconproject.com,reject
 DOMAIN-SUFFIX,sape.ru,reject
 DOMAIN-SUFFIX,scorecardresearch.com,reject
 DOMAIN-SUFFIX,segment.com,reject
-DOMAIN-SUFFIX,serving-sys.com,reject
 DOMAIN-SUFFIX,sharethis.com,reject
 DOMAIN-SUFFIX,smaato.com,reject
 DOMAIN-SUFFIX,smaato.net,reject
@@ -633,9 +608,6 @@ DOMAIN-SUFFIX,go.10086.cn,reject
 DOMAIN-SUFFIX,hivedata.cc,reject
 DOMAIN-SUFFIX,navi.gd.chinamobile.com,reject
 
-# 包含常用应用的各种去广告规则。
-# 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
-
 # 163
 DOMAIN-SUFFIX,a.youdao.com,reject
 DOMAIN-SUFFIX,adgeo.corp.163.com,reject
@@ -662,7 +634,6 @@ DOMAIN-SUFFIX,nc004x.corp.youdao.com,reject
 DOMAIN-SUFFIX,nc045x.corp.youdao.com,reject
 DOMAIN-SUFFIX,nex.corp.163.com,reject
 DOMAIN-SUFFIX,oimagea2.ydstatic.com,reject
-DOMAIN-SUFFIX,pagechoice.net,reject
 DOMAIN-SUFFIX,prom.gome.com.cn,reject
 DOMAIN-SUFFIX,push.126.net,reject
 DOMAIN-SUFFIX,qchannel0d.cn,reject
@@ -885,7 +856,6 @@ DOMAIN-SUFFIX,pups.baidu.com,reject
 DOMAIN-SUFFIX,pups.bdimg.com,reject
 DOMAIN-SUFFIX,push.music.baidu.com,reject
 DOMAIN-SUFFIX,push.zhanzhang.baidu.com,reject
-DOMAIN-SUFFIX,qchannel0d.cn,reject
 DOMAIN-SUFFIX,qianclick.baidu.com,reject
 DOMAIN-SUFFIX,release.baidu.com,reject
 DOMAIN-SUFFIX,res.limei.com,reject
@@ -1119,6 +1089,32 @@ DOMAIN-SUFFIX,wbclick.mobile.sina.cn,reject
 DOMAIN-SUFFIX,wbpctips.mobile.sina.cn,reject
 DOMAIN-SUFFIX,zymo.mps.weibo.com,reject
 
+# Sohu 搜狐
+DOMAIN-SUFFIX,888.tv.sohu.com,reject
+DOMAIN-SUFFIX,adnet.sohu.com,reject
+DOMAIN-SUFFIX,ads.sohu.com,reject
+DOMAIN-SUFFIX,aty.hd.sohu.com,reject
+DOMAIN-SUFFIX,aty.sohu.com,reject
+DOMAIN-SUFFIX,bd.hd.sohu.com,reject
+DOMAIN-SUFFIX,click.hd.sohu.com,reject
+DOMAIN-SUFFIX,click2.hd.sohu.com,reject
+DOMAIN-SUFFIX,ctr.hd.sohu.com,reject
+DOMAIN-SUFFIX,epro.sohu.com,reject
+DOMAIN-SUFFIX,go.sohu.com,reject
+DOMAIN-SUFFIX,golden1.sohu.com,reject
+DOMAIN-SUFFIX,hui.sohu.com,reject
+DOMAIN-SUFFIX,inte.sohu.com,reject
+DOMAIN-SUFFIX,lm.tv.sohu.com,reject
+DOMAIN-SUFFIX,pb.hd.sohu.com,reject
+DOMAIN-SUFFIX,push.tv.sohu.com,reject
+DOMAIN-SUFFIX,pv.hd.sohu.com,reject
+DOMAIN-SUFFIX,pv.sohu.com,reject
+DOMAIN-SUFFIX,um.hd.sohu.com,reject
+DOMAIN-SUFFIX,uranus.sohu.com,reject
+DOMAIN-SUFFIX,wan.sohu.com,reject
+DOMAIN-SUFFIX,wl.hd.sohu.com,reject
+DOMAIN-SUFFIX,yule.sohu.com,reject
+
 # Sougou
 DOMAIN-SUFFIX,123.sogou.com,reject
 DOMAIN-SUFFIX,123.sogoucdn.com,reject
@@ -1133,6 +1129,7 @@ DOMAIN-SUFFIX,galaxy.sogoucdn.com,reject
 DOMAIN-SUFFIX,golden1.sogou.com,reject
 DOMAIN-SUFFIX,goto.sogou.com,reject
 DOMAIN-SUFFIX,inte.sogou.com,reject
+DOMAIN-SUFFIX,inte.sogoucdn.com,reject
 DOMAIN-SUFFIX,iwan.sogou.com,reject
 DOMAIN-SUFFIX,lu.sogou.com,reject
 DOMAIN-SUFFIX,lu.sogoucdn.com,reject
@@ -1140,6 +1137,8 @@ DOMAIN-SUFFIX,pb.sogou.com,reject
 DOMAIN-SUFFIX,pd.sogou.com,reject
 DOMAIN-SUFFIX,pv.sogou.com,reject
 DOMAIN-SUFFIX,theta.sogou.com,reject
+DOMAIN-SUFFIX,theta.sogoucdn.com,reject
+DOMAIN-SUFFIX,uranus.sogou.com,reject
 DOMAIN-SUFFIX,wan.sogou.com,reject
 DOMAIN-SUFFIX,wangmeng.sogou.com,reject
 
@@ -1177,40 +1176,6 @@ DOMAIN-SUFFIX,ucsec1.ucweb.com,reject
 # Zhihu
 DOMAIN-SUFFIX,sugar.zhihu.com,reject
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com,reject
-
-# Sohu 搜狐
-DOMAIN-SUFFIX,888.tv.sohu.com,reject
-DOMAIN-SUFFIX,adnet.sohu.com,reject
-DOMAIN-SUFFIX,ads.sohu.com,reject
-DOMAIN-SUFFIX,aty.hd.sohu.com,reject
-DOMAIN-SUFFIX,aty.sohu.com,reject
-DOMAIN-SUFFIX,bd.hd.sohu.com,reject
-DOMAIN-SUFFIX,click.hd.sohu.com,reject
-DOMAIN-SUFFIX,click2.hd.sohu.com,reject
-DOMAIN-SUFFIX,ctr.hd.sohu.com,reject
-DOMAIN-SUFFIX,epro.sogou.com,reject
-DOMAIN-SUFFIX,epro.sohu.com,reject
-DOMAIN-SUFFIX,go.sohu.com,reject
-DOMAIN-SUFFIX,golden1.sogou.com,reject
-DOMAIN-SUFFIX,golden1.sohu.com,reject
-DOMAIN-SUFFIX,hui.sohu.com,reject
-DOMAIN-SUFFIX,inte.sogou.com,reject
-DOMAIN-SUFFIX,inte.sogoucdn.com,reject
-DOMAIN-SUFFIX,inte.sohu.com,reject
-DOMAIN-SUFFIX,lm.tv.sohu.com,reject
-DOMAIN-SUFFIX,lu.sogoucdn.com,reject
-DOMAIN-SUFFIX,pb.hd.sohu.com,reject
-DOMAIN-SUFFIX,push.tv.sohu.com,reject
-DOMAIN-SUFFIX,pv.hd.sohu.com,reject
-DOMAIN-SUFFIX,pv.sogou.com,reject
-DOMAIN-SUFFIX,pv.sohu.com,reject
-DOMAIN-SUFFIX,theta.sogoucdn.com,reject
-DOMAIN-SUFFIX,um.hd.sohu.com,reject
-DOMAIN-SUFFIX,uranus.sogou.com,reject
-DOMAIN-SUFFIX,uranus.sohu.com,reject
-DOMAIN-SUFFIX,wan.sohu.com,reject
-DOMAIN-SUFFIX,wl.hd.sohu.com,reject
-DOMAIN-SUFFIX,yule.sohu.com,reject
 
 # 常用网站广告,reject
 DOMAIN-SUFFIX,1.win7china.com,reject
