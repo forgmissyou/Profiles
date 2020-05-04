@@ -28,7 +28,6 @@ DOMAIN-SUFFIX,clientservices.googleapis.com,DIRECT
 DOMAIN-SUFFIX,cn.gravatar.com,DIRECT
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com,DIRECT
 DOMAIN-SUFFIX,crl.pki.goog,DIRECT
-DOMAIN-SUFFIX,csi.gstatic.com,DIRECT
 DOMAIN-SUFFIX,dl.google.com,DIRECT
 DOMAIN-SUFFIX,dl.l.google.com,DIRECT
 DOMAIN-SUFFIX,fonts.googleapis.com,DIRECT
@@ -69,6 +68,3 @@ DOMAIN-SUFFIX,translate.google.cn,DIRECT
 DOMAIN-SUFFIX,update.googleapis.com,DIRECT
 DOMAIN-SUFFIX,www-googletagmanager.l.google.com,DIRECT
 DOMAIN-SUFFIX,www.gstatic.com,DIRECT
-
-
-
