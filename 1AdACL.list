@@ -1,33 +1,16 @@
 # 广告关键词
-DOMAIN-KEYWORD,admarvel,reject
 DOMAIN-KEYWORD,admaster,reject
 DOMAIN-KEYWORD,adsage,reject
 DOMAIN-KEYWORD,adsensor,reject
-DOMAIN-KEYWORD,adservice,reject
-DOMAIN-KEYWORD,adsh,reject
-DOMAIN-KEYWORD,adsmogo,reject
 DOMAIN-KEYWORD,adsrvmedia,reject
-DOMAIN-KEYWORD,adsserving,reject
-DOMAIN-KEYWORD,adsystem,reject
 DOMAIN-KEYWORD,adwords,reject
-DOMAIN-KEYWORD,analysis,reject
-DOMAIN-KEYWORD,analytics,reject
 DOMAIN-KEYWORD,applovin,reject
-DOMAIN-KEYWORD,appsflyer,reject
-DOMAIN-KEYWORD,domob,reject
-DOMAIN-KEYWORD,duomeng,reject
 DOMAIN-KEYWORD,dwtrack,reject
-DOMAIN-KEYWORD,guanggao,reject
-DOMAIN-KEYWORD,lianmeng,reject
-DOMAIN-KEYWORD,monitor,reject
-DOMAIN-KEYWORD,omgmta,reject
 DOMAIN-KEYWORD,omniture,reject
 DOMAIN-KEYWORD,openx,reject
 DOMAIN-KEYWORD,partnerad,reject
 DOMAIN-KEYWORD,pingfore,reject
-DOMAIN-KEYWORD,socdm,reject
 DOMAIN-KEYWORD,supersonicads,reject
-DOMAIN-KEYWORD,tracking,reject
 DOMAIN-KEYWORD,usage,reject
 DOMAIN-KEYWORD,wlmonitor,reject
 DOMAIN-KEYWORD,zjtoolbar,reject
@@ -1038,7 +1021,6 @@ DOMAIN-SUFFIX,wtradv.market.xiaomi.com,reject
 DOMAIN-SUFFIX,xmpush.xiaomi.com,reject
 
 # QQ
-DOMAIN-KEYWORD,omgmtaw,reject
 DOMAIN-SUFFIX,act.qq.com,reject
 DOMAIN-SUFFIX,ad.qun.qq.com,reject
 DOMAIN-SUFFIX,adsfile.qq.com,reject
