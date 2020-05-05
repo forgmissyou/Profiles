@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,githubusercontent.com,GFW
 DOMAIN-SUFFIX,ifixit.com,GFW
 DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,v2ex.com,GFW
+DOMAIN,www.aia.com.hk,GFW
 
 DOMAIN,85.17.73.31,GFW
 DOMAIN,img.dlsite.jp,GFW
