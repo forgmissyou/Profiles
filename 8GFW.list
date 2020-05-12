@@ -15,6 +15,11 @@ DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,v2ex.com,GFW
 DOMAIN,www.aia.com.hk,GFW
 
+DOMAIN-SUFFIX,redditstatic.com,GFW
+DOMAIN-SUFFIX,redd.it,GFW
+DOMAIN-SUFFIX,redditmedia.com,GFW
+DOMAIN-SUFFIX,reddit.com,GFW
+
 DOMAIN,85.17.73.31,GFW
 DOMAIN,img.dlsite.jp,GFW
 DOMAIN,www.dmm.com,GFW
