@@ -15,6 +15,8 @@ DOMAIN-KEYWORD,usage,REJECT
 DOMAIN-KEYWORD,wlmonitor,REJECT
 DOMAIN-KEYWORD,zjtoolbar,REJECT
 
+DOMAIN-SUFFIX,pangolin.snssdk.com,REJECT
+
 # 广告联盟-国内****************
 DOMAIN-SUFFIX,09mk.cn,REJECT
 DOMAIN-SUFFIX,100peng.com,REJECT
