@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,githubusercontent.com,GFW
 DOMAIN-SUFFIX,ifixit.com,GFW
 DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,v2ex.com,GFW
-DOMAIN,www.aia.com.hk,GFW
+DOMAIN-SUFFIX,zaobao.com,GFW DOMAIN,www.aia.com.hk,GFW
 
 DOMAIN-SUFFIX,redditstatic.com,GFW
 DOMAIN-SUFFIX,redd.it,GFW
