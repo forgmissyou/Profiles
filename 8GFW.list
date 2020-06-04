@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,github.com,GFW
 DOMAIN-SUFFIX,github.io,GFW
 DOMAIN-SUFFIX,githubusercontent.com,GFW
 DOMAIN-SUFFIX,ifixit.com,GFW
+DOMAIN-SUFFIX,imgur.com,GFW
 DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,v2ex.com,GFW
 DOMAIN-SUFFIX,zaobao.com,GFW
@@ -27,7 +28,7 @@ DOMAIN,www.dmm.com,GFW
 DOMAIN,secure.hustler.com,GFW
 DOMAIN,hustlercash.com,GFW
 DOMAIN,www.hustlercash.com,GFW
-DOMAIN,imgur.com,GFW
+
 DOMAIN,www.m-sport.co.uk,GFW
 DOMAIN,www.nbc.com,GFW
 DOMAIN,mo.nightlife141.com,GFW
