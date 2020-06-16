@@ -1,5 +1,6 @@
 # GFW
 
+DOMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,compressor.io,GFW
 DOMAIN-SUFFIX,feed43.com,GFW
 DOMAIN-SUFFIX,feedx.net,GFW
