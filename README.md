@@ -1,11 +1,3 @@
-
-1Ad.list 
-广告拦截,直接reject,删除对crashlytics.com的拦截,修改自
-
-https://raw.githubusercontent.com/scomper/surge-list/master/adblock.list
-
-https://raw.githubusercontent.com/scomper/surge-list/master/reject.list
-
 1AdACL.list
 修改自
 
@@ -49,9 +41,6 @@ http://s5s5.github.io/GFWListToSurgeRule.js/
 
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/China.list
 
-中国云服务商IP直连
-
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 
 11IP.list 国内/香港IP直连
 
