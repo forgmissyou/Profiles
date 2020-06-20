@@ -1,5 +1,6 @@
 # GFW
 
+DOMAIN-SUFFIX,baby-kingdom.com,GFW
 DOMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,compressor.io,GFW
 DOMAIN-SUFFIX,feed43.com,GFW
@@ -11,6 +12,7 @@ DOMAIN-SUFFIX,gitbook.io,GFW
 DOMAIN-SUFFIX,github.com,GFW
 DOMAIN-SUFFIX,github.io,GFW
 DOMAIN-SUFFIX,githubusercontent.com,GFW
+DOMAIN-SUFFIX,hottg.com,GFW 
 DOMAIN-SUFFIX,ifixit.com,GFW
 DOMAIN-SUFFIX,imgur.com,GFW
 DOMAIN-SUFFIX,lihkg.com,GFW
