@@ -16,12 +16,14 @@ DOMAIN-SUFFIX,hottg.com,GFW
 DOMAIN-SUFFIX,ifixit.com,GFW
 DOMAIN-SUFFIX,imgur.com,GFW
 DOMAIN-SUFFIX,lihkg.com,GFW
+DOMAIN-SUFFIX,matters.news,GFW
 DOMAIN-SUFFIX,tingtalk.me,GFW
 DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,v2ex.com,GFW
 DOMAIN-SUFFIX,xixicats.com,GFW
 DOMAIN-SUFFIX,zaobao.com,GFW
 DOMAIN,www.aia.com.hk,GFW
+DOMAIN,aiaprod.appgreen.com,GFW
 
 DOMAIN-SUFFIX,redditstatic.com,GFW
 DOMAIN-SUFFIX,redd.it,GFW
