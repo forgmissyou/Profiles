@@ -1,34 +1,50 @@
 # GFW
 
-DOMAIN-SUFFIX,baby-kingdom.com,GFW
+# China
+DOMAIN-SUFFIX,umei.fun,GFW
+DOMAIN-SUFFIX,v2ex.com,GFW
+DOMAIN-SUFFIX,xixicats.com,GFW
+
+# foreign
+DOMAIN-SUFFIX,appcnt.com,GFW
 DOMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,compressor.io,GFW
-DOMAIN-SUFFIX,feed43.com,GFW
-DOMAIN-SUFFIX,feedx.net,GFW
 DOMAIN-SUFFIX,geacron.com,GFW
+DOMAIN-SUFFIX,ifixit.com,GFW
+DOMAIN-SUFFIX,imgur.com,GFW
+
+# TG
+DOMAIN-SUFFIX,6do.news,GFW
+DOMAIN-SUFFIX,baby-kingdom.com,GFW
+DOMAIN-SUFFIX,hket.com,GFW
+DOMAIN-SUFFIX,hottg.com,GFW
+DOMAIN-SUFFIX,lihkg.com,GFW
+DOMAIN-SUFFIX,matters.news,GFW
 DOMAIN-SUFFIX,pincong.rocks,GFW
+DOMAIN-SUFFIX,rthk.hk,GFW
+DOMAIN-SUFFIX,tingtalk.me,GFW
+DOMAIN-SUFFIX,zaobao.com,GFW
+
+# AIA
+DOMAIN,www.aia.com.hk,GFW
+DOMAIN,aiaprod.appgreen.com,GFW
+
+# Git
 DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
 DOMAIN-SUFFIX,github.com,GFW
 DOMAIN-SUFFIX,github.io,GFW
 DOMAIN-SUFFIX,githubusercontent.com,GFW
-DOMAIN-SUFFIX,hottg.com,GFW 
-DOMAIN-SUFFIX,ifixit.com,GFW
-DOMAIN-SUFFIX,imgur.com,GFW
-DOMAIN-SUFFIX,lihkg.com,GFW
-DOMAIN-SUFFIX,matters.news,GFW
-DOMAIN-SUFFIX,tingtalk.me,GFW
-DOMAIN-SUFFIX,umei.fun,GFW
-DOMAIN-SUFFIX,v2ex.com,GFW
-DOMAIN-SUFFIX,xixicats.com,GFW
-DOMAIN-SUFFIX,zaobao.com,GFW
-DOMAIN,www.aia.com.hk,GFW
-DOMAIN,aiaprod.appgreen.com,GFW
 
+# Reddit
 DOMAIN-SUFFIX,redditstatic.com,GFW
 DOMAIN-SUFFIX,redd.it,GFW
 DOMAIN-SUFFIX,redditmedia.com,GFW
 DOMAIN-SUFFIX,reddit.com,GFW
+
+# rss
+DOMAIN-SUFFIX,feed43.com,GFW
+DOMAIN-SUFFIX,feedx.net,GFW
 
 DOMAIN,85.17.73.31,GFW
 DOMAIN,img.dlsite.jp,GFW
