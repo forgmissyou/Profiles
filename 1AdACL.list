@@ -1158,6 +1158,15 @@ DOMAIN-SUFFIX,uc.ucweb.com,REJECT
 DOMAIN-SUFFIX,ucsec.ucweb.com,REJECT
 DOMAIN-SUFFIX,ucsec1.ucweb.com,REJECT
 
+# YouTube
+DOMAIN-SUFFIX,azabu-u.ac.jp,REJECT
+DOMAIN-SUFFIX,couchcoaster.jp,REJECT
+DOMAIN-SUFFIX,delivery.dmkt-sp.jp,REJECT
+DOMAIN-SUFFIX,ehg-youtube.hitbox.com,REJECT
+DOMAIN-SUFFIX,m-78.jp,REJECT
+DOMAIN-SUFFIX,nichibenren.or.jp,REJECT
+DOMAIN-SUFFIX,nicorette.co.kr,REJECT
+ 
 # Zhihu
 DOMAIN-SUFFIX,sugar.zhihu.com,REJECT
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com,REJECT
