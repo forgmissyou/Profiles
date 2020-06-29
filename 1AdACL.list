@@ -1168,8 +1168,8 @@ DOMAIN-SUFFIX,nichibenren.or.jp,REJECT
 DOMAIN-SUFFIX,nicorette.co.kr,REJECT
  
 # Zhihu
-DOMAIN-SUFFIX,sugar.zhihu.com,REJECT
-# DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com,REJECT
+# DOMAIN-SUFFIX,sugar.zhihu.com,REJECT
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com,REJECT
 
 # 常用网站广告,REJECT
 DOMAIN-SUFFIX,1.win7china.com,REJECT
