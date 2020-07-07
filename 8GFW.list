@@ -6,12 +6,15 @@ DOMAIN-SUFFIX,v2ex.com,GFW
 DOMAIN-SUFFIX,xixicats.com,GFW
 
 # foreign
+DOMAIN-SUFFIX,9to5mac.com,GFW
 DOMAIN-SUFFIX,appcnt.com,GFW
 DOMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,compressor.io,GFW
 DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,ifixit.com,GFW
 DOMAIN-SUFFIX,imgur.com,GFW
+DOMAIN-SUFFIX,quoracdn.net,GFW
+DOMAIN-SUFFIX,translatetheweb.com,GFW
 
 # TG
 DOMAIN-SUFFIX,6do.news,GFW
@@ -28,6 +31,7 @@ DOMAIN-SUFFIX,zaobao.com,GFW
 # AIA
 DOMAIN,www.aia.com.hk,GFW
 DOMAIN,aiaprod.appgreen.com,GFW
+DOMAIN-SUFFIX,aiaprod.4d.com.hk.s3.amazonaws.com,GFW
 
 # Git
 DOMAIN-SUFFIX,gitbook.com,GFW
