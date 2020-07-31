@@ -1,6 +1,6 @@
 # > Apple
 DOMAIN,ocsp.apple.com,REJECT
-DOMAIN,testflight.apple.com,Proxy
+DOMAIN,testflight.apple.com,PROXY
 DOMAIN-SUFFIX,aaplimg.com,Apple
 DOMAIN-SUFFIX,akadns.net,Apple
 DOMAIN-SUFFIX,apple.co,Apple
