@@ -6,11 +6,13 @@ DOMAIN-SUFFIX,v2ex.com,GFW
 DOMAIN-SUFFIX,xixicats.pw,GFW
 DOMAIN-SUFFIX,jinkela.pw,GFW
 DOMAIN,t.cn,GFW
+
 # foreign
 DOMAIN-SUFFIX,9to5mac.com,GFW
 DOMAIN-SUFFIX,appcnt.com,GFW
 DOMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,compressor.io,GFW
+DOMAIN-SUFFIX,free.com.tw,GFW
 DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,ifixit.com,GFW
 DOMAIN-SUFFIX,imgur.com,GFW
