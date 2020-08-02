@@ -61,7 +61,7 @@ DOMAIN,hustlercash.com,GFW
 DOMAIN,www.hustlercash.com,GFW
 
 DOMAIN,www.m-sport.co.uk,GFW
-DOMAIN,www.nbc.com,GFW
+# DOMAIN,www.nbc.com,GFW
 DOMAIN,mo.nightlife141.com,GFW
 DOMAIN,radiko.jp,GFW
 DOMAIN,riseup.net,GFW
@@ -398,7 +398,7 @@ DOMAIN,eromon.net,GFW
 DOMAIN,wiki.esu.im,GFW
 DOMAIN,etaiwannews.com,GFW
 DOMAIN,etvonline.hk,GFW
-DOMAIN,eeas.europa.eu,GFW
+# DOMAIN,eeas.europa.eu,GFW
 DOMAIN,evschool.net,GFW
 DOMAIN,blog.excite.co.jp,GFW
 DOMAIN,experts-univers.com,GFW
@@ -1034,7 +1034,7 @@ DOMAIN,savetibet.nl,GFW
 DOMAIN,savetibet.ru,GFW
 DOMAIN,savevid.com,GFW
 DOMAIN,sbme.me,GFW
-DOMAIN,www.sciencemag.org,GFW
+# DOMAIN,www.sciencemag.org,GFW
 DOMAIN,seapuff.com,GFW
 DOMAIN,domainhelp.search.com,GFW
 DOMAIN,news.seehua.com,GFW
