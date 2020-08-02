@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,v2ex.com,GFW
 DOMAIN-SUFFIX,xixicats.pw,GFW
 DOMAIN-SUFFIX,jinkela.pw,GFW
+DOMAIN,www.kylc.com,GFW
 DOMAIN,t.cn,GFW
 
 # foreign
@@ -18,6 +19,7 @@ DOMAIN-SUFFIX,ifixit.com,GFW
 DOMAIN-SUFFIX,imgur.com,GFW
 DOMAIN-SUFFIX,quoracdn.net,GFW
 DOMAIN-SUFFIX,translatetheweb.com,GFW
+DOMAIN,www.iavnight.com,GFW
 
 # TG
 DOMAIN-SUFFIX,6do.news,GFW
