@@ -179,7 +179,7 @@ DOMAIN,atchinese.com,GFW
 DOMAIN,atgfw.org,GFW
 DOMAIN,ice.audionow.com,GFW
 DOMAIN,azerimix.com,GFW
-DOMAIN,forum.baby-kingdom.com,GFW
+# DOMAIN,forum.baby-kingdom.com,GFW
 DOMAIN,babynet.com.hk,GFW
 DOMAIN,backtotiananmen.com,GFW
 DOMAIN,badoo.com,GFW
@@ -597,7 +597,7 @@ DOMAIN,hkbc.net,GFW
 DOMAIN,hkci.org.hk,GFW
 DOMAIN,hkday.net,GFW
 DOMAIN,hkdf.org,GFW
-DOMAIN,china.hket.com,GFW
+# DOMAIN,china.hket.com,GFW
 DOMAIN,hkfreezone.com,GFW
 DOMAIN,hkfront.org,GFW
 DOMAIN,m.hkgalden.com,GFW
@@ -1019,7 +1019,7 @@ DOMAIN,rfi.my,GFW
 DOMAIN,vds.rightster.com,GFW
 DOMAIN,riku.me,GFW
 DOMAIN,www2.rocketbbs.com,GFW
-DOMAIN,rthk.hk,GFW
+# DOMAIN,rthk.hk,GFW
 DOMAIN,rthk.org.hk,GFW
 DOMAIN,rti.org.tw,GFW
 DOMAIN,rukor.org,GFW
