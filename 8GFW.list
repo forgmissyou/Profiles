@@ -1,36 +1,34 @@
 # GFW
 
-# China
-DOMAIN-SUFFIX,umei.fun,GFW
-DOMAIN-SUFFIX,v2ex.com,GFW
+# Personal
 DOMAIN-SUFFIX,xixicats.pw,GFW
 DOMAIN-SUFFIX,jinkela.pw,GFW
-DOMAIN,www.kylc.com,GFW
-DOMAIN,t.cn,GFW
 
-# foreign
+DOMAIN,t.cn,GFW
+DOMAIN,www.iavnight.com,GFW
+DOMAIN,www.kylc.com,GFW
+DOMAIN-SUFFIX,6do.news,GFW
 DOMAIN-SUFFIX,9to5mac.com,GFW
 DOMAIN-SUFFIX,appcnt.com,GFW
+DOMAIN-SUFFIX,baby-kingdom.com,GFW
 DOMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,compressor.io,GFW
 DOMAIN-SUFFIX,free.com.tw,GFW
 DOMAIN-SUFFIX,geacron.com,GFW
-DOMAIN-SUFFIX,ifixit.com,GFW
-DOMAIN-SUFFIX,imgur.com,GFW
-DOMAIN-SUFFIX,quoracdn.net,GFW
-DOMAIN-SUFFIX,translatetheweb.com,GFW
-DOMAIN,www.iavnight.com,GFW
-
-# TG
-DOMAIN-SUFFIX,6do.news,GFW
-DOMAIN-SUFFIX,baby-kingdom.com,GFW
 DOMAIN-SUFFIX,hket.com,GFW
 DOMAIN-SUFFIX,hottg.com,GFW
+DOMAIN-SUFFIX,ifixit.com,GFW
+DOMAIN-SUFFIX,imgur.com,GFW
 DOMAIN-SUFFIX,lihkg.com,GFW
 DOMAIN-SUFFIX,matters.news,GFW
 DOMAIN-SUFFIX,pincong.rocks,GFW
+DOMAIN-SUFFIX,quoracdn.net,GFW
 DOMAIN-SUFFIX,rthk.hk,GFW
+DOMAIN-SUFFIX,tiktok.com,GFW
 DOMAIN-SUFFIX,tingtalk.me,GFW
+DOMAIN-SUFFIX,translatetheweb.com,GFW
+DOMAIN-SUFFIX,umei.fun,GFW
+DOMAIN-SUFFIX,v2ex.com,GFW
 DOMAIN-SUFFIX,zaobao.com,GFW
 
 # AIA
