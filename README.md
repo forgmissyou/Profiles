@@ -19,8 +19,7 @@ Google CN直连
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 
 5Mail.list
-Gmail走代理,提取自
-
+参考
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Mail.list
 
 6Telegram.list 
@@ -44,5 +43,5 @@ https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter
 
 11IP.list 国内/香港IP直连
 
-Rewrite.conf 修改自
+Rewrite.list 修改自
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Rewrite.conf
