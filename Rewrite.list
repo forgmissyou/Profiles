@@ -120,6 +120,6 @@ hostname = duckduckgo.com,mobi.360doc.com,acs.m.taobao.com,render.alipay.com,gui
 # Z
 # > zhihu
 // 再注入 CSS 进行优化
-^https:\/\/www\.zhihu\.com\/question url script-response-body zhihu.js
+^https:\/\/www\.zhihu\.com\/question url script-response-body zhihux.user.js
 // 去掉知乎的中间跳转。可选，记得加 mitmhost
 https?://link.zhihu.com/\?target=(https?)%3A//(.*) url 307 $1://$2
