@@ -61,7 +61,7 @@ hostname = duckduckgo.com,mobi.360doc.com,acs.m.taobao.com,render.alipay.com,gui
 # > 丁香医生
 ^https?:\/\/dxy\.com\/app\/i\/ask\/biz\/feed\/launch url reject-200
 # 抖音去广告去水印 (By Choler)
-^https://aweme-eagle(.*)\.snssdk\.com\/aweme/.+/(feed|aweme/post|follow/feed)/ url script-response-body Aweme.js
+^https://aweme-eagle(.*)\.snssdk\.com\/aweme/.+/(feed|aweme/post|follow/feed)/ url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Aweme.js
 
 # F
 # > 飞客茶馆
