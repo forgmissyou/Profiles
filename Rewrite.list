@@ -1,4 +1,4 @@
-hostname = duckduckgo.com,mobi.360doc.com,acs.m.taobao.com,render.alipay.com,guide-acs.m.taobao.com,m*.amap.com,pan.baidu.com,issuecdn.baidupcs.com,c.tieba.baidu.com,ss0.bdstatic.com,app.bilibili.com,manga.bilibili.com,app.api.ke.com,dxy.com,www.flyertea.com,api.m.mi.com,api.jr.mi.com,*.meituan.net,slapi.oray.net,api.yangkeduo.com,api.intsig.net,mp.weixin.qq.com,overseas.weico.cc,api.feng.com,edit.sinaapp.com,*.uve.weibo.com,weibointl.api.weibo.cn,link.zhihu.com,*.amemv.com, *.snssdk.com
+hostname = duckduckgo.com,mobi.360doc.com,acs.m.taobao.com,render.alipay.com,guide-acs.m.taobao.com,m*.amap.com,pan.baidu.com,issuecdn.baidupcs.com,c.tieba.baidu.com,ss0.bdstatic.com,app.bilibili.com,manga.bilibili.com,app.api.ke.com,dxy.com,www.flyertea.com,api.m.mi.com,api.jr.mi.com,*.meituan.net,slapi.oray.net,api.yangkeduo.com,api.intsig.net,mp.weixin.qq.com,overseas.weico.cc,api.feng.com,edit.sinaapp.com,*.uve.weibo.com,weibointl.api.weibo.cn,www.zhihu.com,link.zhihu.com,*.amemv.com, *.snssdk.com
 # Redirect Duckduckgo
 ^https:\/\/duckduckgo.com\/\?q=bd\+([^&]+).+ url 302 https://www.baidu.com/s?wd=$1
 ^https:\/\/duckduckgo.com\/\?q=by\+([^&]+).+ url 302 https://cn.bing.com/search?q=$1&go=Submit&qs=n&form=QBLH&sp=-1
@@ -119,7 +119,9 @@ hostname = duckduckgo.com,mobi.360doc.com,acs.m.taobao.com,render.alipay.com,gui
 
 # Z
 # > zhihu
-// 再注入 CSS 进行优化
+# 先重写到桌面版
+^https:\/\/www\.zhihu\.com\/ url request-header (\r\n)User-Agent:.+(\r\n) request-header $1User-Agent: Mozilla/5.0 (Windows Phone 10)$2
+# 再注入 CSS 进行优化
 ^https:\/\/www\.zhihu\.com\/question url script-response-body https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/zhihux.user.js
-// 去掉知乎的中间跳转。可选，记得加 mitmhost
+# 去掉知乎的中间跳转。可选，记得加 mitmhost
 ^https?://link.zhihu.com/\?target=(https?)%3A//(.*) url 307 $1://$2
