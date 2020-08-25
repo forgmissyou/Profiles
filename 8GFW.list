@@ -53,7 +53,10 @@ DOMAIN-SUFFIX,reddit.com,GFW
 
 # rss
 DOMAIN-SUFFIX,feed43.com,GFW
+DOMAIN-SUFFIX,feedly.com,GFW
 DOMAIN-SUFFIX,feedx.net,GFW
+DOMAIN-SUFFIX,inoreader.com,GFW
+DOMAIN-SUFFIX,rsshub.app,GFW
 
 DOMAIN,85.17.73.31,GFW
 DOMAIN,img.dlsite.jp,GFW
