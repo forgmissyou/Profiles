@@ -64,7 +64,6 @@ DOMAIN-SUFFIX,toolbarqueries.google.com,DIRECT
 DOMAIN-SUFFIX,tools.google.com,DIRECT
 DOMAIN-SUFFIX,tools.l.google.com,DIRECT
 DOMAIN-SUFFIX,translate.google.cn,DIRECT
-#DOMAIN-SUFFIX,translate.googleapis.com,DIRECT
 DOMAIN-SUFFIX,update.googleapis.com,DIRECT
 DOMAIN-SUFFIX,www-googletagmanager.l.google.com,DIRECT
 DOMAIN-SUFFIX,www.gstatic.com,DIRECT
