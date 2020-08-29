@@ -2,12 +2,6 @@
 # > 360
 DOMAIN-SUFFIX,qhres.com,DIRECT
 DOMAIN-SUFFIX,qhimg.com,DIRECT
-# > Akamai
-# DOMAIN-SUFFIX,akamai.net,DIRECT
-# DOMAIN-SUFFIX,akamaiedge.net,DIRECT
-# DOMAIN-SUFFIX,akamaihd.net,DIRECT
-# DOMAIN-SUFFIX,akamaistream.net,DIRECT
-# DOMAIN-SUFFIX,akamaized.net,DIRECT
 # > Alibaba
 USER-AGENT,%E4%BC%98%E9%85%B7*,DIRECT
 DOMAIN-SUFFIX,alibaba.com,DIRECT
@@ -79,16 +73,6 @@ DOMAIN-SUFFIX,mi-img.com,DIRECT
 DOMAIN-SUFFIX,miui.com,DIRECT
 DOMAIN-SUFFIX,miwifi.com,DIRECT
 DOMAIN-SUFFIX,xiaomi.com,DIRECT
-# > Microsoft
-DOMAIN-SUFFIX,microsoft.com,DIRECT
-DOMAIN-SUFFIX,msecnd.net,DIRECT
-DOMAIN-SUFFIX,office365.com,DIRECT
-DOMAIN-SUFFIX,outlook.com,DIRECT
-DOMAIN-SUFFIX,s-microsoft.com,DIRECT
-DOMAIN-SUFFIX,visualstudio.com,DIRECT
-DOMAIN-SUFFIX,windows.com,DIRECT
-DOMAIN-SUFFIX,windowsupdate.com,DIRECT
-DOMAIN,officecdn-microsoft-com.akamaized.net,DIRECT
 # > NetEase
 USER-AGENT,NeteaseMusic*,DIRECT
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,DIRECT
