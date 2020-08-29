@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,akamaized.net,GFWmedia
 DOMAIN-SUFFIX,amazonaws.com,GFWmedia
 
 DOMAIN-SUFFIX,cloudfront.net,GFWmedia
+DOMAIN-SUFFIX,hinet.net,GFWmedia
 
 # > ABC
 DOMAIN-SUFFIX,edgedatg.com,GFWmedia
