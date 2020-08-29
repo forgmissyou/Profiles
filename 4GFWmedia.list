@@ -161,7 +161,7 @@ DOMAIN-SUFFIX,mytvsuper.com,GFWmedia
 DOMAIN-SUFFIX,tvb.com,GFWmedia
 # > Netflix
 USER-AGENT,Argo*,GFWmedia
-DOMAIN,netflix.com.edgesuite.net,GFWmedia,GFWmedia
+DOMAIN,netflix.com.edgesuite.net,GFWmedia
 DOMAIN-SUFFIX,fast.com,GFWmedia
 DOMAIN-SUFFIX,netflix.com,GFWmedia
 DOMAIN-SUFFIX,netflix.net,GFWmedia
