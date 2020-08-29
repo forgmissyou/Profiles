@@ -1,6 +1,7 @@
 # NoGFW
 
 DOMAIN,nrch.culture.tw,DIRECT
+DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
 DOMAIN,ime.baidu.jp,DIRECT
 DOMAIN-SUFFIX,v6.facebook.com,DIRECT
 DOMAIN-SUFFIX,ip6.static.sl-reverse.com,DIRECT
