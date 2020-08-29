@@ -56,7 +56,6 @@ DOMAIN-SUFFIX,recaptcha.net,DIRECT
 DOMAIN-SUFFIX,redirector.gvt1.com,DIRECT
 DOMAIN-SUFFIX,safebrowsing-cache.google.com,DIRECT
 DOMAIN-SUFFIX,safebrowsing.googleapis.com,DIRECT
-DOMAIN-SUFFIX,settings.crashlytics.com,DIRECT
 DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,DIRECT
 DOMAIN-SUFFIX,ssl.gstatic.com,DIRECT
 DOMAIN-SUFFIX,storage.googleapis.com,DIRECT
