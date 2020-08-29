@@ -37,8 +37,6 @@ USER-AGENT,com.apple.news*,GFWmedia
 DOMAIN,gspe1-ssl.ls.apple.com,GFWmedia
 # > Bahamut
 USER-AGENT,Anime*,GFWmedia
-DOMAIN,gamer-cds.cdn.hinet.net,GFWmedia
-DOMAIN,gamer2-cds.cdn.hinet.net,GFWmedia
 DOMAIN-SUFFIX,bahamut.com.tw,GFWmedia
 DOMAIN-SUFFIX,gamer.com.tw,GFWmedia
 # > BBC iPlayer
@@ -48,13 +46,11 @@ DOMAIN-KEYWORD,uk-live,GFWmedia
 DOMAIN-SUFFIX,bbc.co,GFWmedia
 DOMAIN-SUFFIX,bbc.co.uk,GFWmedia
 DOMAIN-SUFFIX,bbc.com,GFWmedia
-DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net,GFWmedia
 DOMAIN-SUFFIX,bbci.co,GFWmedia
 DOMAIN-SUFFIX,bbci.co.uk,GFWmedia
 # > DAZN
 USER-AGENT,DAZN*,GFWmedia
 DOMAIN-KEYWORD,voddazn,GFWmedia
-DOMAIN,d151l6v8er5bdm.cloudfront.net,GFWmedia
 DOMAIN-SUFFIX,dazn.com,GFWmedia
 DOMAIN-SUFFIX,dazn-api.com,GFWmedia
 DOMAIN-SUFFIX,dazndn.com,GFWmedia
@@ -66,9 +62,6 @@ DOMAIN-SUFFIX,deezer.com,GFWmedia
 DOMAIN-SUFFIX,dzcdn.net,GFWmedia
 # > Disney+
 USER-AGENT,Disney+*,GFWmedia
-DOMAIN,cdn.cdn.unid.go.com,GFWmedia
-DOMAIN,cdn.registerdisney.go.com,GFWmedia
-DOMAIN,global.edge.bamgrid.com,GFWmedia
 DOMAIN-SUFFIX,bamgrid.com,GFWmedia
 DOMAIN-SUFFIX,braze.com,GFWmedia
 DOMAIN-SUFFIX,conviva.com,GFWmedia
@@ -120,8 +113,6 @@ USER-AGENT,ITV_Player*,GFWmedia
 DOMAIN-SUFFIX,itv.com,GFWmedia
 DOMAIN-SUFFIX,itvstatic.com,GFWmedia
 # > Japonx
-DOMAIN-KEYWORD,japonx,GFWmedia
-DOMAIN-KEYWORD,japronx,GFWmedia
 DOMAIN-SUFFIX,japonx.com,GFWmedia
 DOMAIN-SUFFIX,japonx.net,GFWmedia
 DOMAIN-SUFFIX,japonx.tv,GFWmedia
@@ -149,7 +140,6 @@ DOMAIN-SUFFIX,kktv.me,GFWmedia
 USER-AGENT,LINE%20TV*,GFWmedia
 DOMAIN-SUFFIX,linetv.tw,GFWmedia
 # > LiTV
-DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,GFWmedia
 DOMAIN-SUFFIX,litv.tv,GFWmedia
 # > My5
 USER-AGENT,My5*,GFWmedia
@@ -161,7 +151,6 @@ DOMAIN-SUFFIX,mytvsuper.com,GFWmedia
 DOMAIN-SUFFIX,tvb.com,GFWmedia
 # > Netflix
 USER-AGENT,Argo*,GFWmedia
-DOMAIN,netflix.com.edgesuite.net,GFWmedia
 DOMAIN-SUFFIX,fast.com,GFWmedia
 DOMAIN-SUFFIX,netflix.com,GFWmedia
 DOMAIN-SUFFIX,netflix.net,GFWmedia
@@ -232,7 +221,6 @@ DOMAIN-KEYWORD,spotify.com,GFWmedia
 DOMAIN-SUFFIX,pscdn.co,GFWmedia
 DOMAIN-SUFFIX,scdn.co,GFWmedia
 DOMAIN-SUFFIX,spoti.fi,GFWmedia
-DOMAIN-SUFFIX,spotify.com,GFWmedia
 DOMAIN-SUFFIX,spotifycdn.net,GFWmedia
 # > 台湾好
 USER-AGENT,TaiwanGood*,GFWmedia
@@ -256,7 +244,6 @@ DOMAIN-SUFFIX,tiktokv.com,GFWmedia
 # > Twitch
 DOMAIN-KEYWORD,ttvnw,GFWmedia
 DOMAIN-SUFFIX,jtvnw.net,GFWmedia
-DOMAIN-SUFFIX,ttvnw.net,GFWmedia
 DOMAIN-SUFFIX,twitch.tv,GFWmedia
 DOMAIN-SUFFIX,twitchcdn.net,GFWmedia
 # > ViuTV
@@ -275,12 +262,16 @@ DOMAIN-SUFFIX,viu.tv,GFWmedia
 USER-AGENT,com.google.ios.youtube*,GFWmedia
 USER-AGENT,YouTube*,GFWmedia
 USER-AGENT,*youtube*,GFWmedia
-DOMAIN-KEYWORD,youtube,GFWmedia
 DOMAIN,youtubei.googleapis.com,GFWmedia
 DOMAIN-SUFFIX,googlevideo.com,GFWmedia
 DOMAIN-SUFFIX,gvt2.com,GFWmedia
+DOMAIN-SUFFIX,withyoutube.com,GFWmedia
 DOMAIN-SUFFIX,youtu.be,GFWmedia
 DOMAIN-SUFFIX,youtube.com,GFWmedia
+DOMAIN-SUFFIX,youtube-nocookie.com,GFWmedia
+DOMAIN-SUFFIX,youtubeeducation.com,GFWmedia
+DOMAIN-SUFFIX,youtubegaming.com,GFWmedia
+DOMAIN-SUFFIX,yt.be,GFWmedia
 DOMAIN-SUFFIX,ytimg.com,GFWmedia
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*,GFWmedia
