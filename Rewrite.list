@@ -1,4 +1,5 @@
-hostname = duckduckgo.com,mobi.360doc.com,acs.m.taobao.com,render.alipay.com,guide-acs.m.taobao.com,m*.amap.com,pan.baidu.com,issuecdn.baidupcs.com,c.tieba.baidu.com,ss0.bdstatic.com,app.bilibili.com,manga.bilibili.com,app.api.ke.com,dxy.com,www.flyertea.com,api.m.mi.com,api.jr.mi.com,*.meituan.net,slapi.oray.net,api.yangkeduo.com,api.intsig.net,mp.weixin.qq.com,overseas.weico.cc,api.feng.com,edit.sinaapp.com,*.uve.weibo.com,weibointl.api.weibo.cn,link.zhihu.com
+hostname = duckduckgo.com,mobi.360doc.com,acs.m.taobao.com,render.alipay.com,guide-acs.m.taobao.com,m*.amap.com,pan.baidu.com,issuecdn.baidupcs.com,c.tieba.baidu.com,ss0.bdstatic.com,app.bilibili.com,manga.bilibili.com,app.api.ke.com,dxy.com,www.flyertea.com,api.m.mi.com,api.jr.mi.com,*.meituan.net,slapi.oray.net,api.yangkeduo.com,api.intsig.net,mp.weixin.qq.com,overseas.weico.cc,api.feng.com,edit.sinaapp.com,*.uve.weibo.com,weibointl.api.weibo.cn,link.zhihu.com,oia.zhihu.com
+
 # Redirect Duckduckgo
 ^https:\/\/duckduckgo.com\/\?q=bd\+([^&]+).+ url 302 https://www.baidu.com/s?wd=$1
 ^https:\/\/duckduckgo.com\/\?q=by\+([^&]+).+ url 302 https://cn.bing.com/search?q=$1&go=Submit&qs=n&form=QBLH&sp=-1
@@ -115,3 +116,6 @@ hostname = duckduckgo.com,mobi.360doc.com,acs.m.taobao.com,render.alipay.com,gui
 # > zhihu
 # 去掉知乎的中间跳转
 ^https?://link.zhihu.com/\?target=(https?)%3A//(.*) url 307 $1://$2
+# 知乎专栏跳转
+^https://oia\.zhihu\.com url 307 https://zhuanlan.zhihu.com
+
