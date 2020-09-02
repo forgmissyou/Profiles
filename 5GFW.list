@@ -1410,7 +1410,6 @@ DOMAIN,youngspiration.hk,GFW
 DOMAIN,yourlisten.com,GFW
 DOMAIN,yourlust.com,GFW
 DOMAIN,youshun12.com,GFW
-DOMAIN,youtubei.googleapis.com,GFW
 DOMAIN,ytht.net,GFW
 DOMAIN,yuanming.net,GFW
 DOMAIN,yx51.net,GFW
@@ -2830,6 +2829,7 @@ DOMAIN-SUFFIX,globalvpn.net,GFW
 DOMAIN-SUFFIX,glock.com,GFW
 DOMAIN-SUFFIX,glorystar.me,GFW
 DOMAIN-SUFFIX,glype.com,GFW
+DOMAIN-SUFFIX,gmail.com,GFW
 DOMAIN-SUFFIX,gmhz.org,GFW
 DOMAIN-SUFFIX,gmll.org,GFW
 DOMAIN-SUFFIX,gmodules.com,GFW
@@ -2860,7 +2860,6 @@ DOMAIN-SUFFIX,goodreads.com,GFW
 DOMAIN-SUFFIX,goodtv.com.tw,GFW
 DOMAIN-SUFFIX,goodtv.tv,GFW
 DOMAIN-SUFFIX,goofind.com,GFW
-DOMAIN-SUFFIX,googlevideo.com,GFW
 DOMAIN-SUFFIX,gopetition.com,GFW
 DOMAIN-SUFFIX,goproxing.net,GFW
 DOMAIN-SUFFIX,goregrish.com,GFW
@@ -4601,7 +4600,6 @@ DOMAIN-SUFFIX,sytes.net,GFW
 DOMAIN-SUFFIX,szbbs.net,GFW
 DOMAIN-SUFFIX,szetowah.org.hk,GFW
 DOMAIN-SUFFIX,t.co,GFW
-DOMAIN-SUFFIX,t.me,GFW
 DOMAIN-SUFFIX,t35.com,GFW
 DOMAIN-SUFFIX,t66y.com,GFW
 DOMAIN-SUFFIX,taaze.tw,GFW
@@ -4654,7 +4652,6 @@ DOMAIN-SUFFIX,tcpspeed.co,GFW
 DOMAIN-SUFFIX,tcpspeed.com,GFW
 DOMAIN-SUFFIX,tcsofbc.org,GFW
 DOMAIN-SUFFIX,tcsovi.org,GFW
-DOMAIN-SUFFIX,tdesktop.com,GFW
 DOMAIN-SUFFIX,tdm.com.mo,GFW
 DOMAIN-SUFFIX,teachparentstech.org,GFW
 DOMAIN-SUFFIX,techviz.net,GFW
