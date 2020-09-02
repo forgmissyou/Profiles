@@ -16,11 +16,6 @@ Google CN直连
 
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 
-4GFWmedia.list
-境外视频音乐走代理,修改
-
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
-
 5GFW.list 
 自用+GFW全域名列表,Google最后，提取自
 
