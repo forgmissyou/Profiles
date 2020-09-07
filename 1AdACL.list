@@ -871,7 +871,6 @@ DOMAIN-SUFFIX,tracker.baidu.com,REJECT
 DOMAIN-SUFFIX,tuijian.baidu.com,REJECT
 DOMAIN-SUFFIX,tuisong.baidu.cn,REJECT
 DOMAIN-SUFFIX,tuisong.baidu.com,REJECT
-DOMAIN-SUFFIX,uat1.bfsspadserver.8le8le.com,REJECT
 DOMAIN-SUFFIX,ubmcmm.baidustatic.com,REJECT
 DOMAIN-SUFFIX,ucstat.baidu.cn,REJECT
 DOMAIN-SUFFIX,ucstat.baidu.com,REJECT
@@ -1202,9 +1201,7 @@ DOMAIN-SUFFIX,ehg-youtube.hitbox.com,REJECT
 DOMAIN-SUFFIX,m-78.jp,REJECT
 DOMAIN-SUFFIX,nichibenren.or.jp,REJECT
 DOMAIN-SUFFIX,nicorette.co.kr,REJECT
-DOMAIN-SUFFIX,ssl-youtube.2cnt.net,REJECT
 DOMAIN-SUFFIX,youtube.112.2o7.net,REJECT
-DOMAIN-SUFFIX,youtube.2cnt.net,REJECT
 
 # Zhihu
 # DOMAIN-SUFFIX,sugar.zhihu.com,REJECT
