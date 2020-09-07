@@ -1,14 +1,6 @@
 # NoGFW
-DOMAIN,blog.ontrac.com,DIRECT
-DOMAIN,cdn.ampproject.org,DIRECT
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
-DOMAIN,ime.baidu.jp,DIRECT
 DOMAIN,nrch.culture.tw,DIRECT
-DOMAIN,store.sprite.org,DIRECT
-DOMAIN,www.ampproject.org,DIRECT
-DOMAIN,xx.wwwhost.biz,DIRECT
-DOMAIN-SUFFIX,v6.facebook.com,DIRECT
-DOMAIN-SUFFIX,ip6.static.sl-reverse.com,DIRECT
 
 # Google China
 DOMAIN,translate.google.cn,DIRECT
@@ -16,7 +8,6 @@ DOMAIN-SUFFIX,265.com,DIRECT
 DOMAIN-SUFFIX,clientservices.googleapis.com,DIRECT
 DOMAIN-SUFFIX,cn.gravatar.com,DIRECT
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com,DIRECT
-DOMAIN-SUFFIX,csi.gstatic.com,DIRECT
 DOMAIN-SUFFIX,dl.google.com,DIRECT
 DOMAIN-SUFFIX,fonts.googleapis.com,DIRECT
 DOMAIN-SUFFIX,fonts.gstatic.com,DIRECT
