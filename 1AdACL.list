@@ -687,12 +687,11 @@ DOMAIN-SUFFIX,srd.simba.taobao.com,REJECT
 DOMAIN-SUFFIX,strip.taobaocdn.com,REJECT
 DOMAIN-SUFFIX,tns.simba.taobao.com,REJECT
 DOMAIN-SUFFIX,tyh.taobao.com,REJECT
-DOMAIN-SUFFIX,userimg.qunar.com,REJECT
-DOMAIN-SUFFIX,yiliao.hupan.com,REJECT
 
 # Apple
 DOMAIN,ocsp.apple.com,REJECT
 DOMAIN-SUFFIX,adserver.unityads.unity3d.com,REJECT
+DOMAIN-SUFFIX,iadsdk.apple.com,REJECT
 
 # Baidu
 DOMAIN-SUFFIX,a.baidu.cn,REJECT
@@ -725,7 +724,6 @@ DOMAIN-SUFFIX,baidutv.baidu.com,REJECT
 DOMAIN-SUFFIX,baikebcs.bdimg.com,REJECT
 DOMAIN-SUFFIX,banlv.baidu.com,REJECT
 DOMAIN-SUFFIX,bar.baidu.com,REJECT
-DOMAIN-SUFFIX,bdimg.share.baidu.com,REJECT
 DOMAIN-SUFFIX,bdplus.baidu.com,REJECT
 DOMAIN-SUFFIX,btlaunch.baidu.com,REJECT
 DOMAIN-SUFFIX,c.baidu.cn,REJECT
@@ -740,10 +738,8 @@ DOMAIN-SUFFIX,cjhq.baidu.cn,REJECT
 DOMAIN-SUFFIX,cjhq.baidu.com,REJECT
 DOMAIN-SUFFIX,cleaner.baidu.com,REJECT
 DOMAIN-SUFFIX,click.bes.baidu.com,REJECT
-DOMAIN-SUFFIX,click.hm.baidu.com,REJECT
 DOMAIN-SUFFIX,click.qianqian.com,REJECT
 DOMAIN-SUFFIX,cm.baidu.com,REJECT
-DOMAIN-SUFFIX,cm.pos.baidu.com,REJECT
 DOMAIN-SUFFIX,cpro.baidu.cn,REJECT
 DOMAIN-SUFFIX,cpro.baidu.com,REJECT
 DOMAIN-SUFFIX,cpro.baidustatic.com,REJECT
@@ -846,14 +842,11 @@ DOMAIN-SUFFIX,rp.baidu.cn,REJECT
 DOMAIN-SUFFIX,rp.baidu.com,REJECT
 DOMAIN-SUFFIX,rplog.baidu.com,REJECT
 DOMAIN-SUFFIX,s.baidu.com,REJECT
-DOMAIN-SUFFIX,s.cpro.baidu.com,REJECT
-DOMAIN-SUFFIX,sa.tuisong.baidu.com,REJECT
 DOMAIN-SUFFIX,sclick.baidu.com,REJECT
 DOMAIN-SUFFIX,sestat.baidu.com,REJECT
 DOMAIN-SUFFIX,shadu.baidu.com,REJECT
 DOMAIN-SUFFIX,share.baidu.com,REJECT
 DOMAIN-SUFFIX,shifen.com,REJECT
-DOMAIN-SUFFIX,snippet.pos.baidu.com,REJECT
 DOMAIN-SUFFIX,sobar.baidu.com,REJECT
 DOMAIN-SUFFIX,sobartop.baidu.com,REJECT
 DOMAIN-SUFFIX,spcode.baidu.cn,REJECT
@@ -894,7 +887,6 @@ DOMAIN-SUFFIX,wenku-cms.bj.bcebos.com,REJECT
 DOMAIN-SUFFIX,wisepush.video.baidu.com,REJECT
 DOMAIN-SUFFIX,wm.baidu.cn,REJECT
 DOMAIN-SUFFIX,wm.baidu.com,REJECT
-DOMAIN-SUFFIX,wn.pos.baidu.com,REJECT
 DOMAIN-SUFFIX,znsv.baidu.cn,REJECT
 DOMAIN-SUFFIX,znsv.baidu.com,REJECT
 DOMAIN-SUFFIX,zz.bdstatic.com,REJECT
@@ -1272,7 +1264,6 @@ DOMAIN-SUFFIX,game.51yund.com,REJECT
 DOMAIN-SUFFIX,ganjituiguang.ganji.com,REJECT
 DOMAIN-SUFFIX,grand.ele.me,REJECT
 DOMAIN-SUFFIX,hosting.miarroba.info,REJECT
-DOMAIN-SUFFIX,iadsdk.apple.com,REJECT
 DOMAIN-SUFFIX,image.gentags.com,REJECT
 DOMAIN-SUFFIX,its-dori.tumblr.com,REJECT
 DOMAIN-SUFFIX,log.outbrain.com,REJECT
