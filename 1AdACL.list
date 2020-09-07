@@ -189,7 +189,6 @@ DOMAIN-SUFFIX,gentags.net,REJECT
 DOMAIN-SUFFIX,gepush.com,REJECT
 DOMAIN-SUFFIX,getui.com,REJECT
 DOMAIN-SUFFIX,glispa.com,REJECT
-DOMAIN-SUFFIX,go-mpulse,REJECT
 DOMAIN-SUFFIX,go-mpulse.net,REJECT
 DOMAIN-SUFFIX,godloveme.cn,REJECT
 DOMAIN-SUFFIX,gridsum.com,REJECT
@@ -1020,7 +1019,6 @@ DOMAIN,adsmind.gdtimg.com,REJECT
 DOMAIN,adsmind.tc.qq.com,REJECT
 DOMAIN,pgdt.gtimg.cn,REJECT
 DOMAIN,pgdt.gtimg.com,REJECT
-DOMAIN,pgdt.ugdtimg.com,REJECT
 DOMAIN,splashqqlive.gtimg.com,REJECT
 DOMAIN,wa.gtimg.com,REJECT
 DOMAIN,wxsnsdy.wxs.qq.com,REJECT
@@ -1231,7 +1229,6 @@ DOMAIN-SUFFIX,ad.csdn.net,REJECT
 DOMAIN-SUFFIX,ad.ganji.com,REJECT
 DOMAIN-SUFFIX,ad.house365.com,REJECT
 DOMAIN-SUFFIX,ad.thepaper.cn,REJECT
-DOMAIN-SUFFIX,ad.unimhk.com,REJECT
 DOMAIN-SUFFIX,adadmin.house365.com,REJECT
 DOMAIN-SUFFIX,adhome.1fangchan.com,REJECT
 DOMAIN-SUFFIX,adm.10jqka.com.cn,REJECT
