@@ -1,10 +1,4 @@
 # GFW
-DOMAIN-SUFFIX,t.me,GFW
-DOMAIN-SUFFIX,tdesktop.com,GFW
-DOMAIN-SUFFIX,telegra.ph,GFW
-DOMAIN-SUFFIX,telegram.me,GFW
-DOMAIN-SUFFIX,telegram.org,GFW
-
 DOMAIN,0rz.tw,GFW
 DOMAIN,123rf.com,GFW
 DOMAIN,14.102.250.18,GFW
@@ -4546,6 +4540,7 @@ DOMAIN-SUFFIX,sytes.net,GFW
 DOMAIN-SUFFIX,szbbs.net,GFW
 DOMAIN-SUFFIX,szetowah.org.hk,GFW
 DOMAIN-SUFFIX,t.co,GFW
+DOMAIN-SUFFIX,t.me,GFW
 DOMAIN-SUFFIX,t35.com,GFW
 DOMAIN-SUFFIX,t66y.com,GFW
 DOMAIN-SUFFIX,taaze.tw,GFW
@@ -4598,6 +4593,7 @@ DOMAIN-SUFFIX,tcpspeed.co,GFW
 DOMAIN-SUFFIX,tcpspeed.com,GFW
 DOMAIN-SUFFIX,tcsofbc.org,GFW
 DOMAIN-SUFFIX,tcsovi.org,GFW
+DOMAIN-SUFFIX,tdesktop.com,GFW
 DOMAIN-SUFFIX,tdm.com.mo,GFW
 DOMAIN-SUFFIX,teachparentstech.org,GFW
 DOMAIN-SUFFIX,techviz.net,GFW
@@ -4607,7 +4603,10 @@ DOMAIN-SUFFIX,teco-mo.org,GFW
 DOMAIN-SUFFIX,teddysun.com,GFW
 DOMAIN-SUFFIX,teeniefuck.net,GFW
 DOMAIN-SUFFIX,telecomspace.com,GFW
+DOMAIN-SUFFIX,telegra.ph,GFW
 DOMAIN-SUFFIX,telegram.dog,GFW
+DOMAIN-SUFFIX,telegram.me,GFW
+DOMAIN-SUFFIX,telegram.org,GFW
 DOMAIN-SUFFIX,telegramdownload.com,GFW
 DOMAIN-SUFFIX,telegraph.co.uk,GFW
 DOMAIN-SUFFIX,telesco.pe,GFW
