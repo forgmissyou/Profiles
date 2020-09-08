@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,mzstatic.com,Apple
 # Microsoft
 DOMAIN,news.hk.msn.com,GFW
 DOMAIN,news.msn.com.tw,GFW
+DOMAIN,www.skype.com,GFW
 
 DOMAIN-KEYWORD,1drv,Microsoft
 DOMAIN-KEYWORD,microsoft,Microsoft
