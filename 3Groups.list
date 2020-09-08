@@ -1,3 +1,13 @@
+# NoGFW
+DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
+DOMAIN,nrch.culture.tw,DIRECT
+
+# Google China
+DOMAIN,translate.google.cn,DIRECT
+DOMAIN-SUFFIX,265.com,DIRECT
+DOMAIN-SUFFIX,cn.gravatar.com,DIRECT
+DOMAIN-SUFFIX,recaptcha.net,DIRECT
+
 # Apple
 DOMAIN,gspe1-ssl.ls.apple.com,GFW
 DOMAIN,testflight.apple.com,GFW
