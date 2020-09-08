@@ -1,8 +1,8 @@
 # China Area Network
-# > 360
+# 360
 DOMAIN-SUFFIX,qhres.com,DIRECT
 DOMAIN-SUFFIX,qhimg.com,DIRECT
-# > Alibaba
+# Alibaba
 USER-AGENT,%E4%BC%98%E9%85%B7*,DIRECT
 DOMAIN-SUFFIX,alibaba.com,DIRECT
 DOMAIN-SUFFIX,alicdn.com,DIRECT
@@ -20,59 +20,59 @@ DOMAIN-SUFFIX,ykimg.com,DIRECT
 DOMAIN-SUFFIX,youku.com,DIRECT
 DOMAIN-SUFFIX,xiami.com,DIRECT
 DOMAIN-SUFFIX,xiami.net,DIRECT
-# > Baidu
+# Baidu
 DOMAIN-SUFFIX,baidu.com,DIRECT
 DOMAIN-SUFFIX,baidubcr.com,DIRECT
 DOMAIN-SUFFIX,bdstatic.com,DIRECT
 DOMAIN-SUFFIX,yunjiasu-cdn.net,DIRECT
-# > bilibili
+# bilibili
 DOMAIN-SUFFIX,acgvideo.com,DIRECT
 DOMAIN-SUFFIX,biliapi.com,DIRECT
 DOMAIN-SUFFIX,biliapi.net,DIRECT
 DOMAIN-SUFFIX,bilibili.com,DIRECT
 DOMAIN-SUFFIX,bilibili.tv,DIRECT
 DOMAIN-SUFFIX,hdslb.com,DIRECT
-# > Blizzard
+# Blizzard
 DOMAIN-SUFFIX,blizzard.com,DIRECT
 DOMAIN-SUFFIX,battle.net,DIRECT
-# > ByteDance
+# ByteDance
 DOMAIN-SUFFIX,feiliao.com,DIRECT
 DOMAIN-SUFFIX,pstatp.com,DIRECT
 DOMAIN-SUFFIX,snssdk.com,DIRECT
 DOMAIN-SUFFIX,iesdouyin.com,DIRECT
 DOMAIN-SUFFIX,toutiao.com,DIRECT
-# > CCTV
+# CCTV
 DOMAIN-SUFFIX,cctv.com,DIRECT
 DOMAIN-SUFFIX,cctvpic.com,DIRECT
 DOMAIN-SUFFIX,livechina.com,DIRECT
-# > DiDi
+# DiDi
 DOMAIN-SUFFIX,didialift.com,DIRECT
 DOMAIN-SUFFIX,didiglobal.com,DIRECT
 DOMAIN-SUFFIX,udache.com,DIRECT
-# > ChinaNet
+# ChinaNet
 DOMAIN-SUFFIX,21cn.com,DIRECT
-# > HunanTV
+# HunanTV
 DOMAIN-SUFFIX,hitv.com,DIRECT
 DOMAIN-SUFFIX,mgtv.com,DIRECT
-# > iQiyi
+# iQiyi
 DOMAIN-SUFFIX,iqiyi.com,DIRECT
 DOMAIN-SUFFIX,iqiyipic.com,DIRECT
 DOMAIN-SUFFIX,71.am.com,DIRECT
-# > JD
+# JD
 DOMAIN-SUFFIX,jd.com,DIRECT
 DOMAIN-SUFFIX,jd.hk,DIRECT
 DOMAIN-SUFFIX,jdpay.com,DIRECT
 DOMAIN-SUFFIX,360buyimg.com,DIRECT
-# > Kingsoft
+# Kingsoft
 DOMAIN-SUFFIX,iciba.com,DIRECT
 DOMAIN-SUFFIX,ksosoft.com,DIRECT
-# > MI
+# MI
 DOMAIN-SUFFIX,duokan.com,DIRECT
 DOMAIN-SUFFIX,mi-img.com,DIRECT
 DOMAIN-SUFFIX,miui.com,DIRECT
 DOMAIN-SUFFIX,miwifi.com,DIRECT
 DOMAIN-SUFFIX,xiaomi.com,DIRECT
-# > NetEase
+# NetEase
 USER-AGENT,NeteaseMusic*,DIRECT
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,DIRECT
 DOMAIN-SUFFIX,163.com,DIRECT
@@ -82,20 +82,20 @@ DOMAIN-SUFFIX,163yun.com,DIRECT
 DOMAIN-SUFFIX,lofter.com,DIRECT
 DOMAIN-SUFFIX,netease.com,DIRECT
 DOMAIN-SUFFIX,ydstatic.com,DIRECT
-# > Sina
+# Sina
 DOMAIN-SUFFIX,sina.com,DIRECT
 DOMAIN-SUFFIX,weibo.com,DIRECT
 DOMAIN-SUFFIX,weibocdn.com,DIRECT
-# > Sohu
+# Sohu
 DOMAIN-SUFFIX,sohu.com,DIRECT
 DOMAIN-SUFFIX,sohucs.com,DIRECT
 DOMAIN-SUFFIX,sohu-inc.com,DIRECT
 DOMAIN-SUFFIX,v-56.com,DIRECT
-# > Sogo
+# Sogo
 DOMAIN-SUFFIX,sogo.com,DIRECT
 DOMAIN-SUFFIX,sogou.com,DIRECT
 DOMAIN-SUFFIX,sogoucdn.com,DIRECT
-# > Steam
+# Steam
 DOMAIN-SUFFIX,steampowered.com,DIRECT
 DOMAIN-SUFFIX,steam-chat.com,DIRECT
 DOMAIN-SUFFIX,steamgames.com,DIRECT
@@ -103,7 +103,7 @@ DOMAIN-SUFFIX,steamusercontent.com,DIRECT
 DOMAIN-SUFFIX,steamcontent.com,DIRECT
 DOMAIN-SUFFIX,steamstatic.com,DIRECT
 DOMAIN-SUFFIX,steamstat.us,DIRECT
-# > Tencent
+# Tencent
 USER-AGENT,MicroMessenger%20Client,DIRECT
 USER-AGENT,WeChat*,DIRECT
 DOMAIN-SUFFIX,gtimg.com,DIRECT
@@ -114,7 +114,7 @@ DOMAIN-SUFFIX,myqcloud.com,DIRECT
 DOMAIN-SUFFIX,qq.com,DIRECT
 DOMAIN-SUFFIX,tencent.com,DIRECT
 DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
-# > YYeTs
+# YYeTs
 USER-AGENT,YYeTs*,DIRECT
 DOMAIN-SUFFIX,jstucdn.com,DIRECT
 DOMAIN-SUFFIX,zimuzu.io,DIRECT
@@ -123,7 +123,7 @@ DOMAIN-SUFFIX,zmz2019.com,DIRECT
 DOMAIN-SUFFIX,zmzapi.com,DIRECT
 DOMAIN-SUFFIX,zmzapi.net,DIRECT
 DOMAIN-SUFFIX,zmzfile.com,DIRECT
-# > Content Delivery Network
+# Content Delivery Network
 DOMAIN-SUFFIX,ccgslb.com,DIRECT
 DOMAIN-SUFFIX,ccgslb.net,DIRECT
 DOMAIN-SUFFIX,chinanetcenter.com,DIRECT
@@ -131,15 +131,14 @@ DOMAIN-SUFFIX,meixincdn.com,DIRECT
 DOMAIN-SUFFIX,ourdvs.com,DIRECT
 DOMAIN-SUFFIX,staticdn.net,DIRECT
 DOMAIN-SUFFIX,wangsu.com,DIRECT
-# > IP Query
+# IP Query
+DOMAIN-SUFFIX,ip.cn,DIRECT
 DOMAIN-SUFFIX,ipip.net,DIRECT
-DOMAIN-SUFFIX,ip.la,DIRECT
-DOMAIN-SUFFIX,ip-cdn.com,DIRECT
 DOMAIN-SUFFIX,ipv6-test.com,DIRECT
 DOMAIN-SUFFIX,test-ipv6.com,DIRECT
 DOMAIN-SUFFIX,whatismyip.com,DIRECT
 
-# > Other
+# Other
 DOMAIN-SUFFIX,bh.sb,DIRECT
 DOMAIN-SUFFIX,bstatic.com,DIRECT
 DOMAIN-SUFFIX,cmbchina.com,DIRECT
