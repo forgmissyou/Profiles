@@ -1,4 +1,4 @@
-#0829 
+#0908
 
 1AdACL.list
 修改自
@@ -7,19 +7,10 @@ https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
 
-2NoGFW.list
-可直连不需代理的域名,提取自
+参考
 
 http://s5s5.github.io/GFWListToSurgeRule.js/
 
-Google CN直连
-
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
-
-5GFW.list 
-自用+GFW全域名列表,Google最后，提取自
-
-http://s5s5.github.io/GFWListToSurgeRule.js/
 
 6CN.list 
 
