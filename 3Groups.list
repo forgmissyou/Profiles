@@ -1,17 +1,18 @@
 # NoGFW
+DOMAIN,connectivitycheck.gstatic.com,DIRECT
+DOMAIN,csi.gstatic.com,DIRECT
+DOMAIN,fonts.gstatic.com,DIRECT
+DOMAIN,ssl.gstatic.com,DIRECT
+
+DOMAIN,cn.gravatar.com,DIRECT
+DOMAIN,translate.google.cn,DIRECT
+
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
 DOMAIN,nrch.culture.tw,DIRECT
 
-# Google China
-DOMAIN,translate.google.cn,DIRECT
-DOMAIN-SUFFIX,265.com,DIRECT
-DOMAIN-SUFFIX,cn.gravatar.com,DIRECT
 DOMAIN-SUFFIX,recaptcha.net,DIRECT
 
 # Apple
-DOMAIN,gspe1-ssl.ls.apple.com,GFW
-DOMAIN,testflight.apple.com,GFW
-
 DOMAIN-SUFFIX,aaplimg.com,Apple
 DOMAIN-SUFFIX,akadns.net,Apple
 DOMAIN-SUFFIX,apple.co,Apple
@@ -27,10 +28,6 @@ DOMAIN-SUFFIX,me.com,Apple
 DOMAIN-SUFFIX,mzstatic.com,Apple
 
 # Microsoft
-DOMAIN,news.hk.msn.com,GFW
-DOMAIN,news.msn.com.tw,GFW
-DOMAIN,www.skype.com,GFW
-
 DOMAIN-KEYWORD,1drv,Microsoft
 DOMAIN-KEYWORD,microsoft,Microsoft
 DOMAIN-SUFFIX,aadrm.com,Microsoft
@@ -109,4 +106,3 @@ DOMAIN-SUFFIX,yammerusercontent.com,Microsoft
 # Speed Test
 USER-AGENT,SpeedTest*,Speedtest
 DOMAIN-KEYWORD,speedtest,Speedtest
-
