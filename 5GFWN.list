@@ -6,8 +6,8 @@ DOMAIN,www.aia.com.hk,GFW
 DOMAIN,testflight.apple.com,GFW
 
 # AppleNews
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
+USER-AGENT,AppleNews*,GFW
+USER-AGENT,com.apple.news*,GFW
 DOMAIN,gspe1-ssl.ls.apple.com,GFW
 
 # Microsoft
