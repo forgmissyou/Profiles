@@ -599,7 +599,6 @@ DOMAIN-SUFFIX,a.youdao.com,REJECT
 DOMAIN-SUFFIX,adgeo.corp.163.com,REJECT
 DOMAIN-SUFFIX,analytics.126.net,REJECT
 DOMAIN-SUFFIX,bobo.corp.163.com,REJECT
-DOMAIN-SUFFIX,c.youdao.com,REJECT
 DOMAIN-SUFFIX,clkservice.youdao.com,REJECT
 DOMAIN-SUFFIX,conv.youdao.com,REJECT
 DOMAIN-SUFFIX,dsp-impr2.youdao.com,REJECT
