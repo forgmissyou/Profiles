@@ -5,6 +5,7 @@ DOMAIN,fonts.gstatic.com,DIRECT
 DOMAIN,ssl.gstatic.com,DIRECT
 
 DOMAIN,cn.gravatar.com,DIRECT
+DOMAIN,safebrowsing.googleapis.com,DIRECT
 DOMAIN,translate.google.cn,DIRECT
 
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
@@ -32,7 +33,6 @@ DOMAIN-SUFFIX,mzstatic.com,Apple
 # Microsoft
 DOMAIN,news.hk.msn.com,GFW
 DOMAIN,news.msn.com.tw,GFW
-
 DOMAIN,www.bing.com,GFW
 DOMAIN,www.skype.com,GFW
 
