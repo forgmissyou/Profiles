@@ -1,34 +1,3 @@
-# AIA
-DOMAIN,aiaprod.appgreen.com,GFW
-DOMAIN,www.aia.com.hk,GFW
-
-# Apple
-DOMAIN,testflight.apple.com,GFW
-
-# AppleNews
-USER-AGENT,AppleNews*,GFW
-USER-AGENT,com.apple.news*,GFW
-DOMAIN,gspe1-ssl.ls.apple.com,GFW
-
-# Microsoft
-DOMAIN,www.bing.com,GFW
-
-# RSS 
-DOMAIN,feed43.com,GFW
-DOMAIN-SUFFIX,rsshub.app,GFW
-
-# ZA Bank
-DOMAIN,dlink.za.group,GFW
-
-# 反
-DOMAIN,www.64memo.com,GFW
-DOMAIN-SUFFIX,ultrasurf.us,GFW
-DOMAIN-SUFFIX,ultrareach.com,GFW
-DOMAIN-SUFFIX,tingtalk.me,GFW		
-
-DOMAIN-SUFFIX,qqj68.com,GFW
-DOMAIN-SUFFIX,umei.fun,GFW		
-
 DOMAIN,123rf.com,GFW
 DOMAIN,14.102.250.18,GFW
 DOMAIN,14.102.250.19,GFW
@@ -71,6 +40,7 @@ DOMAIN,adultfriendfinder.com,GFW
 DOMAIN,adultkeep.net,GFW
 DOMAIN,ae.hao123.com,GFW
 DOMAIN,ai.binwang.me,GFW
+DOMAIN,aiaprod.appgreen.com,GFW
 DOMAIN,aiweiwei.com,GFW
 DOMAIN,ai-wen.net,GFW
 DOMAIN,alexlur.org,GFW
@@ -247,6 +217,7 @@ DOMAIN,cn.uncyclopedia.wikia.com,GFW
 DOMAIN,cn.voa.mobi,GFW
 DOMAIN,cn2.streetvoice.com,GFW
 DOMAIN,cnnews.chosun.com,GFW
+DOMAIN,code.jquery.com,GFW
 DOMAIN,commandarms.com,GFW
 DOMAIN,corumcollege.com,GFW
 DOMAIN,cosmic.monar.ch,GFW
@@ -281,6 +252,7 @@ DOMAIN,dharmakara.net,GFW
 DOMAIN,digiland.tw,GFW
 DOMAIN,disp.cc,GFW
 DOMAIN,djangosnippets.org,GFW
+DOMAIN,dlink.za.group,GFW
 DOMAIN,doctorvoice.org,GFW
 DOMAIN,domainhelp.search.com,GFW
 DOMAIN,dowei.org,GFW
@@ -342,6 +314,7 @@ DOMAIN,fapdu.com,GFW
 DOMAIN,faproxy.com,GFW
 DOMAIN,faydao.com,GFW
 DOMAIN,fc2blog.net,GFW
+DOMAIN,feed43.com,GFW
 DOMAIN,feeds.fileforum.com,GFW
 DOMAIN,feer.com,GFW
 DOMAIN,feitianacademy.org,GFW
@@ -408,8 +381,6 @@ DOMAIN,getiton.com,GFW
 DOMAIN,gfbv.de,GFW
 DOMAIN,gfw.org.ua,GFW
 DOMAIN,gigporno.ru,GFW
-DOMAIN,gist.github.com,GFW
-DOMAIN,github.com,GFW
 DOMAIN,globaljihad.net,GFW
 DOMAIN,globalmediaoutreach.com,GFW
 DOMAIN,globalmuseumoncommunism.org,GFW
@@ -650,9 +621,7 @@ DOMAIN,new-3lunch.net,GFW
 DOMAIN,newcenturynews.com,GFW
 DOMAIN,newipnow.com,GFW
 DOMAIN,news.cnyes.com,GFW
-DOMAIN,news.hk.msn.com,GFW
 DOMAIN,news.hkpeanut.com,GFW
-DOMAIN,news.msn.com.tw,GFW
 DOMAIN,news.nationalgeographic.com,GFW
 DOMAIN,news.now.com,GFW
 DOMAIN,news.omy.sg,GFW
@@ -757,6 +726,7 @@ DOMAIN,pulse.yahoo.com,GFW
 DOMAIN,pwned.com,GFW
 DOMAIN,python.com,GFW
 DOMAIN,pythonhackers.com,GFW
+DOMAIN,qiangwaikan.com,GFW
 DOMAIN,qixianglu.cn,GFW
 DOMAIN,quantumbooter.net,GFW
 DOMAIN,qusi8.net,GFW
@@ -787,7 +757,6 @@ DOMAIN,riku.me,GFW
 DOMAIN,riseup.net,GFW
 DOMAIN,rukor.org,GFW
 DOMAIN,rutube.ru,GFW
-DOMAIN,s3-ap-northeast-1.amazonaws.com,GFW
 DOMAIN,sa.hao123.com,GFW
 DOMAIN,sapikachu.net,GFW
 DOMAIN,savemedia.com,GFW
@@ -811,6 +780,7 @@ DOMAIN,shipcamouflage.com,GFW
 DOMAIN,shkspr.mobi,GFW
 DOMAIN,showbiz.omy.sg,GFW
 DOMAIN,simpleproductivityblog.com,GFW
+DOMAIN,sinatra.ishowsapp.com,GFW
 DOMAIN,sinocism.com,GFW
 DOMAIN,sino-monthly.com,GFW
 DOMAIN,sinomontreal.ca,GFW
@@ -842,6 +812,7 @@ DOMAIN,subacme.rerouted.org,GFW
 DOMAIN,summify.com,GFW
 DOMAIN,sun1911.com,GFW
 DOMAIN,sysresccd.org,GFW
+DOMAIN,t.cn,GFW
 DOMAIN,tabtter.jp,GFW
 DOMAIN,tahr.org.tw,GFW
 DOMAIN,taiwankiss.com,GFW
@@ -1065,7 +1036,9 @@ DOMAIN,wuerkaixi.com,GFW
 DOMAIN,wufi.org.tw,GFW
 DOMAIN,wujie.net,GFW
 DOMAIN,wukangrui.net,GFW
+DOMAIN,www.64memo.com,GFW
 DOMAIN,www.abclite.net,GFW
+DOMAIN,www.aia.com.hk,GFW
 DOMAIN,www.americorps.gov,GFW
 DOMAIN,www.antd.org,GFW
 DOMAIN,www.aolnews.com,GFW
@@ -1078,9 +1051,11 @@ DOMAIN,www.eastturkistan.net,GFW
 DOMAIN,www.gmiddle.com,GFW
 DOMAIN,www.gmiddle.net,GFW
 DOMAIN,www.hustlercash.com,GFW
+DOMAIN,www.iavnight.com,GFW
 DOMAIN,www.idlcoyote.com,GFW
 DOMAIN,www.lamenhu.com,GFW
 DOMAIN,www.lib.virginia.edu,GFW
+DOMAIN,www.liveviptv.xyz,GFW
 DOMAIN,www.metro.taipei,GFW
 DOMAIN,www.monlamit.org,GFW
 DOMAIN,www.m-sport.co.uk,GFW
@@ -1090,7 +1065,6 @@ DOMAIN,www.owind.com,GFW
 DOMAIN,www.oxid.it,GFW
 DOMAIN,www.s4miniarchive.com,GFW
 DOMAIN,www.sciencemag.org,GFW
-DOMAIN,www.skype.com,GFW
 DOMAIN,www.tablesgenerator.com,GFW
 DOMAIN,www.taiwanonline.cc,GFW
 DOMAIN,www.taup.org.tw,GFW
@@ -1149,6 +1123,7 @@ DOMAIN,zhongguo.ca,GFW
 DOMAIN,zhongguorenquan.org,GFW
 DOMAIN,zomobo.net,GFW
 DOMAIN,zyzc9.com,GFW
+
 DOMAIN-SUFFIX,030buy.com,GFW
 DOMAIN-SUFFIX,0rz.tw,GFW
 DOMAIN-SUFFIX,10.tt,GFW
@@ -1227,6 +1202,7 @@ DOMAIN-SUFFIX,5maodang.com,GFW
 DOMAIN-SUFFIX,63i.com,GFW
 DOMAIN-SUFFIX,64museum.org,GFW
 DOMAIN-SUFFIX,66.ca,GFW
+DOMAIN-SUFFIX,6do.news,GFW
 DOMAIN-SUFFIX,6park.com,GFW
 DOMAIN-SUFFIX,6parker.com,GFW
 DOMAIN-SUFFIX,6parknews.com,GFW
@@ -1250,6 +1226,7 @@ DOMAIN-SUFFIX,99cn.info,GFW
 DOMAIN-SUFFIX,9bis.com,GFW
 DOMAIN-SUFFIX,9bis.net,GFW
 DOMAIN-SUFFIX,9gag.com,GFW
+DOMAIN-SUFFIX,9to5mac.com,GFW
 DOMAIN-SUFFIX,a248.e.akamai.net,GFW
 DOMAIN-SUFFIX,abc.com,GFW
 DOMAIN-SUFFIX,abc.net.au,GFW
@@ -1275,7 +1252,6 @@ DOMAIN-SUFFIX,aculo.us,GFW
 DOMAIN-SUFFIX,adcex.com,GFW
 DOMAIN-SUFFIX,addictedtocoffee.de,GFW
 DOMAIN-SUFFIX,adelaidebbs.com,GFW
-# DOMAIN-SUFFIX,admin.recaptcha.net,GFW
 DOMAIN-SUFFIX,admob.com,GFW
 DOMAIN-SUFFIX,adpl.org.hk,GFW
 DOMAIN-SUFFIX,adsense.com,GFW
@@ -1334,7 +1310,6 @@ DOMAIN-SUFFIX,alwaysdata.net,GFW
 DOMAIN-SUFFIX,alwaysvpn.com,GFW
 DOMAIN-SUFFIX,am730.com.hk,GFW
 DOMAIN-SUFFIX,amazon.co.jp,GFW
-DOMAIN-SUFFIX,amazon.com,GFW
 DOMAIN-SUFFIX,ameblo.jp,GFW
 DOMAIN-SUFFIX,americangreencard.com,GFW
 DOMAIN-SUFFIX,americanunfinished.com,GFW
@@ -1388,12 +1363,9 @@ DOMAIN-SUFFIX,api.ai,GFW
 DOMAIN-SUFFIX,api.dropboxapi.com,GFW
 DOMAIN-SUFFIX,api.linksalpha.com,GFW
 DOMAIN-SUFFIX,api.pureapk.com,GFW
-# DOMAIN-SUFFIX,api.recaptcha.net,GFW
 DOMAIN-SUFFIX,apiary.io,GFW
 DOMAIN-SUFFIX,apidocs.linksalpha.com,GFW
 DOMAIN-SUFFIX,apigee.com,GFW
-# DOMAIN-SUFFIX,api-secure.recaptcha.net,GFW
-# DOMAIN-SUFFIX,api-verify.recaptcha.net,GFW
 DOMAIN-SUFFIX,apkmirror.com,GFW
 DOMAIN-SUFFIX,apkmonk.com,GFW
 DOMAIN-SUFFIX,apkplz.com,GFW
@@ -1762,7 +1734,6 @@ DOMAIN-SUFFIX,cdn.helixstudios.net,GFW
 DOMAIN-SUFFIX,cdn.printfriendly.com,GFW
 DOMAIN-SUFFIX,cdn.seatguru.com,GFW
 DOMAIN-SUFFIX,cdn.softlayer.net,GFW
-# DOMAIN-SUFFIX,cdn-apple.com,GFW
 DOMAIN-SUFFIX,cdnews.com.tw,GFW
 DOMAIN-SUFFIX,cdn-images.mailchimp.com,GFW
 DOMAIN-SUFFIX,cdninstagram.com,GFW
@@ -2464,6 +2435,7 @@ DOMAIN-SUFFIX,fpmt-osel.org,GFW
 DOMAIN-SUFFIX,fqrouter.com,GFW
 DOMAIN-SUFFIX,franklc.com,GFW
 DOMAIN-SUFFIX,freakshare.com,GFW
+DOMAIN-SUFFIX,free.com.tw,GFW
 DOMAIN-SUFFIX,free.fr,GFW
 DOMAIN-SUFFIX,free4u.com.ar,GFW
 DOMAIN-SUFFIX,freealim.com,GFW
@@ -2582,6 +2554,7 @@ DOMAIN-SUFFIX,gcmasia.com,GFW
 DOMAIN-SUFFIX,gcpnews.com,GFW
 DOMAIN-SUFFIX,gcr.io,GFW
 DOMAIN-SUFFIX,gdbt.net,GFW
+DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,geek-art.net,GFW
 DOMAIN-SUFFIX,geekheart.info,GFW
 DOMAIN-SUFFIX,gekikame.com,GFW
@@ -2621,12 +2594,14 @@ DOMAIN-SUFFIX,gifree.com,GFW
 DOMAIN-SUFFIX,giga-web.jp,GFW
 DOMAIN-SUFFIX,girlbanker.com,GFW
 DOMAIN-SUFFIX,git.io,GFW
+DOMAIN-SUFFIX,gitbook.com,GFW
+DOMAIN-SUFFIX,gitbook.io,GFW
+DOMAIN-SUFFIX,github.com,GFW
 DOMAIN-SUFFIX,github.io,GFW
 DOMAIN-SUFFIX,githubusercontent.com,GFW
 DOMAIN-SUFFIX,gizlen.net,GFW
 DOMAIN-SUFFIX,gjczz.com,GFW
 DOMAIN-SUFFIX,glass8.eu,GFW
-# DOMAIN-SUFFIX,global.bing.com,GFW
 DOMAIN-SUFFIX,globalrescue.net,GFW
 DOMAIN-SUFFIX,globaltm.org,GFW
 DOMAIN-SUFFIX,globalvoices.org,GFW
@@ -2859,6 +2834,7 @@ DOMAIN-SUFFIX,hotels.cn,GFW
 DOMAIN-SUFFIX,hotpornshow.com,GFW
 DOMAIN-SUFFIX,hotshame.com,GFW
 DOMAIN-SUFFIX,hotspotshield.com,GFW
+DOMAIN-SUFFIX,hottg.com,GFW
 DOMAIN-SUFFIX,hotvpn.com,GFW
 DOMAIN-SUFFIX,hougaige.com,GFW
 DOMAIN-SUFFIX,howtoforge.com,GFW
@@ -2943,6 +2919,7 @@ DOMAIN-SUFFIX,ied2k.net,GFW
 DOMAIN-SUFFIX,ienergy1.com,GFW
 DOMAIN-SUFFIX,ifan.cz.cc,GFW
 DOMAIN-SUFFIX,ifcss.org,GFW
+DOMAIN-SUFFIX,ifixit.com,GFW
 DOMAIN-SUFFIX,ifreewares.com,GFW
 DOMAIN-SUFFIX,ift.tt,GFW
 DOMAIN-SUFFIX,igcd.net,GFW
@@ -3101,6 +3078,7 @@ DOMAIN-SUFFIX,jims.net,GFW
 DOMAIN-SUFFIX,jinbushe.org,GFW
 DOMAIN-SUFFIX,jingpin.org,GFW
 DOMAIN-SUFFIX,jingsim.org,GFW
+DOMAIN-SUFFIX,jinkela.pw,GFW
 DOMAIN-SUFFIX,jinroukong.com,GFW
 DOMAIN-SUFFIX,jintian.net,GFW
 DOMAIN-SUFFIX,jinx.com,GFW
@@ -3680,6 +3658,7 @@ DOMAIN-SUFFIX,ns1.name,GFW
 DOMAIN-SUFFIX,ns2.name,GFW
 DOMAIN-SUFFIX,ns3.name,GFW
 DOMAIN-SUFFIX,ntd.tv,GFW
+DOMAIN-SUFFIX,ntdimg.com,GFW
 DOMAIN-SUFFIX,ntdtv.co.kr,GFW
 DOMAIN-SUFFIX,ntdtv.com,GFW
 DOMAIN-SUFFIX,ntdtv.cz,GFW
@@ -3729,7 +3708,6 @@ DOMAIN-SUFFIX,omnitalk.org,GFW
 DOMAIN-SUFFIX,on.cc,GFW
 DOMAIN-SUFFIX,on2.com,GFW
 DOMAIN-SUFFIX,onapp.com,GFW
-# DOMAIN-SUFFIX,onedrive.live.com,GFW
 DOMAIN-SUFFIX,onedumb.com,GFW
 DOMAIN-SUFFIX,onejav.com,GFW
 DOMAIN-SUFFIX,onion.city,GFW
@@ -3993,6 +3971,7 @@ DOMAIN-SUFFIX,qkshare.com,GFW
 DOMAIN-SUFFIX,qoos.com,GFW
 DOMAIN-SUFFIX,qpoe.com,GFW
 DOMAIN-SUFFIX,qq.co.za,GFW
+DOMAIN-SUFFIX,qqj68.com,GFW
 DOMAIN-SUFFIX,qstatus.com,GFW
 DOMAIN-SUFFIX,qtrac.eu,GFW
 DOMAIN-SUFFIX,qtweeter.com,GFW
@@ -4096,6 +4075,7 @@ DOMAIN-SUFFIX,rsdlmonitor.com,GFW
 DOMAIN-SUFFIX,rsf.org,GFW
 DOMAIN-SUFFIX,rsf-chinese.org,GFW
 DOMAIN-SUFFIX,rsgamen.org,GFW
+DOMAIN-SUFFIX,rsshub.app,GFW
 DOMAIN-SUFFIX,rssmeme.com,GFW
 DOMAIN-SUFFIX,rtalabel.org,GFW
 DOMAIN-SUFFIX,rthk.hk,GFW
@@ -4112,6 +4092,7 @@ DOMAIN-SUFFIX,s1.nudezz.com,GFW
 DOMAIN-SUFFIX,s1heng.com,GFW
 DOMAIN-SUFFIX,s1s1s1.com,GFW
 DOMAIN-SUFFIX,s3.amazonaws.com,GFW
+DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com,GFW
 DOMAIN-SUFFIX,s3-ap-southeast-2.amazonaws.com,GFW
 DOMAIN-SUFFIX,s8forum.com,GFW
 DOMAIN-SUFFIX,sacks.com,GFW
@@ -4333,7 +4314,6 @@ DOMAIN-SUFFIX,soumo.info,GFW
 DOMAIN-SUFFIX,soundcloud.com,GFW
 DOMAIN-SUFFIX,soundofhope.kr,GFW
 DOMAIN-SUFFIX,soundofhope.org,GFW
-# DOMAIN-SUFFIX,soup.io,GFW
 DOMAIN-SUFFIX,soupofmedia.com,GFW
 DOMAIN-SUFFIX,sourcewadio.com,GFW
 DOMAIN-SUFFIX,soylentnews.org,GFW
@@ -4510,6 +4490,7 @@ DOMAIN-SUFFIX,tcpspeed.co,GFW
 DOMAIN-SUFFIX,tcpspeed.com,GFW
 DOMAIN-SUFFIX,tcsofbc.org,GFW
 DOMAIN-SUFFIX,tcsovi.org,GFW
+DOMAIN-SUFFIX,tdesktop.com,GFW
 DOMAIN-SUFFIX,tdm.com.mo,GFW
 DOMAIN-SUFFIX,teachparentstech.org,GFW
 DOMAIN-SUFFIX,techviz.net,GFW
@@ -4519,6 +4500,7 @@ DOMAIN-SUFFIX,teco-mo.org,GFW
 DOMAIN-SUFFIX,teddysun.com,GFW
 DOMAIN-SUFFIX,teeniefuck.net,GFW
 DOMAIN-SUFFIX,telecomspace.com,GFW
+DOMAIN-SUFFIX,telegra.ph,GFW
 DOMAIN-SUFFIX,telegram.dog,GFW
 DOMAIN-SUFFIX,telegram.me,GFW
 DOMAIN-SUFFIX,telegram.org,GFW
@@ -4546,6 +4528,7 @@ DOMAIN-SUFFIX,thegly.com,GFW
 DOMAIN-SUFFIX,thehots.info,GFW
 DOMAIN-SUFFIX,thehun.net,GFW
 DOMAIN-SUFFIX,theinitium.com,GFW
+DOMAIN-SUFFIX,themoviedb.org,GFW
 DOMAIN-SUFFIX,thenewslens.com,GFW
 DOMAIN-SUFFIX,thepiratebay.org,GFW
 DOMAIN-SUFFIX,theporndude.com,GFW
@@ -4554,6 +4537,7 @@ DOMAIN-SUFFIX,thestandnews.com,GFW
 DOMAIN-SUFFIX,thetibetmuseum.org,GFW
 DOMAIN-SUFFIX,thetibetpost.com,GFW
 DOMAIN-SUFFIX,thetinhat.com,GFW
+DOMAIN-SUFFIX,thetvdb.com,GFW
 DOMAIN-SUFFIX,thewgo.org,GFW
 DOMAIN-SUFFIX,theync.com,GFW
 DOMAIN-SUFFIX,thinkgeek.com,GFW
@@ -4635,12 +4619,14 @@ DOMAIN-SUFFIX,tibettelegraph.com,GFW
 DOMAIN-SUFFIX,tibetwrites.org,GFW
 DOMAIN-SUFFIX,ticket.com.tw,GFW
 DOMAIN-SUFFIX,tigervpn.com,GFW
+DOMAIN-SUFFIX,tiktok.com,GFW
 DOMAIN-SUFFIX,tiltbrush.com,GFW
 DOMAIN-SUFFIX,timdir.com,GFW
 DOMAIN-SUFFIX,time.com,GFW
 DOMAIN-SUFFIX,timsah.com,GFW
 DOMAIN-SUFFIX,tinc-vpn.org,GFW
 DOMAIN-SUFFIX,tineye.com,GFW
+DOMAIN-SUFFIX,tingtalk.me,GFW
 DOMAIN-SUFFIX,tiny.cc,GFW
 DOMAIN-SUFFIX,tinypaste.com,GFW
 DOMAIN-SUFFIX,tistory.com,GFW
@@ -4686,6 +4672,7 @@ DOMAIN-SUFFIX,toythieves.com,GFW
 DOMAIN-SUFFIX,tparents.org,GFW
 DOMAIN-SUFFIX,tpi.org.tw,GFW
 DOMAIN-SUFFIX,tracfone.com,GFW
+DOMAIN-SUFFIX,translatetheweb.com,GFW
 DOMAIN-SUFFIX,transparency.org,GFW
 DOMAIN-SUFFIX,treemall.com.tw,GFW
 DOMAIN-SUFFIX,trendsmap.com,GFW
@@ -4850,7 +4837,10 @@ DOMAIN-SUFFIX,ukliferadio.co.uk,GFW
 DOMAIN-SUFFIX,uku.im,GFW
 DOMAIN-SUFFIX,ulike.net,GFW
 DOMAIN-SUFFIX,ulop.net,GFW
+DOMAIN-SUFFIX,ultrareach.com,GFW
+DOMAIN-SUFFIX,ultrasurf.us,GFW
 DOMAIN-SUFFIX,ultravpn.fr,GFW
+DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,unblock.cn.com,GFW
 DOMAIN-SUFFIX,unblockdmm.com,GFW
 DOMAIN-SUFFIX,unblocker.yt,GFW
@@ -4870,7 +4860,6 @@ DOMAIN-SUFFIX,unodedos.com,GFW
 DOMAIN-SUFFIX,unseen.is,GFW
 DOMAIN-SUFFIX,untraceable.us,GFW
 DOMAIN-SUFFIX,uocn.org,GFW
-DOMAIN-SUFFIX,updates.tdesktop.com,GFW
 DOMAIN-SUFFIX,upholdjustice.org,GFW
 DOMAIN-SUFFIX,upload4u.info,GFW
 DOMAIN-SUFFIX,uploadstation.com,GFW
@@ -4907,6 +4896,7 @@ DOMAIN-SUFFIX,uyghurpen.org,GFW
 DOMAIN-SUFFIX,uyghurpress.com,GFW
 DOMAIN-SUFFIX,uyghurstudies.org,GFW
 DOMAIN-SUFFIX,v2ex.com,GFW
+DOMAIN-SUFFIX,v2fly.org,GFW
 DOMAIN-SUFFIX,v2ray.com,GFW
 DOMAIN-SUFFIX,van001.com,GFW
 DOMAIN-SUFFIX,van698.com,GFW
@@ -5200,6 +5190,7 @@ DOMAIN-SUFFIX,xing.com,GFW
 DOMAIN-SUFFIX,xinmiao.com.hk,GFW
 DOMAIN-SUFFIX,xiongpian.com,GFW
 DOMAIN-SUFFIX,xiuren.org,GFW
+DOMAIN-SUFFIX,xixicats.pw,GFW
 DOMAIN-SUFFIX,xjp.cc,GFW
 DOMAIN-SUFFIX,xjtravelguide.com,GFW
 DOMAIN-SUFFIX,xkiwi.tk,GFW
@@ -5217,6 +5208,7 @@ DOMAIN-SUFFIX,xpud.org,GFW
 DOMAIN-SUFFIX,xrentdvd.com,GFW
 DOMAIN-SUFFIX,xskywalker.com,GFW
 DOMAIN-SUFFIX,xskywalker.net,GFW
+DOMAIN-SUFFIX,xsnvshen.com,GFW
 DOMAIN-SUFFIX,xtube.com,GFW
 DOMAIN-SUFFIX,xuchao.net,GFW
 DOMAIN-SUFFIX,xuchao.org,GFW
@@ -5371,23 +5363,23 @@ DOMAIN-SUFFIX,zyns.com,GFW
 DOMAIN-SUFFIX,zzcartoon.com,GFW
 DOMAIN-SUFFIX,zzcloud.me,GFW
 DOMAIN-SUFFIX,zzux.com,GFW
+
 DOMAIN-KEYWORD,google,GFW
 
-# Telegram		
-IP-CIDR,67.198.55.0/24,GFW		
-IP-CIDR,91.108.4.0/22,GFW		
-IP-CIDR,91.108.8.0/22,GFW		
-IP-CIDR,91.108.12.0/22,GFW		
-IP-CIDR,91.108.16.0/22,GFW		
-IP-CIDR,91.108.20.0/22,GFW		
-IP-CIDR,91.108.56.0/22,GFW		
-IP-CIDR,91.108.56.0/23,GFW		
-IP-CIDR,95.161.64.0/20,GFW		
-IP-CIDR,109.239.140.0/24,GFW		
-IP-CIDR,149.154.160.0/22,GFW		
-IP-CIDR,149.154.164.0/22,GFW		
-IP-CIDR,149.154.168.0/22,GFW		
-IP-CIDR,149.154.172.0/22,GFW		
-IP6-CIDR,2001:b28:f23d::/48,GFW		
-IP6-CIDR,2001:b28:f23f::/48,GFW		
 IP6-CIDR,2001:67c:4e8::/48,GFW
+IP6-CIDR,2001:b28:f23d::/48,GFW
+IP6-CIDR,2001:b28:f23f::/48,GFW
+IP-CIDR,109.239.140.0/24,GFW
+IP-CIDR,149.154.160.0/22,GFW
+IP-CIDR,149.154.164.0/22,GFW
+IP-CIDR,149.154.168.0/22,GFW
+IP-CIDR,149.154.172.0/22,GFW
+IP-CIDR,67.198.55.0/24,GFW
+IP-CIDR,91.108.12.0/22,GFW
+IP-CIDR,91.108.16.0/22,GFW
+IP-CIDR,91.108.20.0/22,GFW
+IP-CIDR,91.108.4.0/22,GFW
+IP-CIDR,91.108.56.0/22,GFW
+IP-CIDR,91.108.56.0/23,GFW
+IP-CIDR,91.108.8.0/22,GFW
+IP-CIDR,95.161.64.0/20,GFW
