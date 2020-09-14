@@ -43,4 +43,4 @@ http://s5s5.github.io/GFWListToSurgeRule.js/
 
 8.c提取非.开头的，转为DOMAIN，得gfw6
 
-9.合并gfw1-6
+9.合并gfw1-6，去重
