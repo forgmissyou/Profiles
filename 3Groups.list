@@ -13,6 +13,8 @@ DOMAIN,nrch.culture.tw,DIRECT
 DOMAIN-SUFFIX,recaptcha.net,DIRECT
 
 # Apple
+DOMAIN,testflight.apple.com,GFW
+
 DOMAIN-SUFFIX,aaplimg.com,Apple
 DOMAIN-SUFFIX,akadns.net,Apple
 DOMAIN-SUFFIX,apple.co,Apple
@@ -28,8 +30,12 @@ DOMAIN-SUFFIX,me.com,Apple
 DOMAIN-SUFFIX,mzstatic.com,Apple
 
 # Microsoft
-DOMAIN-KEYWORD,1drv,Microsoft
-DOMAIN-KEYWORD,microsoft,Microsoft
+DOMAIN,news.hk.msn.com,GFW
+DOMAIN,news.msn.com.tw,GFW
+
+DOMAIN,www.bing.com,GFW
+DOMAIN,www.skype.com,GFW
+
 DOMAIN-SUFFIX,aadrm.com,Microsoft
 DOMAIN-SUFFIX,acompli.com,Microsoft
 DOMAIN-SUFFIX,acompli.net,Microsoft
@@ -102,6 +108,9 @@ DOMAIN-SUFFIX,windowsupdate.com,Microsoft
 DOMAIN-SUFFIX,wunderlist.com,Microsoft
 DOMAIN-SUFFIX,yammer.com,Microsoft
 DOMAIN-SUFFIX,yammerusercontent.com,Microsoft
+
+DOMAIN-KEYWORD,1drv,Microsoft
+DOMAIN-KEYWORD,microsoft,Microsoft
 
 # Speed Test
 USER-AGENT,SpeedTest*,Speedtest
