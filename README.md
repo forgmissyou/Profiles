@@ -42,3 +42,5 @@ http://s5s5.github.io/GFWListToSurgeRule.js/
 7.c提取.开头的，转为DOMAIN-SUFFIX，得gfw5
 
 8.c提取非.开头的，转为DOMAIN，得gfw6
+
+9.合并gfw1-6
