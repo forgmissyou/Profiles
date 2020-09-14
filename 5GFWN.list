@@ -30,7 +30,6 @@ DOMAIN,89.64.charter.constitutionalism.solutions,GFW
 DOMAIN,908taiwan.org,GFW
 DOMAIN,a5.com.ru,GFW
 DOMAIN,aamacau.com,GFW
-DOMAIN,abclite.net,GFW
 DOMAIN,abitno.linpie.com,GFW
 DOMAIN,ac.jiruan.net,GFW
 DOMAIN,actfortibet.org,GFW
@@ -131,7 +130,6 @@ DOMAIN,blogimg.jp,GFW
 DOMAIN,blogs.icerocket.com,GFW
 DOMAIN,blogs.libraryinformationtechnology.com,GFW
 DOMAIN,blogs.yahoo.co.jp,GFW
-DOMAIN,blogspot.com,GFW
 DOMAIN,blogtd.net,GFW
 DOMAIN,blueangellive.com,GFW
 DOMAIN,bolin.netfirms.com,GFW
@@ -465,7 +463,6 @@ DOMAIN,huaxin.ph,GFW
 DOMAIN,huiyi.in,GFW
 DOMAIN,humanrightsbriefing.org,GFW
 DOMAIN,hurgokbayrak.com,GFW
-DOMAIN,hustlercash.com,GFW
 DOMAIN,hutong9.net,GFW
 DOMAIN,huyandex.com,GFW
 DOMAIN,hxwq.org,GFW
@@ -518,7 +515,6 @@ DOMAIN,juyuange.org,GFW
 DOMAIN,kanzhongguo.com,GFW
 DOMAIN,kanzhongguo.eu,GFW
 DOMAIN,karkhung.com,GFW
-DOMAIN,kineox.free.fr,GFW
 DOMAIN,kinghost.com,GFW
 DOMAIN,kiwi.kz,GFW
 DOMAIN,kun.im,GFW
@@ -623,7 +619,6 @@ DOMAIN,newipnow.com,GFW
 DOMAIN,news.cnyes.com,GFW
 DOMAIN,news.hkpeanut.com,GFW
 DOMAIN,news.nationalgeographic.com,GFW
-DOMAIN,news.now.com,GFW
 DOMAIN,news.omy.sg,GFW
 DOMAIN,news.seehua.com,GFW
 DOMAIN,news.sina.com.hk,GFW
@@ -866,13 +861,11 @@ DOMAIN,tibetfund.org,GFW
 DOMAIN,tibethouse.jp,GFW
 DOMAIN,tibethouse.org,GFW
 DOMAIN,tibet-info.net,GFW
-DOMAIN,tibetlibre.free.fr,GFW
 DOMAIN,tibetmuseum.org,GFW
 DOMAIN,tibetoffice.eu,GFW
 DOMAIN,tibetoffice.org,GFW
 DOMAIN,tibetsites.com,GFW
 DOMAIN,tibettimes.net,GFW
-DOMAIN,timdir.com,GFW
 DOMAIN,times.hinet.net,GFW
 DOMAIN,timesofindia.indiatimes.com,GFW
 DOMAIN,tintuc101.com,GFW
@@ -1037,7 +1030,6 @@ DOMAIN,wufi.org.tw,GFW
 DOMAIN,wujie.net,GFW
 DOMAIN,wukangrui.net,GFW
 DOMAIN,www.64memo.com,GFW
-DOMAIN,www.abclite.net,GFW
 DOMAIN,www.aia.com.hk,GFW
 DOMAIN,www.americorps.gov,GFW
 DOMAIN,www.antd.org,GFW
@@ -1050,7 +1042,6 @@ DOMAIN,www.dwheeler.com,GFW
 DOMAIN,www.eastturkistan.net,GFW
 DOMAIN,www.gmiddle.com,GFW
 DOMAIN,www.gmiddle.net,GFW
-DOMAIN,www.hustlercash.com,GFW
 DOMAIN,www.iavnight.com,GFW
 DOMAIN,www.idlcoyote.com,GFW
 DOMAIN,www.lamenhu.com,GFW
@@ -1123,7 +1114,6 @@ DOMAIN,zhongguo.ca,GFW
 DOMAIN,zhongguorenquan.org,GFW
 DOMAIN,zomobo.net,GFW
 DOMAIN,zyzc9.com,GFW
-
 DOMAIN-SUFFIX,030buy.com,GFW
 DOMAIN-SUFFIX,0rz.tw,GFW
 DOMAIN-SUFFIX,10.tt,GFW
@@ -1233,6 +1223,7 @@ DOMAIN-SUFFIX,abc.net.au,GFW
 DOMAIN-SUFFIX,abc.pp.ru,GFW
 DOMAIN-SUFFIX,abc.xyz,GFW
 DOMAIN-SUFFIX,abchinese.com,GFW
+DOMAIN-SUFFIX,abclite.net,GFW
 DOMAIN-SUFFIX,abebooks.com,GFW
 DOMAIN-SUFFIX,abematv.akamaized.net,GFW
 DOMAIN-SUFFIX,ablwang.com,GFW
@@ -1581,6 +1572,7 @@ DOMAIN-SUFFIX,blogger.com,GFW
 DOMAIN-SUFFIX,bloglines.com,GFW
 DOMAIN-SUFFIX,bloglovin.com,GFW
 DOMAIN-SUFFIX,blogs.tampabay.com,GFW
+DOMAIN-SUFFIX,blogspot.com,GFW
 DOMAIN-SUFFIX,blogspot.hk,GFW
 DOMAIN-SUFFIX,blogspot.jp,GFW
 DOMAIN-SUFFIX,blogspot.tw,GFW
@@ -2800,6 +2792,7 @@ DOMAIN-SUFFIX,hkgolden.com,GFW
 DOMAIN-SUFFIX,hkgreenradio.org,GFW
 DOMAIN-SUFFIX,hkheadline.com,GFW
 DOMAIN-SUFFIX,hkip.org.uk,GFW
+DOMAIN-SUFFIX,hkinsu.com,GFW
 DOMAIN-SUFFIX,hkjp.org,GFW
 DOMAIN-SUFFIX,hklft.com,GFW
 DOMAIN-SUFFIX,hklts.org.hk,GFW
@@ -2880,6 +2873,7 @@ DOMAIN-SUFFIX,huobi.pro,GFW
 DOMAIN-SUFFIX,huobipro.com,GFW
 DOMAIN-SUFFIX,huping.net,GFW
 DOMAIN-SUFFIX,hurriyet.com.tr,GFW
+DOMAIN-SUFFIX,hustlercash.com,GFW
 DOMAIN-SUFFIX,hut2.ru,GFW
 DOMAIN-SUFFIX,hutianyi.net,GFW
 DOMAIN-SUFFIX,hwadzan.tw,GFW
@@ -5363,9 +5357,7 @@ DOMAIN-SUFFIX,zyns.com,GFW
 DOMAIN-SUFFIX,zzcartoon.com,GFW
 DOMAIN-SUFFIX,zzcloud.me,GFW
 DOMAIN-SUFFIX,zzux.com,GFW
-
 DOMAIN-KEYWORD,google,GFW
-
 IP6-CIDR,2001:67c:4e8::/48,GFW
 IP6-CIDR,2001:b28:f23d::/48,GFW
 IP6-CIDR,2001:b28:f23f::/48,GFW
