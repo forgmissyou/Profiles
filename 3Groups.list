@@ -31,6 +31,8 @@ DOMAIN-SUFFIX,me.com,Apple
 DOMAIN-SUFFIX,mzstatic.com,Apple
 
 # Microsoft
+# https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
+
 DOMAIN,news.hk.msn.com,GFW
 DOMAIN,news.msn.com.tw,GFW
 DOMAIN,www.bing.com,GFW
