@@ -1076,7 +1076,6 @@ DOMAIN-SUFFIX,daiphapinfo.net,GFW
 DOMAIN-SUFFIX,dajiyuan.com,GFW
 DOMAIN-SUFFIX,dajiyuan.de,GFW
 DOMAIN-SUFFIX,dajiyuan.eu,GFW
-DOMAIN-SUFFIX,dajusha.baywords.com,GFW
 DOMAIN-SUFFIX,dalailama.com,GFW
 DOMAIN-SUFFIX,dalailama.mn,GFW
 DOMAIN-SUFFIX,dalailama.ru,GFW
@@ -1519,7 +1518,6 @@ DOMAIN-SUFFIX,fangeming.com,GFW
 DOMAIN-SUFFIX,fangeqiang.com,GFW
 DOMAIN-SUFFIX,fanglizhi.info,GFW
 DOMAIN-SUFFIX,fangmincn.org,GFW
-DOMAIN-SUFFIX,fangong.forums-free.com,GFW
 DOMAIN-SUFFIX,fangong.org,GFW
 DOMAIN-SUFFIX,fangongheike.com,GFW
 DOMAIN-SUFFIX,fanhaodang.com,GFW
@@ -2118,7 +2116,6 @@ DOMAIN-SUFFIX,hbogo.com,GFW
 DOMAIN-SUFFIX,hbonow.com,GFW
 DOMAIN-SUFFIX,h-china.org,GFW
 DOMAIN-SUFFIX,hclips.com,GFW
-DOMAIN-SUFFIX,hd.stheadline.com,GFW
 DOMAIN-SUFFIX,hdlt.me,GFW
 DOMAIN-SUFFIX,hdtvb.net,GFW
 DOMAIN-SUFFIX,hdzog.com,GFW
@@ -2283,6 +2280,7 @@ DOMAIN-SUFFIX,hrichina.org,GFW
 DOMAIN-SUFFIX,hrtsea.com,GFW
 DOMAIN-SUFFIX,hrw.org,GFW
 DOMAIN-SUFFIX,hrweb.org,GFW
+DOMAIN-SUFFIX,hsjp.net,GFW
 DOMAIN-SUFFIX,hsselite.com,GFW
 DOMAIN-SUFFIX,hst.net.tw,GFW
 DOMAIN-SUFFIX,hstern.net,GFW
@@ -2414,7 +2412,6 @@ DOMAIN-SUFFIX,imagezilla.net,GFW
 DOMAIN-SUFFIX,imb.org,GFW
 DOMAIN-SUFFIX,imdb.com,GFW
 DOMAIN-SUFFIX,img.ly,GFW
-DOMAIN-SUFFIX,img.m-team.cc,GFW
 DOMAIN-SUFFIX,img169.com,GFW
 DOMAIN-SUFFIX,img26.com,GFW
 DOMAIN-SUFFIX,imgbabes.com,GFW
@@ -3749,7 +3746,6 @@ DOMAIN-SUFFIX,psiphon.ca,GFW
 DOMAIN-SUFFIX,psiphon3.com,GFW
 DOMAIN-SUFFIX,psiphontoday.com,GFW
 DOMAIN-SUFFIX,pstorage.space,GFW
-DOMAIN-SUFFIX,pt.m-team.cc,GFW
 DOMAIN-SUFFIX,pts.org.tw,GFW
 DOMAIN-SUFFIX,ptt.cc,GFW
 DOMAIN-SUFFIX,pttgame.com,GFW
@@ -3927,6 +3923,7 @@ DOMAIN-SUFFIX,rmjdw132.info,GFW
 DOMAIN-SUFFIX,roadshow.hk,GFW
 DOMAIN-SUFFIX,roboforex.com,GFW
 DOMAIN-SUFFIX,robustnessiskey.com,GFW
+DOMAIN-SUFFIX,rocketbbs.com,GFW
 DOMAIN-SUFFIX,rocketcdn.me,GFW
 DOMAIN-SUFFIX,rocket-inc.net,GFW
 DOMAIN-SUFFIX,rocksdb.org,GFW
@@ -5221,7 +5218,6 @@ DOMAIN-SUFFIX,whereiswerner.com,GFW
 DOMAIN-SUFFIX,wheretowatch.com,GFW
 DOMAIN-SUFFIX,whichav.com,GFW
 DOMAIN-SUFFIX,whippedass.com,GFW
-DOMAIN-SUFFIX,whitebear.freebearblog.org,GFW
 DOMAIN-SUFFIX,whodns.xyz,GFW
 DOMAIN-SUFFIX,whoer.net,GFW
 DOMAIN-SUFFIX,whotalking.com,GFW
@@ -5323,7 +5319,9 @@ DOMAIN-SUFFIX,wwe.com,GFW
 DOMAIN-SUFFIX,wwitv.com,GFW
 DOMAIN-SUFFIX,www.geph.io,GFW
 DOMAIN-SUFFIX,www1.american.edu,GFW
+DOMAIN-SUFFIX,www1.biz,GFW
 DOMAIN-SUFFIX,www2.ohchr.org,GFW
+DOMAIN-SUFFIX,wwwhost.biz,GFW
 DOMAIN-SUFFIX,wzj9.com,GFW
 DOMAIN-SUFFIX,wzyboy.im,GFW
 DOMAIN-SUFFIX,x.company,GFW
@@ -5375,6 +5373,11 @@ DOMAIN-SUFFIX,xlfmwz.info,GFW
 DOMAIN-SUFFIX,xm.com,GFW
 DOMAIN-SUFFIX,xml-training-guide.com,GFW
 DOMAIN-SUFFIX,xmovies.com,GFW
+DOMAIN-SUFFIX,xn--4gq171p.com,GFW
+DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org,GFW
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com,GFW
+DOMAIN-SUFFIX,xn--oiq.cc,GFW
+DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,GFW
 DOMAIN-SUFFIX,xnxx.com,GFW
 DOMAIN-SUFFIX,xpdo.net,GFW
 DOMAIN-SUFFIX,xpud.org,GFW
