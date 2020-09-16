@@ -117,3 +117,30 @@ DOMAIN-KEYWORD,microsoft,Microsoft
 # Speed Test
 USER-AGENT,SpeedTest*,Speedtest
 DOMAIN-KEYWORD,speedtest,Speedtest
+
+# GFW
+DOMAIN,www.aia.com.hk,GFW
+DOMAIN,www.iavnight.com,GFW
+
+DOMAIN-SUFFIX,aiaprod.appgreen.com,GFW
+DOMAIN-SUFFIX,code.jquery.com,GFW
+DOMAIN-SUFFIX,dlink.za.group,GFW
+DOMAIN-SUFFIX,feed43.com,GFW
+DOMAIN-SUFFIX,geacron.com,GFW
+DOMAIN-SUFFIX,gitbook.com,GFW
+DOMAIN-SUFFIX,gitbook.io,GFW
+DOMAIN-SUFFIX,hkinsu.com,GFW
+DOMAIN-SUFFIX,jinkela.pw,GFW
+DOMAIN-SUFFIX,ntdimg.com,GFW
+DOMAIN-SUFFIX,qqj68.com,GFW
+DOMAIN-SUFFIX,sinatra.ishowsapp.com,GFW
+DOMAIN-SUFFIX,t.cn,GFW
+DOMAIN-SUFFIX,tingtalk.me,GFW
+DOMAIN-SUFFIX,translatetheweb.com,GFW
+DOMAIN-SUFFIX,ultrareach.com,GFW
+DOMAIN-SUFFIX,ultrasurf.us,GFW
+DOMAIN-SUFFIX,umei.fun,GFW
+DOMAIN-SUFFIX,64memo.com,GFW
+DOMAIN-SUFFIX,liveviptv.xyz,GFW
+DOMAIN-SUFFIX,xixicats.pw,GFW
+DOMAIN-SUFFIX,xsnvshen.com,GFW
