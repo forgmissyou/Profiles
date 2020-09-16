@@ -815,7 +815,6 @@ DOMAIN-SUFFIX,msite.baidu.com,REJECT
 DOMAIN-SUFFIX,mtj.baidu.cn,REJECT
 DOMAIN-SUFFIX,mtj.baidu.com,REJECT
 DOMAIN-SUFFIX,neirong.baidu.com,REJECT
-DOMAIN-SUFFIX,newclient.map.baidu.com,REJECT
 DOMAIN-SUFFIX,nsclick.baidu.cn,REJECT
 DOMAIN-SUFFIX,nsclick.baidu.com,REJECT
 DOMAIN-SUFFIX,nsclickvideo.baidu.com,REJECT
