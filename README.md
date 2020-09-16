@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter
 
 7IP.list 国内/香港IP直连
 
-参考1
+GFWLIST一级域名
 
 https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt
 
