@@ -46,6 +46,9 @@ hostname = duckduckgo.com,mobi.360doc.com,acs.m.taobao.com,render.alipay.com,gui
 ^https?:\/\/sf\w-ttcdn-tos\.pstatp\.com\/obj\/web\.business\.image url reject-200
 ^https?:\/\/s3\.pstatp\.com\/inapp\/TTAdblock\.css url reject-200
 ^https?:\/\/sf.*?-ttcdn-tos\.pstatp\.com\/obj\/ad url reject-200
+^https?:\/\/.+\.pstatp\.com\/img\/ad reject-200
+^https?:\/\/.+\.(musical|snssdk)\.(com|ly)\/(api|motor)\/ad\/ reject-200
+^https?:\/\/.+\.snssdk\.com\/motor\/operation\/activity\/display\/config\/v\d\/ reject-200
 ^https?:\/\/[\s\S]*\.snssdk\.com\/api\/ad\/ url reject-200
 ^https?:\/\/aweme\.snssdk\.com\/aweme\/v1\/aweme\/stats\/ url reject-200
 ^https?:\/\/aweme\.snssdk\.com\/aweme\/v1\/device\/update\/ url reject-200
@@ -53,6 +56,7 @@ hostname = duckduckgo.com,mobi.360doc.com,acs.m.taobao.com,render.alipay.com,gui
 ^https?:\/\/aweme\.snssdk\.com\/service\/1\/app_logout\/ url reject-200
 ^https?:\/\/aweme\.snssdk\.com\/service\/2\/app_log url reject-200
 ^https?:\/\/frontier\.snssdk\.com\/ url reject-200
+^https://aweme-eagle(.*)\.snssdk\.com/aweme/v2/ url 302 https://aweme-eagle$1.snssdk.com/aweme/v1/ 
 # > 百度
 # >> 百度网盘
 ^https?:\/\/pan\.baidu\.com\/rest\/2.0\/pcs\/adx url reject-200
