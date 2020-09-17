@@ -21,6 +21,8 @@ GFWLIST一级域名
 
 https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt
 
+https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt
+
 GFWLIST参考，思路与s5s5略有差异
 
 http://s5s5.github.io/GFWListToSurgeRule.js/
