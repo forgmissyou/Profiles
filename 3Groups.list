@@ -1,19 +1,55 @@
 # NoGFW
-DOMAIN,connectivitycheck.gstatic.com,DIRECT
-DOMAIN,fonts.gstatic.com,DIRECT
-DOMAIN,ssl.gstatic.com,DIRECT
+DOMAIN-SUFFIX,checkin.gstatic.com,DIRECT
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com,DIRECT
+DOMAIN-SUFFIX,fonts.gstatic.com,DIRECT
+DOMAIN-SUFFIX,ssl.gstatic.com,DIRECT
 
-DOMAIN,cn.gravatar.com,DIRECT
-DOMAIN,safebrowsing.googleapis.com,DIRECT
+DOMAIN-SUFFIX,app-measurement.com,DIRECT
+DOMAIN-SUFFIX,beacons.gcp.gvt2.com,DIRECT
+DOMAIN-SUFFIX,beacons.gvt2.com,DIRECT
+DOMAIN-SUFFIX,beacons3.gvt2.com,DIRECT
+DOMAIN-SUFFIX,redirector.gvt1.com,DIRECT
+
+DOMAIN-SUFFIX,cn.gravatar.com,DIRECT
+DOMAIN-SUFFIX,recaptcha.net,DIRECT
+
 DOMAIN,translate.google.cn,DIRECT
+DOMAIN-SUFFIX,crl.pki.goog,DIRECT
+DOMAIN-SUFFIX,ocsp.pki.goog,DIRECT
+
+DOMAIN-SUFFIX,c.android.clients.google.com,DIRECT
+DOMAIN-SUFFIX,cache.pack.google.com,DIRECT
+DOMAIN-SUFFIX,corp.google.com,DIRECT
+DOMAIN-SUFFIX,dl.l.google.com,DIRECT
+DOMAIN-SUFFIX,dl.google.com,DIRECT
+DOMAIN-SUFFIX,kh.google.com,DIRECT
+DOMAIN-SUFFIX,mtalk.google.com,DIRECT
+DOMAIN-SUFFIX,pagead-googlehosted.l.google.com,DIRECT
+DOMAIN-SUFFIX,safebrowsing-cache.google.com,DIRECT
+DOMAIN-SUFFIX,toolbarqueries.google.com,DIRECT
+DOMAIN-SUFFIX,tools.google.com,DIRECT
+DOMAIN-SUFFIX,tools.l.google.com,DIRECT
+DOMAIN-SUFFIX,www-googletagmanager.l.google.com,DIRECT
+
+DOMAIN-SUFFIX,clientservices.googleapis.com,DIRECT
+DOMAIN-SUFFIX,fonts.googleapis.com,DIRECT
+DOMAIN-SUFFIX,imasdk.googleapis.com,DIRECT
+DOMAIN-SUFFIX,safebrowsing.googleapis.com,DIRECT
+DOMAIN-SUFFIX,storage.googleapis.com,DIRECT
+DOMAIN-SUFFIX,translate.googleapis.com,DIRECT
+DOMAIN-SUFFIX,update.googleapis.com,DIRECT
+
+DOMAIN-SUFFIX,googleanalytics.com,DIRECT
+DOMAIN-SUFFIX,googletagservices.com,DIRECT
 
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
 DOMAIN,nrch.culture.tw,DIRECT
 
-DOMAIN-SUFFIX,recaptcha.net,DIRECT
-
 # Apple
+#DOMAIN,api-glb-sea.smoot.apple.com,GFW
+DOMAIN,lookup-api.apple.com,GFW
 DOMAIN,testflight.apple.com,GFW
+DOMAIN-SUFFIX,smoot.apple.com,GFW
 
 DOMAIN-SUFFIX,aaplimg.com,Apple
 DOMAIN-SUFFIX,akadns.net,Apple
@@ -146,19 +182,23 @@ DOMAIN-SUFFIX,xsnvshen.com,GFW
 
 # Telegram
 IP-CIDR,67.198.55.0/24,GFW
+IP-CIDR,91.108.4.0/22,GFW
+IP-CIDR,91.108.8.0/22,GFW
 IP-CIDR,91.108.12.0/22,GFW
 IP-CIDR,91.108.16.0/22,GFW
 IP-CIDR,91.108.20.0/22,GFW
-IP-CIDR,91.108.4.0/22,GFW
+IP-CIDR,91.108.20.0/23,GFW
 IP-CIDR,91.108.56.0/22,GFW
 IP-CIDR,91.108.56.0/23,GFW
-IP-CIDR,91.108.8.0/22,GFW
 IP-CIDR,95.161.64.0/20,GFW
+IP-CIDR,95.161.84.0/23,GFW
 IP-CIDR,109.239.140.0/24,GFW
 IP-CIDR,149.154.160.0/22,GFW
 IP-CIDR,149.154.164.0/22,GFW
 IP-CIDR,149.154.168.0/22,GFW
 IP-CIDR,149.154.172.0/22,GFW
 IP6-CIDR,2001:67c:4e8::/48,GFW
+IP6-CIDR,2001:b28:f23c::/48,GFW
 IP6-CIDR,2001:b28:f23d::/48,GFW
 IP6-CIDR,2001:b28:f23f::/48,GFW
+IP6-CIDR,2001:b28:f242::/48,GFW
