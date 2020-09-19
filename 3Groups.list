@@ -1,6 +1,7 @@
 # NoGFW
 DOMAIN,checkin.gstatic.com,DIRECT
 DOMAIN,connectivitycheck.gstatic.com,DIRECT
+DOMAIN,csi.gstatic.com,DIRECT
 DOMAIN,fonts.gstatic.com,DIRECT
 DOMAIN,ssl.gstatic.com,DIRECT
 
@@ -41,12 +42,9 @@ DOMAIN,storage.googleapis.com,DIRECT
 DOMAIN,update.googleapis.com,DIRECT
 
 DOMAIN-SUFFIX,googleanalytics.com,DIRECT
-DOMAIN-SUFFIX,googletagservices.com,DIRECT
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
 
 DOMAIN,app.adjust.com,DIRECT
-
-DOMAIN,bdtj.tagtic.cn,DIRECT
 
 DOMAIN,log.mmstat.com,DIRECT
 DOMAIN,sycm.mmstat.com,DIRECT
