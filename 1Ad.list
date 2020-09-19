@@ -1,7 +1,5 @@
 ########################################Advertising########################################
 # > General
-DOMAIN-KEYWORD,adservice,REJECT
-
 DOMAIN-SUFFIX,1phads.com,REJECT
 DOMAIN-SUFFIX,1rtb.com,REJECT
 DOMAIN-SUFFIX,1xl.co.uk,REJECT
@@ -90,6 +88,7 @@ DOMAIN-SUFFIX,adsage.cn,REJECT
 DOMAIN-SUFFIX,adsage.com,REJECT
 DOMAIN-SUFFIX,ad-score.com,REJECT
 DOMAIN-SUFFIX,adsensor.org,REJECT
+DOMAIN-SUFFIX,adservice.com,REJECT
 DOMAIN-SUFFIX,adsmediabox.com,REJECT
 DOMAIN-SUFFIX,ads-pixiv.net,REJECT
 DOMAIN-SUFFIX,ad-srv.co,REJECT
@@ -356,6 +355,7 @@ DOMAIN,exp.360in.com,REJECT
 
 # (G)
 # > Google
+DOMAIN-SUFFIX,adservice.google.com,REJECT
 DOMAIN-SUFFIX,doubleclick.net,REJECT
 DOMAIN-SUFFIX,googleadservices.com,REJECT
 DOMAIN-SUFFIX,googleadsserving.cn,REJECT
