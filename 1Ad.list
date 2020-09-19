@@ -534,6 +534,9 @@ DOMAIN,adsebs.ximalaya.com,REJECT
 DOMAIN,ads-img-qc.xhscdn.com,REJECT
 DOMAIN,ads-video-qc.xhscdn.com,REJECT
 DOMAIN,t-ads.xiaohongshu.com,REJECT
+# > Xunlei iOS
+DOMAIN,api-access.pangolin-sdk-toutiao.com,REJECT
+DOMAIN,xladapi.izuiyou.com,REJECT
 
 # (Y)
 # > Yahoo
