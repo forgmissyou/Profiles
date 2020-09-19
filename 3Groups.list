@@ -171,20 +171,31 @@ USER-AGENT,SpeedTest*,Speedtest
 DOMAIN-KEYWORD,speedtest,Speedtest
 
 # GFW
+DOMAIN,search.avira.com,GFW
+DOMAIN,us.weibo.com,GFW
 DOMAIN,www.aia.com.hk,GFW
 DOMAIN,www.iavnight.com,GFW
 
+DOMAIN-SUFFIX,64memo.com,GFW
 DOMAIN-SUFFIX,aiaprod.appgreen.com,GFW
+DOMAIN-SUFFIX,cloudcone.com.cn,GFW
 DOMAIN-SUFFIX,code.jquery.com,GFW
 DOMAIN-SUFFIX,dlink.za.group,GFW
+DOMAIN-SUFFIX,dubox.com,GFW
+DOMAIN-SUFFIX,duboxcdn.com,GFW
 DOMAIN-SUFFIX,feed43.com,GFW
 DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
 DOMAIN-SUFFIX,hkinsu.com,GFW
+DOMAIN-SUFFIX,inkbunny.net,GFW
 DOMAIN-SUFFIX,jinkela.pw,GFW
+DOMAIN-SUFFIX,liveviptv.xyz,GFW
+DOMAIN-SUFFIX,mangakakalot.com,GFW
+DOMAIN-SUFFIX,metapix.net,GFW
 DOMAIN-SUFFIX,ntdimg.com,GFW
 DOMAIN-SUFFIX,qqj68.com,GFW
+DOMAIN-SUFFIX,shopeemobile.com,GFW
 DOMAIN-SUFFIX,sinatra.ishowsapp.com,GFW
 DOMAIN-SUFFIX,t.cn,GFW
 DOMAIN-SUFFIX,tingtalk.me,GFW
@@ -192,8 +203,7 @@ DOMAIN-SUFFIX,translatetheweb.com,GFW
 DOMAIN-SUFFIX,ultrareach.com,GFW
 DOMAIN-SUFFIX,ultrasurf.us,GFW
 DOMAIN-SUFFIX,umei.fun,GFW
-DOMAIN-SUFFIX,64memo.com,GFW
-DOMAIN-SUFFIX,liveviptv.xyz,GFW
+DOMAIN-SUFFIX,weebly.com,GFW
 DOMAIN-SUFFIX,xixicats.pw,GFW
 DOMAIN-SUFFIX,xsnvshen.com,GFW
 
