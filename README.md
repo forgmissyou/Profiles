@@ -1,7 +1,7 @@
 #20200914
 
 Rewrite.list 修改自
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Rewrite.conf
+https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Rewrite
 
 1AdACL.list
 修改自
@@ -19,9 +19,9 @@ https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter
 
 GFWLIST一级域名
 
-https://raw.githubusercontent.com/poctopus/gfwlist-plus/master/gfwlist-plus.txt
+https://github.com/poctopus/gfwlist-plus
 
-https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/master/gfwlist.txt
+https://github.com/Loukky/gfwlist-by-loukky
 
 GFWLIST参考，思路与s5s5略有差异
 
