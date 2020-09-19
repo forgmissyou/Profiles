@@ -15,8 +15,7 @@ https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
 6CN.list 
 修改自
 
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/China.list
-
+https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Filter/China.list
 
 GFWLIST一级域名
 
