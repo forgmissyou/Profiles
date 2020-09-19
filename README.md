@@ -6,6 +6,8 @@ https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Rewrite
 1AdACL.list
 修改自
 
+https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter/Guard
+
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
@@ -15,7 +17,6 @@ https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
 
 https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/China.list
 
-7IP.list 国内/香港IP直连
 
 GFWLIST一级域名
 
