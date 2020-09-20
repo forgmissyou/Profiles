@@ -8,18 +8,12 @@ https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Rewrite
 
 https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter/Guard
 
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
-
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
-
 6CN.list 
 修改自
 
 https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Filter/China.list
 
 GFWLIST一级域名
-
-https://github.com/poctopus/gfwlist-plus
 
 https://github.com/Loukky/gfwlist-by-loukky
 
