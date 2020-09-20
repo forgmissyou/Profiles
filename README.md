@@ -1,4 +1,4 @@
-#20200914
+#20200920
 
 Rewrite.list 修改自
 https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Rewrite
