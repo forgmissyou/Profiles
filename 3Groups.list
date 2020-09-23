@@ -4,12 +4,15 @@ DOMAIN,connectivitycheck.gstatic.com,DIRECT
 DOMAIN,csi.gstatic.com,DIRECT
 DOMAIN,fonts.gstatic.com,DIRECT
 DOMAIN,ssl.gstatic.com,DIRECT
+DOMAIN,www.gstatic.com,DIRECT
 
 DOMAIN,beacons.gcp.gvt2.com,DIRECT
 DOMAIN,beacons.gvt2.com,DIRECT
 DOMAIN,beacons3.gvt2.com,DIRECT
 DOMAIN,redirector.gvt1.com,DIRECT
 
+
+DOMAIN,gtm.oasisfeng.com,DIRECT
 DOMAIN,cn.gravatar.com,DIRECT
 DOMAIN-SUFFIX,app-measurement.com,DIRECT
 DOMAIN-SUFFIX,recaptcha.net,DIRECT
@@ -25,9 +28,16 @@ DOMAIN,corp.google.com,DIRECT
 DOMAIN,dl.l.google.com,DIRECT
 DOMAIN,dl.google.com,DIRECT
 DOMAIN,kh.google.com,DIRECT
+DOMAIN,khm.google.com,DIRECT
+DOMAIN,khm0.google.com,DIRECT
+DOMAIN,khm1.google.com,DIRECT
+DOMAIN,khm2.google.com,DIRECT
+DOMAIN,khm3.google.com,DIRECT
+DOMAIN,khmdb.google.com,DIRECT
 DOMAIN,mtalk.google.com,DIRECT
 DOMAIN,pagead-googlehosted.l.google.com,DIRECT
 DOMAIN,safebrowsing-cache.google.com,DIRECT
+DOMAIN,ssl-google-analytics.l.google.com,DIRECT
 DOMAIN,toolbarqueries.google.com,DIRECT
 DOMAIN,tools.google.com,DIRECT
 DOMAIN,tools.l.google.com,DIRECT
@@ -36,6 +46,12 @@ DOMAIN,www-googletagmanager.l.google.com,DIRECT
 DOMAIN,clientservices.googleapis.com,DIRECT
 DOMAIN,fonts.googleapis.com,DIRECT
 DOMAIN,imasdk.googleapis.com,DIRECT
+DOMAIN,khm.googleapis.com,DIRECT
+DOMAIN,khm0.googleapis.com,DIRECT
+DOMAIN,khm1.googleapis.com,DIRECT
+DOMAIN,khm2.googleapis.com,DIRECT
+DOMAIN,khm3.googleapis.com,DIRECT
+DOMAIN,khmdb.googleapis.com,DIRECT
 DOMAIN,safebrowsing.googleapis.com,DIRECT
 DOMAIN,storage.googleapis.com,DIRECT
 #DOMAIN,translate.googleapis.com,DIRECT
@@ -44,6 +60,7 @@ DOMAIN,update.googleapis.com,DIRECT
 DOMAIN-SUFFIX,googleanalytics.com,DIRECT
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
 
+
 DOMAIN,app.adjust.com,DIRECT
 
 DOMAIN,log.mmstat.com,DIRECT
@@ -51,7 +68,6 @@ DOMAIN,sycm.mmstat.com,DIRECT
 
 DOMAIN,livew.l.qq.com,DIRECT
 DOMAIN,vd.l.qq.com,DIRECT
-DOMAIN,analytics.strava.com,DIRECT
 
 DOMAIN,msg.umeng.com,DIRECT
 DOMAIN,msg.umengcloud.com,DIRECT
@@ -176,6 +192,7 @@ DOMAIN,www.iavnight.com,GFW
 
 DOMAIN-SUFFIX,64memo.com,GFW
 DOMAIN-SUFFIX,aiaprod.appgreen.com,GFW
+DOMAIN-SUFFIX,cloud.andrewjr.wang,GFW
 DOMAIN-SUFFIX,cloudcone.com.cn,GFW
 DOMAIN-SUFFIX,code.jquery.com,GFW
 DOMAIN-SUFFIX,dlink.za.group,GFW

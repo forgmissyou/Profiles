@@ -74,6 +74,7 @@ DOMAIN-SUFFIX,adfactor.nl,REJECT
 DOMAIN-SUFFIX,adfalcon.com,REJECT
 DOMAIN-SUFFIX,adflow.ru,REJECT
 DOMAIN-SUFFIX,adinall.com,REJECT
+DOMAIN-SUFFIX,adjust.com,REJECT
 DOMAIN-SUFFIX,ad-locus.com,REJECT
 DOMAIN-SUFFIX,adlooxtracking.com,REJECT
 DOMAIN-SUFFIX,admaster.com.cn,REJECT
@@ -170,6 +171,7 @@ DOMAIN-SUFFIX,medialytics.com,REJECT
 DOMAIN-SUFFIX,meetrics.com,REJECT
 DOMAIN-SUFFIX,meetrics.net,REJECT
 DOMAIN-SUFFIX,miaozhen.com,REJECT
+DOMAIN-SUFFIX,mmstat.com,REJECT
 DOMAIN-SUFFIX,moatads.com,REJECT
 DOMAIN-SUFFIX,mobclix.com,REJECT
 DOMAIN-SUFFIX,mopub.com,REJECT
@@ -554,8 +556,7 @@ DOMAIN,ads.yahoo.de,REJECT
 # > Zhihu
 USER-AGENT,AVOS*,REJECT
 DOMAIN,appcloud2.zhihu.com,REJECT
-#DOMAIN,sugar.zhihu.com,REJECT
-#导致知乎小程序错误
+#DOMAIN,sugar.zhihu.com,REJECT #导致知乎小程序错误
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com,REJECT
 IP-CIDR,118.89.204.198/32,REJECT
 # > ZOL
@@ -774,5 +775,5 @@ DOMAIN,btrace.qq.com,REJECT
 DOMAIN,mtrace.qq.com,REJECT
 DOMAIN,safebrowsing.urlsec.qq.com,REJECT
 # > Umeng
-DOMAIN-KEYWORD,logs.umeng.com,REJECT
-DOMAIN-KEYWORD,logs.umengcloud.com,REJECT
+DOMAIN-SUFFIX,umeng.com,REJECT
+DOMAIN-SUFFIX,umengcloud.com,REJECT
