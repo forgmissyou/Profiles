@@ -3,7 +3,7 @@
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: 2020-09-17 16:11:07 GMT+8
+! Last Modified: 2020-09-23 20:46:28 GMT+8
 !
 ! HomePage: https://github.com/Loukky/gfwlist-by-loukky
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -6369,6 +6369,7 @@ ultrasurf
 ||iyouport.org
 ||use.fontawesome.com
 ||code.jquery.com
+||zyxel.com
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--4gq171p.com
