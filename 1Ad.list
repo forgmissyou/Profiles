@@ -539,6 +539,10 @@ DOMAIN,t-ads.xiaohongshu.com,REJECT
 # > Xunlei iOS
 DOMAIN,api-access.pangolin-sdk-toutiao.com,REJECT
 DOMAIN,xladapi.izuiyou.com,REJECT
+# xunlei 版权
+DOMAIN,hub5idx.v6.shub.sandai.net,REJECT
+DOMAIN,hub5emu.v6.shub.sandai.net,REJECT
+DOMAIN,hub5btmain.v6.shub.sandai.net,REJECT
 
 # (Y)
 # > Yahoo
