@@ -13,9 +13,6 @@ https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter/Guard
 
 https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Filter/China.list
 
-GFWLIST一级域名
-
-https://github.com/Loukky/gfwlist-by-loukky
 
 GFWLIST参考，思路与s5s5略有差异
 
