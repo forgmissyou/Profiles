@@ -325,7 +325,7 @@ hostname = duckduckgo.com,mobi.360doc.com,dxy.com,link.zhihu.com,oia.zhihu.com,w
 # > JD - api.m.jd.com,ms.jr.jd.com,img*.360buyimg.com
 ^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=start url reject-200
 ^https?:\/\/api\.m\.jd.com\/client\.action\?functionId=queryMaterialAdverts url reject-200
-^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ url reject
+^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ url reject-200
 ^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture url reject-200
 ^https?:\/\/img\d+\.360buyimg\.com\/jddjadvertise\/ url reject-200
 # > JiaXiaoeDianTong - api.jxedt.com,richmanapi.jxedt.com
@@ -502,7 +502,7 @@ hostname = duckduckgo.com,mobi.360doc.com,dxy.com,link.zhihu.com,oia.zhihu.com,w
 ^https?:\/\/vv\.video\.qq\.com\/getvmind\? url reject-200
 ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/[a-z.]+\.tc\.qq\.com\/[\w\W]+p20\d\.1\.mp4\? url reject-200
 ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/[a-z.]+\.tc\.qq\.com\/[\w\W]+=v3004 url reject-200
-^https?:\/\/video\.dispatch\.tc\.qq\.com\/\w+\.p20\d\.1\.mp4 url reject
+^https?:\/\/video\.dispatch\.tc\.qq\.com\/\w+\.p20\d\.1\.mp4 url reject-200
 ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/[a-z.]+\.tc\.qq\.com\/[\w\W]+_p20\d_ url reject-200
 # > Tencent News - r.inews.qq.com
 ^https?:\/\/r\.inews\.qq\.com\/(adsBlacklist|getFullScreenPic|getQQNewsRemoteConfig) url reject-200
