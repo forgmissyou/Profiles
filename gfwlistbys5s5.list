@@ -1080,8 +1080,6 @@ DOMAIN,tibetfocus.com,Proxy
 DOMAIN,tibetfund.org,Proxy
 DOMAIN,tibethouse.jp,Proxy
 DOMAIN,tibethouse.org,Proxy
-DOMAIN,tibet-info.net,Proxy
-DOMAIN,tibetmuseum.org,Proxy
 DOMAIN,tibetoffice.ch,Proxy
 DOMAIN,tibetoffice.com.au,Proxy
 DOMAIN,tibetoffice.eu,Proxy
@@ -1534,6 +1532,7 @@ DOMAIN-SUFFIX,alhayat.com,Proxy
 DOMAIN-SUFFIX,alicejapan.co.jp,Proxy
 DOMAIN-SUFFIX,al-islam.com,Proxy
 DOMAIN-SUFFIX,alkasir.com,Proxy
+DOMAIN-SUFFIX,all4mom.org,Proxy
 DOMAIN-SUFFIX,allcoin.com,Proxy
 DOMAIN-SUFFIX,allconnected.co,Proxy
 DOMAIN-SUFFIX,alldrawnsex.com,Proxy
@@ -1891,6 +1890,7 @@ DOMAIN-SUFFIX,cam4.com,Proxy
 DOMAIN-SUFFIX,cam4.jp,Proxy
 DOMAIN-SUFFIX,cam4.sg,Proxy
 DOMAIN-SUFFIX,camfrog.com,Proxy
+DOMAIN-SUFFIX,campaignforuyghurs.org,Proxy
 DOMAIN-SUFFIX,cams.com,Proxy
 DOMAIN-SUFFIX,cams.org.sg,Proxy
 DOMAIN-SUFFIX,canalporno.com,Proxy
@@ -2605,6 +2605,7 @@ DOMAIN-SUFFIX,freefuckvids.com,Proxy
 DOMAIN-SUFFIX,freegao.com,Proxy
 DOMAIN-SUFFIX,free-hada-now.org,Proxy
 DOMAIN-SUFFIX,freehongkong.org,Proxy
+DOMAIN-SUFFIX,freekazakhs.org,Proxy
 DOMAIN-SUFFIX,freekwonpyong.org,Proxy
 DOMAIN-SUFFIX,freelotto.com,Proxy
 DOMAIN-SUFFIX,freenetproject.org,Proxy
@@ -2750,6 +2751,7 @@ DOMAIN-SUFFIX,gmhz.org,Proxy
 DOMAIN-SUFFIX,gmll.org,Proxy
 DOMAIN-SUFFIX,gmodules.com,Proxy
 DOMAIN-SUFFIX,gnci.org.hk,Proxy
+DOMAIN-SUFFIX,gnews.org,Proxy
 DOMAIN-SUFFIX,go141.com,Proxy
 DOMAIN-SUFFIX,goagent.biz,Proxy
 DOMAIN-SUFFIX,goagentplus.com,Proxy
@@ -2862,6 +2864,7 @@ DOMAIN-SUFFIX,hellouk.org,Proxy
 DOMAIN-SUFFIX,helpeachpeople.com,Proxy
 DOMAIN-SUFFIX,helplinfen.com,Proxy
 DOMAIN-SUFFIX,helpster.de,Proxy
+DOMAIN-SUFFIX,helpuyghursnow.org,Proxy
 DOMAIN-SUFFIX,helpzhuling.org,Proxy
 DOMAIN-SUFFIX,hentai.to,Proxy
 DOMAIN-SUFFIX,hentaivideoworld.com,Proxy
@@ -3043,6 +3046,7 @@ DOMAIN-SUFFIX,ihao.org,Proxy
 DOMAIN-SUFFIX,iicns.com,Proxy
 DOMAIN-SUFFIX,ikstar.com,Proxy
 DOMAIN-SUFFIX,ikwb.com,Proxy
+DOMAIN-SUFFIX,ilhamtohtiinstitute.org,Proxy
 DOMAIN-SUFFIX,illusionfactory.com,Proxy
 DOMAIN-SUFFIX,ilove80.be,Proxy
 DOMAIN-SUFFIX,ilovelongtoes.com,Proxy
@@ -3484,6 +3488,7 @@ DOMAIN-SUFFIX,mikesoltys.com,Proxy
 DOMAIN-SUFFIX,milsurps.com,Proxy
 DOMAIN-SUFFIX,mimivip.com,Proxy
 DOMAIN-SUFFIX,mimivv.com,Proxy
+DOMAIN-SUFFIX,mingdemedia.org,Proxy
 DOMAIN-SUFFIX,minghui.org,Proxy
 DOMAIN-SUFFIX,mingjinglishi.com,Proxy
 DOMAIN-SUFFIX,mingjingtimes.com,Proxy
@@ -3632,6 +3637,7 @@ DOMAIN-SUFFIX,naol.cc,Proxy
 DOMAIN-SUFFIX,nasa.gov,Proxy
 DOMAIN-SUFFIX,nat.gov.tw,Proxy
 DOMAIN-SUFFIX,nat.moe,Proxy
+DOMAIN-SUFFIX,nationalawakening.org,Proxy
 DOMAIN-SUFFIX,national-lottery.co.uk,Proxy
 DOMAIN-SUFFIX,nationsonline.org,Proxy
 DOMAIN-SUFFIX,nationwide.com,Proxy
@@ -4110,6 +4116,7 @@ DOMAIN-SUFFIX,releaseinternational.org,Proxy
 DOMAIN-SUFFIX,renminbao.com,Proxy
 DOMAIN-SUFFIX,renyurenquan.org,Proxy
 DOMAIN-SUFFIX,resilio.com,Proxy
+DOMAIN-SUFFIX,resistchina.org,Proxy
 DOMAIN-SUFFIX,retweeteffect.com,Proxy
 DOMAIN-SUFFIX,retweetrank.com,Proxy
 DOMAIN-SUFFIX,reuters.com,Proxy
@@ -4406,6 +4413,7 @@ DOMAIN-SUFFIX,sstmlt.moe,Proxy
 DOMAIN-SUFFIX,sstmlt.net,Proxy
 DOMAIN-SUFFIX,stage64.hk,Proxy
 DOMAIN-SUFFIX,standupfortibet.org,Proxy
+DOMAIN-SUFFIX,standwithhk.org,Proxy
 DOMAIN-SUFFIX,starfishfx.com,Proxy
 DOMAIN-SUFFIX,starp2p.com,Proxy
 DOMAIN-SUFFIX,startpage.com,Proxy
@@ -4634,6 +4642,7 @@ DOMAIN-SUFFIX,tibet-initiative.de,Proxy
 DOMAIN-SUFFIX,tibetjustice.org,Proxy
 DOMAIN-SUFFIX,tibetkomite.dk,Proxy
 DOMAIN-SUFFIX,tibet-munich.de,Proxy
+DOMAIN-SUFFIX,tibetmuseum.org,Proxy
 DOMAIN-SUFFIX,tibetnetwork.org,Proxy
 DOMAIN-SUFFIX,tibetonline.com,Proxy
 DOMAIN-SUFFIX,tibetonline.tv,Proxy
@@ -4735,6 +4744,7 @@ DOMAIN-SUFFIX,tuo8.space,Proxy
 DOMAIN-SUFFIX,turansam.org,Proxy
 DOMAIN-SUFFIX,turbohide.com,Proxy
 DOMAIN-SUFFIX,turbotwitter.com,Proxy
+DOMAIN-SUFFIX,turkistantimes.com,Proxy
 DOMAIN-SUFFIX,turntable.fm,Proxy
 DOMAIN-SUFFIX,tutanota.com,Proxy
 DOMAIN-SUFFIX,tuvpn.com,Proxy
