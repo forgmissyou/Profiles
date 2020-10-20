@@ -264,6 +264,7 @@ DOMAIN,adui.tg.meitu.com,REJECT
 DOMAIN,adv.bandi.so,REJECT
 DOMAIN,adv.ettoday.net,REJECT
 DOMAIN,api.adnet.mob.com,REJECT
+DOMAIN,api-ad.kajicam.com,REJECT
 DOMAIN,app-ad.variflight.com,REJECT
 DOMAIN,appnext.hs.llnwd.net,REJECT
 DOMAIN,appnext-a.akamaihd.net,REJECT
@@ -272,6 +273,7 @@ DOMAIN,g.ousns.net,REJECT
 DOMAIN,ggs.myzaker.com,REJECT
 DOMAIN,ggx.cmvideo.cn,REJECT
 DOMAIN,itad.linetv.tw,REJECT
+DOMAIN,ma-ads.ctrip.com,REJECT
 DOMAIN,mads.suning.com,REJECT
 DOMAIN,mobileads.msn.com,REJECT
 DOMAIN,mopnativeadv.037201.com,REJECT
@@ -559,7 +561,6 @@ DOMAIN,ads.yahoo.de,REJECT
 # (Z)
 # > Zhihu
 USER-AGENT,AVOS*,REJECT
-DOMAIN,appcloud2.zhihu.com,REJECT
 #DOMAIN,sugar.zhihu.com,REJECT #导致知乎小程序错误
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com,REJECT
 IP-CIDR,118.89.204.198/32,REJECT
@@ -727,6 +728,7 @@ IP-CIDR,124.14.21.147/32,REJECT
 IP-CIDR,124.14.21.151/32,REJECT
 IP-CIDR,180.166.52.24/32,REJECT
 IP-CIDR,211.161.101.106/32,REJECT
+IP-CIDR,211.161.101.110/32,REJECT
 IP-CIDR,220.115.251.25/32,REJECT
 IP-CIDR,222.73.156.235/32,REJECT
 
