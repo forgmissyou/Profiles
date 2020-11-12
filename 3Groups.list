@@ -189,6 +189,7 @@ DOMAIN,search.avira.com,GFW
 DOMAIN,us.weibo.com,GFW
 DOMAIN,www.aia.com.hk,GFW
 DOMAIN,www.iavnight.com,GFW
+DOMAIN,www.suavetech.com,GFW
 
 DOMAIN-SUFFIX,64memo.com,GFW
 DOMAIN-SUFFIX,aiaprod.appgreen.com,GFW
@@ -213,6 +214,7 @@ DOMAIN-SUFFIX,qqj68.com,GFW
 DOMAIN-SUFFIX,shopeemobile.com,GFW
 DOMAIN-SUFFIX,sinatra.ishowsapp.com,GFW
 DOMAIN-SUFFIX,t.cn,GFW
+DOMAIN-SUFFIX,thenationalpulse.com,GFW
 DOMAIN-SUFFIX,tingtalk.me,GFW
 DOMAIN-SUFFIX,translatetheweb.com,GFW
 DOMAIN-SUFFIX,ultrareach.com,GFW
