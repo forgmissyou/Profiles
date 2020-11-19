@@ -1,4 +1,26 @@
-# NoGFW
+# Direct
+DOMAIN,app.adjust.com,DIRECT
+
+DOMAIN,log.mmstat.com,DIRECT
+DOMAIN,sycm.mmstat.com,DIRECT
+
+DOMAIN,livew.l.qq.com,DIRECT
+DOMAIN,vd.l.qq.com,DIRECT
+
+DOMAIN,msg.umeng.com,DIRECT
+DOMAIN,msg.umengcloud.com,DIRECT
+
+DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
+
+DOMAIN,nrch.culture.tw,DIRECT
+
+# Google
+DOMAIN-SUFFIX,app-measurement.com,DIRECT
+DOMAIN-SUFFIX,recaptcha.net,DIRECT
+
+DOMAIN,gtm.oasisfeng.com,DIRECT
+DOMAIN,cn.gravatar.com,DIRECT
+
 DOMAIN,checkin.gstatic.com,DIRECT
 DOMAIN,connectivitycheck.gstatic.com,DIRECT
 DOMAIN,csi.gstatic.com,DIRECT
@@ -6,16 +28,10 @@ DOMAIN,fonts.gstatic.com,DIRECT
 DOMAIN,ssl.gstatic.com,DIRECT
 DOMAIN,www.gstatic.com,DIRECT
 
+DOMAIN,redirector.gvt1.com,DIRECT
 DOMAIN,beacons.gcp.gvt2.com,DIRECT
 DOMAIN,beacons.gvt2.com,DIRECT
 DOMAIN,beacons3.gvt2.com,DIRECT
-DOMAIN,redirector.gvt1.com,DIRECT
-
-
-DOMAIN,gtm.oasisfeng.com,DIRECT
-DOMAIN,cn.gravatar.com,DIRECT
-DOMAIN-SUFFIX,app-measurement.com,DIRECT
-DOMAIN-SUFFIX,recaptcha.net,DIRECT
 
 DOMAIN,crl.pki.goog,DIRECT
 DOMAIN,ocsp.pki.goog,DIRECT
@@ -60,24 +76,7 @@ DOMAIN,update.googleapis.com,DIRECT
 DOMAIN-SUFFIX,googleanalytics.com,DIRECT
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
 
-
-DOMAIN,app.adjust.com,DIRECT
-
-DOMAIN,log.mmstat.com,DIRECT
-DOMAIN,sycm.mmstat.com,DIRECT
-
-DOMAIN,livew.l.qq.com,DIRECT
-DOMAIN,vd.l.qq.com,DIRECT
-
-DOMAIN,msg.umeng.com,DIRECT
-DOMAIN,msg.umengcloud.com,DIRECT
-
-DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
-
-DOMAIN,nrch.culture.tw,DIRECT
-
 # Apple
-#DOMAIN,api-glb-sea.smoot.apple.com,GFW
 DOMAIN,lookup-api.apple.com,GFW
 DOMAIN,testflight.apple.com,GFW
 DOMAIN-SUFFIX,smoot.apple.com,GFW
@@ -185,6 +184,7 @@ USER-AGENT,SpeedTest*,Speedtest
 DOMAIN-KEYWORD,speedtest,Speedtest
 
 # GFW
+DOMAIN,news.ycombinator.com,GFW
 DOMAIN,search.avira.com,GFW
 DOMAIN,us.weibo.com,GFW
 DOMAIN,www.aia.com.hk,GFW
