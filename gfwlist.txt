@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 41vcUoqMBGVsKTg5YDqunA
+! Checksum: 599k2oDsYa2ToeyxPhx9zw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 08 Oct 2020 10:37:39 -0400
+! Last Modified: Wed, 18 Nov 2020 19:49:59 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2029,8 +2029,8 @@ video.ap.org
 ||apiary.io
 .apigee.com
 ||apigee.com
-apk-dl.com
-apkdler.com/apk/view
+||apk-dl.com
+||apkcombo.com
 .apkmonk.com/app
 ||apkplz.com
 apkpure.com
@@ -4026,6 +4026,7 @@ greatfirewallofchina.org
 ||greatroc.tw
 .gts-vpn.com
 |http://gts-vpn.com
+||gtv.org
 .gu-chu-sum.org
 |http://gu-chu-sum.org
 .guaguass.com
@@ -5567,6 +5568,7 @@ paper.li
 paperb.us
 .paradisehill.cc
 .paradisepoker.com
+||parler.com
 ||parsevideo.com
 .partycasino.com
 .partypoker.com
