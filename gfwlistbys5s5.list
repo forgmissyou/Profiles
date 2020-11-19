@@ -75,8 +75,6 @@ DOMAIN,antiwave.net,Proxy
 DOMAIN,anysex.com,Proxy
 DOMAIN,aofriend.com,Proxy
 DOMAIN,api.proxlet.com,Proxy
-DOMAIN,apk-dl.com,Proxy
-DOMAIN,apkdler.com,Proxy
 DOMAIN,app.heywire.com,Proxy
 DOMAIN,appshopper.com,Proxy
 DOMAIN,ar.hao123.com,Proxy
@@ -1603,6 +1601,8 @@ DOMAIN-SUFFIX,apetube.com,Proxy
 DOMAIN-SUFFIX,api.ai,Proxy
 DOMAIN-SUFFIX,apiary.io,Proxy
 DOMAIN-SUFFIX,apigee.com,Proxy
+DOMAIN-SUFFIX,apkcombo.com,Proxy
+DOMAIN-SUFFIX,apk-dl.com,Proxy
 DOMAIN-SUFFIX,apkmirror.com,Proxy
 DOMAIN-SUFFIX,apkmonk.com,Proxy
 DOMAIN-SUFFIX,apkplz.com,Proxy
@@ -2809,6 +2809,7 @@ DOMAIN-SUFFIX,greenvpn.org,Proxy
 DOMAIN-SUFFIX,grotty-monday.com,Proxy
 DOMAIN-SUFFIX,gstatic.com,Proxy
 DOMAIN-SUFFIX,gtricks.com,Proxy
+DOMAIN-SUFFIX,gtv.org,Proxy
 DOMAIN-SUFFIX,guangming.com.my,Proxy
 DOMAIN-SUFFIX,guangnianvpn.com,Proxy
 DOMAIN-SUFFIX,guardster.com,Proxy
@@ -3859,6 +3860,7 @@ DOMAIN-SUFFIX,pao-pao.net,Proxy
 DOMAIN-SUFFIX,paradisehill.cc,Proxy
 DOMAIN-SUFFIX,paradisepoker.com,Proxy
 DOMAIN-SUFFIX,parkansky.com,Proxy
+DOMAIN-SUFFIX,parler.com,Proxy
 DOMAIN-SUFFIX,parsevideo.com,Proxy
 DOMAIN-SUFFIX,partycasino.com,Proxy
 DOMAIN-SUFFIX,partypoker.com,Proxy
