@@ -98,8 +98,8 @@ DOMAIN-SUFFIX,mzstatic.com,Apple
 # Microsoft
 # https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
 
-DOMAIN,news.hk.msn.com,GFW
-DOMAIN,news.msn.com.tw,GFW
+DOMAIN-SUFFIX,hk.msn.com,GFW
+DOMAIN-SUFFIX,msn.com.tw,GFW
 DOMAIN,www.bing.com,GFW
 DOMAIN,www.skype.com,GFW
 
@@ -183,7 +183,9 @@ DOMAIN-KEYWORD,microsoft,Microsoft
 USER-AGENT,SpeedTest*,Speedtest
 DOMAIN-KEYWORD,speedtest,Speedtest
 
-# GFW
+# Proxy
+DOMAIN,bgp.he.net,GFW
+DOMAIN,blog.wateroot.com,GFW
 DOMAIN,news.ycombinator.com,GFW
 DOMAIN,search.avira.com,GFW
 DOMAIN,us.weibo.com,GFW
@@ -205,7 +207,6 @@ DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
 DOMAIN-SUFFIX,hkinsu.com,GFW
 DOMAIN-SUFFIX,inkbunny.net,GFW
-DOMAIN-SUFFIX,jinkela.pw,GFW
 DOMAIN-SUFFIX,liveviptv.xyz,GFW
 DOMAIN-SUFFIX,mangakakalot.com,GFW
 DOMAIN-SUFFIX,metapix.net,GFW
@@ -221,7 +222,6 @@ DOMAIN-SUFFIX,ultrareach.com,GFW
 DOMAIN-SUFFIX,ultrasurf.us,GFW
 DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,weebly.com,GFW
-DOMAIN-SUFFIX,xixicats.pw,GFW
 DOMAIN-SUFFIX,xsnvshen.com,GFW
 
 # Telegram
