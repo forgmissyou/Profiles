@@ -195,7 +195,7 @@ DOMAIN,www.suavetech.com,GFW
 DOMAIN-SUFFIX,aia.com,GFW
 DOMAIN-SUFFIX,aia.com.hk,GFW
 DOMAIN-SUFFIX,aiaprod.appgreen.com,GFW
-DOMAIN-SUFFIX,aiacdnprod.4d.com.hk
+DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,GFW
 
 DOMAIN-SUFFIX,64memo.com,GFW
 DOMAIN-SUFFIX,cloud.andrewjr.wang,GFW
