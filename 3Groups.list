@@ -189,12 +189,15 @@ DOMAIN,blog.wateroot.com,GFW
 DOMAIN,news.ycombinator.com,GFW
 DOMAIN,search.avira.com,GFW
 DOMAIN,us.weibo.com,GFW
-DOMAIN,www.aia.com.hk,GFW
 DOMAIN,www.iavnight.com,GFW
 DOMAIN,www.suavetech.com,GFW
 
-DOMAIN-SUFFIX,64memo.com,GFW
+DOMAIN-SUFFIX,aia.com,GFW
+DOMAIN-SUFFIX,aia.com.hk,GFW
 DOMAIN-SUFFIX,aiaprod.appgreen.com,GFW
+DOMAIN-SUFFIX,aiacdnprod.4d.com.hk
+
+DOMAIN-SUFFIX,64memo.com,GFW
 DOMAIN-SUFFIX,cloud.andrewjr.wang,GFW
 DOMAIN-SUFFIX,cloudcone.com.cn,GFW
 DOMAIN-SUFFIX,code.jquery.com,GFW
