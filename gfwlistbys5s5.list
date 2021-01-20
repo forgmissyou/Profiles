@@ -142,7 +142,6 @@ DOMAIN,blog.calibre-ebook.com,Proxy
 DOMAIN,blog.cnyes.com,Proxy
 DOMAIN,blog.excite.co.jp,Proxy
 DOMAIN,blog.foolsmountain.com,Proxy
-DOMAIN,blog.inoreader.com,Proxy
 DOMAIN,blog.istef.info,Proxy
 DOMAIN,blog.jackjia.com,Proxy
 DOMAIN,blog.jp,Proxy
@@ -311,7 +310,6 @@ DOMAIN,digiland.tw,Proxy
 DOMAIN,disp.cc,Proxy
 DOMAIN,djangosnippets.org,Proxy
 DOMAIN,doctorvoice.org,Proxy
-DOMAIN,domainhelp.search.com,Proxy
 DOMAIN,dowei.org,Proxy
 DOMAIN,download.aircrack-ng.org,Proxy
 DOMAIN,download.cnet.com,Proxy
@@ -957,7 +955,6 @@ DOMAIN,savetibet.nl,Proxy
 DOMAIN,savetibet.ru,Proxy
 DOMAIN,savevid.com,Proxy
 DOMAIN,sbme.me,Proxy
-DOMAIN,seapuff.com,Proxy
 DOMAIN,secure.hustler.com,Proxy
 DOMAIN,securityinabox.org,Proxy
 DOMAIN,seesmic.com,Proxy
@@ -1487,6 +1484,7 @@ DOMAIN-SUFFIX,accim.org,Proxy
 DOMAIN-SUFFIX,aceros-de-hispania.com,Proxy
 DOMAIN-SUFFIX,acevpn.com,Proxy
 DOMAIN-SUFFIX,acgkj.com,Proxy
+DOMAIN-SUFFIX,acgnx.se,Proxy
 DOMAIN-SUFFIX,acmedia365.com,Proxy
 DOMAIN-SUFFIX,acmetoy.com,Proxy
 DOMAIN-SUFFIX,acnw.com.au,Proxy
@@ -2034,6 +2032,7 @@ DOMAIN-SUFFIX,cipfg.org,Proxy
 DOMAIN-SUFFIX,circlethebayfortibet.org,Proxy
 DOMAIN-SUFFIX,cirosantilli.com,Proxy
 DOMAIN-SUFFIX,citizencn.com,Proxy
+DOMAIN-SUFFIX,citizenlab.ca,Proxy
 DOMAIN-SUFFIX,citizenlab.org,Proxy
 DOMAIN-SUFFIX,citizenscommission.hk,Proxy
 DOMAIN-SUFFIX,citypopulation.de,Proxy
@@ -2765,6 +2764,7 @@ DOMAIN-SUFFIX,gokbayrak.com,Proxy
 DOMAIN-SUFFIX,golang.org,Proxy
 DOMAIN-SUFFIX,goldbet.com,Proxy
 DOMAIN-SUFFIX,goldbetsports.com,Proxy
+DOMAIN-SUFFIX,golden-ages.org,Proxy
 DOMAIN-SUFFIX,goldeneyevault.com,Proxy
 DOMAIN-SUFFIX,goldenfrog.com,Proxy
 DOMAIN-SUFFIX,goldstep.net,Proxy
@@ -2810,6 +2810,7 @@ DOMAIN-SUFFIX,grotty-monday.com,Proxy
 DOMAIN-SUFFIX,gstatic.com,Proxy
 DOMAIN-SUFFIX,gtricks.com,Proxy
 DOMAIN-SUFFIX,gtv.org,Proxy
+DOMAIN-SUFFIX,gtv1.org,Proxy
 DOMAIN-SUFFIX,guangming.com.my,Proxy
 DOMAIN-SUFFIX,guangnianvpn.com,Proxy
 DOMAIN-SUFFIX,guardster.com,Proxy
@@ -2943,6 +2944,7 @@ DOMAIN-SUFFIX,homedepot.com,Proxy
 DOMAIN-SUFFIX,homeperversion.com,Proxy
 DOMAIN-SUFFIX,hongkongfp.com,Proxy
 DOMAIN-SUFFIX,hongzhi.li,Proxy
+DOMAIN-SUFFIX,honven.xyz,Proxy
 DOMAIN-SUFFIX,hootsuite.com,Proxy
 DOMAIN-SUFFIX,hoovers.com,Proxy
 DOMAIN-SUFFIX,hopto.org,Proxy
@@ -3015,6 +3017,7 @@ DOMAIN-SUFFIX,iamtopone.com,Proxy
 DOMAIN-SUFFIX,iask.bz,Proxy
 DOMAIN-SUFFIX,iask.ca,Proxy
 DOMAIN-SUFFIX,iav19.com,Proxy
+DOMAIN-SUFFIX,ibit.am,Proxy
 DOMAIN-SUFFIX,iblist.com,Proxy
 DOMAIN-SUFFIX,iblogserv-f.net,Proxy
 DOMAIN-SUFFIX,ibvpn.com,Proxy
@@ -3076,6 +3079,7 @@ DOMAIN-SUFFIX,initiativesforchina.org,Proxy
 DOMAIN-SUFFIX,inkui.com,Proxy
 DOMAIN-SUFFIX,inmediahk.net,Proxy
 DOMAIN-SUFFIX,innermongolia.org,Proxy
+DOMAIN-SUFFIX,inoreader.com,Proxy
 DOMAIN-SUFFIX,inote.tw,Proxy
 DOMAIN-SUFFIX,insidevoa.com,Proxy
 DOMAIN-SUFFIX,instagram.com,Proxy
@@ -3191,6 +3195,7 @@ DOMAIN-SUFFIX,joachims.org,Proxy
 DOMAIN-SUFFIX,jobso.tv,Proxy
 DOMAIN-SUFFIX,joinbbs.net,Proxy
 DOMAIN-SUFFIX,joinmastodon.org,Proxy
+DOMAIN-SUFFIX,joins.com,Proxy
 DOMAIN-SUFFIX,journalchretien.net,Proxy
 DOMAIN-SUFFIX,journalofdemocracy.org,Proxy
 DOMAIN-SUFFIX,joymiihub.com,Proxy
@@ -3287,6 +3292,7 @@ DOMAIN-SUFFIX,kui.name,Proxy
 DOMAIN-SUFFIX,kurashsultan.com,Proxy
 DOMAIN-SUFFIX,kurtmunger.com,Proxy
 DOMAIN-SUFFIX,kwcg.ca,Proxy
+DOMAIN-SUFFIX,kwok7.com,Proxy
 DOMAIN-SUFFIX,kxsw.life,Proxy
 DOMAIN-SUFFIX,kyofun.com,Proxy
 DOMAIN-SUFFIX,kyoyue.com,Proxy
@@ -3297,6 +3303,7 @@ DOMAIN-SUFFIX,lagranepoca.com,Proxy
 DOMAIN-SUFFIX,lalulalu.com,Proxy
 DOMAIN-SUFFIX,lama.com.tw,Proxy
 DOMAIN-SUFFIX,lamnia.co.uk,Proxy
+DOMAIN-SUFFIX,landofhope.tv,Proxy
 DOMAIN-SUFFIX,lantosfoundation.org,Proxy
 DOMAIN-SUFFIX,laogai.org,Proxy
 DOMAIN-SUFFIX,laptoplockdown.com,Proxy
@@ -3319,6 +3326,7 @@ DOMAIN-SUFFIX,lerosua.org,Proxy
 DOMAIN-SUFFIX,lesoir.be,Proxy
 DOMAIN-SUFFIX,letou.com,Proxy
 DOMAIN-SUFFIX,letscorp.net,Proxy
+DOMAIN-SUFFIX,letsencrypt.org,Proxy
 DOMAIN-SUFFIX,le-vpn.com,Proxy
 DOMAIN-SUFFIX,levyhsu.com,Proxy
 DOMAIN-SUFFIX,lflink.com,Proxy
@@ -3398,6 +3406,7 @@ DOMAIN-SUFFIX,lsmradio.com,Proxy
 DOMAIN-SUFFIX,lsmwebcast.com,Proxy
 DOMAIN-SUFFIX,lsxszzg.com,Proxy
 DOMAIN-SUFFIX,ltn.com.tw,Proxy
+DOMAIN-SUFFIX,luckydesigner.space,Proxy
 DOMAIN-SUFFIX,luke54.com,Proxy
 DOMAIN-SUFFIX,luke54.org,Proxy
 DOMAIN-SUFFIX,lupm.org,Proxy
@@ -3781,6 +3790,7 @@ DOMAIN-SUFFIX,oculuscdn.com,Proxy
 DOMAIN-SUFFIX,oex.com,Proxy
 DOMAIN-SUFFIX,ogaoga.org,Proxy
 DOMAIN-SUFFIX,ogate.org,Proxy
+DOMAIN-SUFFIX,ohmyrss.com,Proxy
 DOMAIN-SUFFIX,oikos.com.tw,Proxy
 DOMAIN-SUFFIX,oiktv.com,Proxy
 DOMAIN-SUFFIX,ok.ru,Proxy
@@ -4154,6 +4164,7 @@ DOMAIN-SUFFIX,rsdlmonitor.com,Proxy
 DOMAIN-SUFFIX,rsf.org,Proxy
 DOMAIN-SUFFIX,rsf-chinese.org,Proxy
 DOMAIN-SUFFIX,rsgamen.org,Proxy
+DOMAIN-SUFFIX,rsshub.app,Proxy
 DOMAIN-SUFFIX,rssing.com,Proxy
 DOMAIN-SUFFIX,rssmeme.com,Proxy
 DOMAIN-SUFFIX,rtalabel.org,Proxy
@@ -4201,9 +4212,11 @@ DOMAIN-SUFFIX,scribd.com,Proxy
 DOMAIN-SUFFIX,scriptspot.com,Proxy
 DOMAIN-SUFFIX,s-cute.com,Proxy
 DOMAIN-SUFFIX,s-dragon.org,Proxy
+DOMAIN-SUFFIX,search.com,Proxy
 DOMAIN-SUFFIX,search.xxx,Proxy
 DOMAIN-SUFFIX,searchtruth.com,Proxy
 DOMAIN-SUFFIX,searchwsafeweb,Proxy
+DOMAIN-SUFFIX,searx.me,Proxy
 DOMAIN-SUFFIX,seatguru.com,Proxy
 DOMAIN-SUFFIX,secretchina.com,Proxy
 DOMAIN-SUFFIX,secretgarden.no,Proxy
@@ -4443,6 +4456,7 @@ DOMAIN-SUFFIX,storm.mg,Proxy
 DOMAIN-SUFFIX,stormmediagroup.com,Proxy
 DOMAIN-SUFFIX,stoweboyd.com,Proxy
 DOMAIN-SUFFIX,straplessdildo.com,Proxy
+DOMAIN-SUFFIX,streamate.com,Proxy
 DOMAIN-SUFFIX,streamingthe.net,Proxy
 DOMAIN-SUFFIX,strikingly.com,Proxy
 DOMAIN-SUFFIX,strongvpn.com,Proxy
@@ -4576,6 +4590,7 @@ DOMAIN-SUFFIX,thechinabeat.org,Proxy
 DOMAIN-SUFFIX,thedw.us,Proxy
 DOMAIN-SUFFIX,thefacebook.com,Proxy
 DOMAIN-SUFFIX,thegly.com,Proxy
+DOMAIN-SUFFIX,theguardian.com,Proxy
 DOMAIN-SUFFIX,thehots.info,Proxy
 DOMAIN-SUFFIX,thehun.net,Proxy
 DOMAIN-SUFFIX,theinitium.com,Proxy
@@ -5211,6 +5226,7 @@ DOMAIN-SUFFIX,yam.org.tw,Proxy
 DOMAIN-SUFFIX,yanghengjun.com,Proxy
 DOMAIN-SUFFIX,yasni.co.uk,Proxy
 DOMAIN-SUFFIX,yayabay.com,Proxy
+DOMAIN-SUFFIX,ycombinator.com,Proxy
 DOMAIN-SUFFIX,ydy.com,Proxy
 DOMAIN-SUFFIX,yeahteentube.com,Proxy
 DOMAIN-SUFFIX,yecl.net,Proxy
@@ -5251,6 +5267,7 @@ DOMAIN-SUFFIX,your-freedom.net,Proxy
 DOMAIN-SUFFIX,yourprivatevpn.com,Proxy
 DOMAIN-SUFFIX,yourtrap.com,Proxy
 DOMAIN-SUFFIX,yousendit.com,Proxy
+DOMAIN-SUFFIX,youthforfreechina.org,Proxy
 DOMAIN-SUFFIX,youthnetradio.org,Proxy
 DOMAIN-SUFFIX,youtu.be,Proxy
 DOMAIN-SUFFIX,youtube.com,Proxy
