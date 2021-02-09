@@ -1,9 +1,14 @@
 # Direct
 DOMAIN,app.adjust.com,DIRECT
 
+DOMAIN,bdtj.tagtic.cn,DIRECT
+
 DOMAIN,log.mmstat.com,DIRECT
 DOMAIN,sycm.mmstat.com,DIRECT
 
+DOMAIN,analytics.strava.com,DIRECT
+
+DOMAIN,fairplay.l.qq.com,DIRECT
 DOMAIN,livew.l.qq.com,DIRECT
 DOMAIN,vd.l.qq.com,DIRECT
 
@@ -51,6 +56,14 @@ DOMAIN,khm2.google.com,DIRECT
 DOMAIN,khm3.google.com,DIRECT
 DOMAIN,khmdb.google.com,DIRECT
 DOMAIN,mtalk.google.com,DIRECT
+DOMAIN,alt1-mtalk.google.com,DIRECT
+DOMAIN,alt2-mtalk.google.com,DIRECT
+DOMAIN,alt3-mtalk.google.com,DIRECT
+DOMAIN,alt4-mtalk.google.com,DIRECT
+DOMAIN,alt5-mtalk.google.com,DIRECT
+DOMAIN,alt6-mtalk.google.com,DIRECT
+DOMAIN,alt7-mtalk.google.com,DIRECT
+DOMAIN,alt8-mtalk.google.com,DIRECT
 DOMAIN,pagead-googlehosted.l.google.com,DIRECT
 DOMAIN,safebrowsing-cache.google.com,DIRECT
 DOMAIN,ssl-google-analytics.l.google.com,DIRECT
@@ -186,7 +199,6 @@ DOMAIN-KEYWORD,speedtest,Speedtest
 # Proxy
 DOMAIN,bgp.he.net,GFW
 DOMAIN,blog.wateroot.com,GFW
-DOMAIN,news.ycombinator.com,GFW
 DOMAIN,rss.newsify.co,GFW
 DOMAIN,search.avira.com,GFW
 DOMAIN,us.weibo.com,GFW
@@ -229,6 +241,18 @@ DOMAIN-SUFFIX,translatetheweb.com,GFW
 DOMAIN-SUFFIX,ultrareach.com,GFW
 DOMAIN-SUFFIX,ultrasurf.us,GFW
 DOMAIN-SUFFIX,weebly.com,GFW
+
+# > Clubhouse
+DOMAIN-SUFFIX,clubhouseapi.com,PROXY
+DOMAIN-SUFFIX,joinclubhouse.com,PROXY
+IP-CIDR,56.58.56.244/32,DIRECT
+IP-CIDR,164.52.102.66/32,DIRECT
+IP-CIDR,164.52.102.67/32,DIRECT
+IP-CIDR,164.52.102.68/32,DIRECT
+IP-CIDR,164.52.102.70/32,DIRECT
+IP-CIDR,164.52.102.75/32,DIRECT
+IP-CIDR,164.52.102.76/32,DIRECT
+IP-CIDR,164.52.102.77/32,DIRECT
 
 # Telegram
   IP-CIDR,67.198.55.0/24,GFW
