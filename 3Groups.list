@@ -124,16 +124,13 @@ DOMAIN,www.bing.com,GFW
 DOMAIN-SUFFIX,hk.msn.com,GFW
 DOMAIN-SUFFIX,msn.com.tw,GFW
 
-DOMAIN,oneclient.sfx.ms,Onedrive
-DOMAIN-SUFFIX,1drv.com,Onedrive
-DOMAIN-SUFFIX,onedrive.com,Onedrive
-DOMAIN-SUFFIX,storage.live.com,Onedrive
-
+DOMAIN-SUFFIX,1drv.com,Microsoft
 DOMAIN-SUFFIX,aadrm.com,Microsoft
 DOMAIN-SUFFIX,acompli.com,Microsoft
 DOMAIN-SUFFIX,acompli.net,Microsoft
 DOMAIN-SUFFIX,aka.ms,Microsoft
 DOMAIN-SUFFIX,aspnetcdn.com,Microsoft
+DOMAIN-SUFFIX,appcenter.ms,Microsoft
 DOMAIN-SUFFIX,assets-yammer.com,Microsoft
 DOMAIN-SUFFIX,azure.com,Microsoft
 DOMAIN-SUFFIX,azure.net,Microsoft
@@ -169,6 +166,7 @@ DOMAIN-SUFFIX,office.net,Microsoft
 DOMAIN-SUFFIX,office365.com,Microsoft
 DOMAIN-SUFFIX,officeppe.net,Microsoft
 DOMAIN-SUFFIX,omniroot.com,Microsoft
+DOMAIN-SUFFIX,onedrive.com,Microsoft
 DOMAIN-SUFFIX,onenote.com,Microsoft
 DOMAIN-SUFFIX,onenote.net,Microsoft
 DOMAIN-SUFFIX,onestore.ms,Microsoft
