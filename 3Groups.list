@@ -95,6 +95,15 @@ DOMAIN,lookup-api.apple.com,GFW
 DOMAIN,testflight.apple.com,GFW
 DOMAIN-SUFFIX,smoot.apple.com,GFW
 
+# > iOS updates
+DOMAIN,appldnld.apple.com,GFW
+DOMAIN,ns.itunes.apple.com,GFW
+# > iOS, tvOS, and macOS
+DOMAIN,mesu.apple.com,GFW
+DOMAIN,updates.cdn-apple.com,GFW
+DOMAIN,updates-http.cdn-apple.com,GFW
+DOMAIN,xp.apple.com,GFW
+
 DOMAIN-SUFFIX,aaplimg.com,Apple
 DOMAIN-SUFFIX,akadns.net,Apple
 DOMAIN-SUFFIX,akamaiedge.net,Apple
@@ -120,6 +129,7 @@ DOMAIN-SUFFIX,mzstatic.com,Apple
 # Microsoft
 # https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
 
+DOMAIN,jdsharedresourcescdn.azureedge.net,GFW
 DOMAIN,www.bing.com,GFW
 DOMAIN-SUFFIX,hk.msn.com,GFW
 DOMAIN-SUFFIX,msn.com.tw,GFW
@@ -220,18 +230,23 @@ DOMAIN-SUFFIX,qqj68.com,GFW
 DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,xsnvshen.com,GFW
 
+# AIA
 DOMAIN-SUFFIX,aia.com,GFW
 DOMAIN-SUFFIX,aia.com.hk,GFW
 DOMAIN-SUFFIX,aiaprod.appgreen.com,GFW
 DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,GFW
+DOMAIN-SUFFIX,cvent.com,GFW
 
+# dubox
 DOMAIN-SUFFIX,dubox.com,GFW
 DOMAIN-SUFFIX,duboxcdn.com,GFW
 
-# > Clubhouse
+# Clubhouse
 DOMAIN,clubhouse.pubnub.com,GFW
 DOMAIN-SUFFIX,clubhouseapi.com,GFW
 DOMAIN-SUFFIX,joinclubhouse.com,GFW
+
+DOMAIN-SUFFIX,jinkela.site,GFW
 
 DOMAIN-SUFFIX,64memo.com,GFW
 DOMAIN-SUFFIX,cloud.andrewjr.wang,GFW
@@ -239,6 +254,7 @@ DOMAIN-SUFFIX,cloudcone.com.cn,GFW
 DOMAIN-SUFFIX,code.jquery.com,GFW
 DOMAIN-SUFFIX,dlink.za.group,GFW
 DOMAIN-SUFFIX,feed43.com,GFW
+DOMAIN-SUFFIX,flurry.com,GFW
 DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
