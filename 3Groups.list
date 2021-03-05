@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
 # Apple
 DOMAIN,lookup-api.apple.com,GFW
 DOMAIN,testflight.apple.com,GFW
+DOMAIN-SUFFIX,apple.comscoreresearch.com,GFW
 DOMAIN-SUFFIX,smoot.apple.com,GFW
 
 # > iOS updates
