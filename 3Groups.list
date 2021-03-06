@@ -248,7 +248,7 @@ DOMAIN,clubhouse.pubnub.com,GFW
 DOMAIN-SUFFIX,clubhouseapi.com,GFW
 DOMAIN-SUFFIX,joinclubhouse.com,GFW
 
-DOMAIN-SUFFIX,jinkela.wtf,GFW
+DOMAIN-KEYWORD,jinkela,GFW
 
 DOMAIN-SUFFIX,64memo.com,GFW
 DOMAIN-SUFFIX,cloud.andrewjr.wang,GFW
