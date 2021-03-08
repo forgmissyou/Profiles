@@ -97,13 +97,13 @@ DOMAIN-SUFFIX,apple.comscoreresearch.com,GFW
 DOMAIN-SUFFIX,smoot.apple.com,GFW
 
 # > iOS updates
-DOMAIN,appldnld.apple.com,GFW
-DOMAIN,ns.itunes.apple.com,GFW
+DOMAIN,appldnld.apple.com,AppleUpdate
+DOMAIN,ns.itunes.apple.com,AppleUpdate
 # > iOS, tvOS, and macOS
-DOMAIN,mesu.apple.com,GFW
-DOMAIN,updates.cdn-apple.com,GFW
-DOMAIN,updates-http.cdn-apple.com,GFW
-DOMAIN,xp.apple.com,GFW
+DOMAIN,mesu.apple.com,AppleUpdate
+DOMAIN,updates.cdn-apple.com,AppleUpdate
+DOMAIN,updates-http.cdn-apple.com,AppleUpdate
+DOMAIN,xp.apple.com,AppleUpdate
 
 DOMAIN-SUFFIX,aaplimg.com,Apple
 DOMAIN-SUFFIX,akadns.net,Apple
@@ -253,6 +253,7 @@ DOMAIN-KEYWORD,jinkela,GFW
 DOMAIN-SUFFIX,64memo.com,GFW
 DOMAIN-SUFFIX,cloud.andrewjr.wang,GFW
 DOMAIN-SUFFIX,cloudcone.com.cn,GFW
+DOMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,code.jquery.com,GFW
 DOMAIN-SUFFIX,dlink.za.group,GFW
 DOMAIN-SUFFIX,feed43.com,GFW
