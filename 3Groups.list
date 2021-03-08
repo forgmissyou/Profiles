@@ -90,6 +90,13 @@ DOMAIN,update.googleapis.com,DIRECT
 DOMAIN-SUFFIX,googleanalytics.com,DIRECT
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
 
+# AIA
+DOMAIN-SUFFIX,aia.com,AIA
+DOMAIN-SUFFIX,aia.com.hk,AIA
+DOMAIN-SUFFIX,aiaprod.appgreen.com,AIA
+DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,AIA
+DOMAIN-SUFFIX,cvent.com,AIA
+
 # Apple
 DOMAIN,lookup-api.apple.com,GFW
 DOMAIN,testflight.apple.com,GFW
@@ -217,6 +224,8 @@ USER-AGENT,SpeedTest*,Speedtest
 DOMAIN-KEYWORD,speedtest,Speedtest
 
 # Proxy
+DOMAIN-KEYWORD,jinkela,GFW
+
 DOMAIN,bgp.he.net,GFW
 DOMAIN,blog.wateroot.com,GFW
 DOMAIN,cutt.ly,GFW
@@ -232,13 +241,6 @@ DOMAIN-SUFFIX,qqj68.com,GFW
 DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,xsnvshen.com,GFW
 
-# AIA
-DOMAIN-SUFFIX,aia.com,GFW
-DOMAIN-SUFFIX,aia.com.hk,GFW
-DOMAIN-SUFFIX,aiaprod.appgreen.com,GFW
-DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,GFW
-DOMAIN-SUFFIX,cvent.com,GFW
-
 # dubox
 DOMAIN-SUFFIX,dubox.com,GFW
 DOMAIN-SUFFIX,duboxcdn.com,GFW
@@ -247,8 +249,6 @@ DOMAIN-SUFFIX,duboxcdn.com,GFW
 DOMAIN,clubhouse.pubnub.com,GFW
 DOMAIN-SUFFIX,clubhouseapi.com,GFW
 DOMAIN-SUFFIX,joinclubhouse.com,GFW
-
-DOMAIN-KEYWORD,jinkela,GFW
 
 DOMAIN-SUFFIX,64memo.com,GFW
 DOMAIN-SUFFIX,cloud.andrewjr.wang,GFW
