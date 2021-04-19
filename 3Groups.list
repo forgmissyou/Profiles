@@ -229,14 +229,15 @@ DOMAIN-KEYWORD,jinkela,GFW
 DOMAIN,bgp.he.net,GFW
 DOMAIN,blog.wateroot.com,GFW
 DOMAIN,cutt.ly,GFW
-DOMAIN,www.moneyhero.com.hk,GFW
-DOMAIN,rss.newsify.co,GFW
+//DOMAIN,www.moneyhero.com.hk,GFW
+//DOMAIN,rss.newsify.co,GFW
 DOMAIN,search.avira.com,GFW
 DOMAIN,us.weibo.com,GFW
 DOMAIN,www.suavetech.com,GFW
 
 DOMAIN,www.iavnight.com,GFW
 DOMAIN-SUFFIX,liveviptv.xyz,GFW
+DOMAIN-SUFFIX,mdapp1.pw,GFW
 DOMAIN-SUFFIX,qqj68.com,GFW
 DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,xsnvshen.com,GFW
@@ -261,14 +262,15 @@ DOMAIN-SUFFIX,flurry.com,GFW
 DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
-DOMAIN-SUFFIX,hkinsu.com,GFW
-DOMAIN-SUFFIX,inkbunny.net,GFW
-DOMAIN-SUFFIX,mangakakalot.com,GFW
+//DOMAIN-SUFFIX,hkinsu.com,GFW
+//DOMAIN-SUFFIX,inkbunny.net,GFW
+//DOMAIN-SUFFIX,mangakakalot.com,GFW
 DOMAIN-SUFFIX,metapix.net,GFW
 DOMAIN-SUFFIX,ntdimg.com,GFW
-DOMAIN-SUFFIX,shopeemobile.com,GFW
+//DOMAIN-SUFFIX,shopeemobile.com,GFW
 DOMAIN-SUFFIX,sinatra.ishowsapp.com,GFW
 DOMAIN-SUFFIX,t.cn,GFW
+DOMAIN-SUFFIX,thebigboss.org,GFW
 DOMAIN-SUFFIX,thenationalpulse.com,GFW
 DOMAIN-SUFFIX,tingtalk.me,GFW
 DOMAIN-SUFFIX,translatetheweb.com,GFW
