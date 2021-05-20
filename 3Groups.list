@@ -103,6 +103,7 @@ DOMAIN,lookup-api.apple.com,GFW
 DOMAIN,testflight.apple.com,GFW
 DOMAIN-SUFFIX,apple.comscoreresearch.com,GFW
 DOMAIN-SUFFIX,smoot.apple.com,GFW
+DOMAIN-SUFFIX,safebrowsing.apple,GFW
 
 # > iOS updates
 DOMAIN,appldnld.apple.com,AppleUpdate
@@ -244,6 +245,7 @@ DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,xsnvshen.com,GFW
 DOMAIN-SUFFIX,xsnvshen.net,GFW
 
+#cydia
 DOMAIN-SUFFIX,cydia.angelxwind.net,GFW
 DOMAIN-SUFFIX,getdelta.co,GFW
 DOMAIN-SUFFIX,hackyouriphone.org,GFW
@@ -282,6 +284,7 @@ DOMAIN-SUFFIX,ntdimg.com,GFW
 //DOMAIN-SUFFIX,shopeemobile.com,GFW
 DOMAIN-SUFFIX,ptwxz.com,GFW 
 DOMAIN-SUFFIX,pysmei.com,GFW 
+DOMAIN-SUFFIX,rsc.cdn77.org,GFW
 DOMAIN-SUFFIX,sinatra.ishowsapp.com,GFW
 DOMAIN-SUFFIX,t.cn,GFW
 DOMAIN-SUFFIX,theappstore.org,GFW 
