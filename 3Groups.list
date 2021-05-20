@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
 # AIA
 DOMAIN-SUFFIX,aia.com,AIA
 DOMAIN-SUFFIX,aia.com.hk,AIA
+DOMAIN-SUFFIX,aiagroup.sc.omtrdc.net,AIA
 DOMAIN-SUFFIX,aiaprod.appgreen.com,AIA
 DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,AIA
 DOMAIN-SUFFIX,cvent.com,AIA
@@ -241,6 +242,13 @@ DOMAIN-SUFFIX,mdapp1.pw,GFW
 DOMAIN-SUFFIX,qqj68.com,GFW
 DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,xsnvshen.com,GFW
+DOMAIN-SUFFIX,xsnvshen.net,GFW
+
+DOMAIN-SUFFIX,cydia.angelxwind.net,GFW
+DOMAIN-SUFFIX,getdelta.co,GFW
+DOMAIN-SUFFIX,hackyouriphone.org,GFW
+DOMAIN-SUFFIX,ryleyangus.com,GFW
+DOMAIN-SUFFIX,thebigboss.org,GFW
 
 # dubox
 DOMAIN-SUFFIX,dubox.com,GFW
@@ -252,13 +260,17 @@ DOMAIN-SUFFIX,clubhouseapi.com,GFW
 DOMAIN-SUFFIX,joinclubhouse.com,GFW
 
 DOMAIN-SUFFIX,64memo.com,GFW
+DOMAIN-SUFFIX,appsliced.co,GFW 
 DOMAIN-SUFFIX,cloud.andrewjr.wang,GFW
 DOMAIN-SUFFIX,cloudcone.com.cn,GFW
 DOMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,code.jquery.com,GFW
+DOMAIN-SUFFIX,digitpatrox.com,GFW
+DOMAIN-SUFFIX,disquscdn.com,GFW 
 DOMAIN-SUFFIX,dlink.za.group,GFW
 DOMAIN-SUFFIX,feed43.com,GFW
 DOMAIN-SUFFIX,flurry.com,GFW
+DOMAIN-SUFFIX,ft.com,GFW 
 DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
@@ -268,15 +280,20 @@ DOMAIN-SUFFIX,gitbook.io,GFW
 DOMAIN-SUFFIX,metapix.net,GFW
 DOMAIN-SUFFIX,ntdimg.com,GFW
 //DOMAIN-SUFFIX,shopeemobile.com,GFW
+DOMAIN-SUFFIX,ptwxz.com,GFW 
+DOMAIN-SUFFIX,pysmei.com,GFW 
 DOMAIN-SUFFIX,sinatra.ishowsapp.com,GFW
 DOMAIN-SUFFIX,t.cn,GFW
-DOMAIN-SUFFIX,thebigboss.org,GFW
+DOMAIN-SUFFIX,theappstore.org,GFW 
 DOMAIN-SUFFIX,thenationalpulse.com,GFW
 DOMAIN-SUFFIX,tingtalk.me,GFW
 DOMAIN-SUFFIX,translatetheweb.com,GFW
 DOMAIN-SUFFIX,ultrareach.com,GFW
 DOMAIN-SUFFIX,ultrasurf.us,GFW
 DOMAIN-SUFFIX,weebly.com,GFW
+DOMAIN-SUFFIX,wemp.app,GFW
+DOMAIN-SUFFIX,wucuoxs.com,GFW
+DOMAIN-SUFFIX,zh.z-lib.org,GFW
 
 # Telegram
 IP-CIDR,67.198.55.0/24,GFW
