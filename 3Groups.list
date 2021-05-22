@@ -228,7 +228,6 @@ DOMAIN-KEYWORD,speedtest,Speedtest
 # Proxy
 DOMAIN-KEYWORD,jinkela,GFW
 
-DOMAIN,bgp.he.net,GFW
 DOMAIN,blog.wateroot.com,GFW
 DOMAIN,cutt.ly,GFW
 //DOMAIN,www.moneyhero.com.hk,GFW
@@ -276,6 +275,7 @@ DOMAIN-SUFFIX,ft.com,GFW
 DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
+DOMAIN-SUFFIX,kouwobb.com,GFW
 //DOMAIN-SUFFIX,hkinsu.com,GFW
 //DOMAIN-SUFFIX,inkbunny.net,GFW
 //DOMAIN-SUFFIX,mangakakalot.com,GFW
