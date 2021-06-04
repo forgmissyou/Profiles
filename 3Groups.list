@@ -230,19 +230,24 @@ DOMAIN-KEYWORD,jinkela,GFW
 
 DOMAIN,blog.wateroot.com,GFW
 DOMAIN,cutt.ly,GFW
-//DOMAIN,www.moneyhero.com.hk,GFW
-//DOMAIN,rss.newsify.co,GFW
+DOMAIN,i.loli.net,GFW
 DOMAIN,search.avira.com,GFW
 DOMAIN,us.weibo.com,GFW
 DOMAIN,www.suavetech.com,GFW
 
 DOMAIN,www.iavnight.com,GFW
+
+DOMAIN-KEYWORD,91p,GFW
+
 DOMAIN-SUFFIX,liveviptv.xyz,GFW
 DOMAIN-SUFFIX,mdapp1.pw,GFW
 DOMAIN-SUFFIX,qqj68.com,GFW
 DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,xsnvshen.com,GFW
 DOMAIN-SUFFIX,xsnvshen.net,GFW
+
+DOMAIN-SUFFIX,luoimg.com,GFW
+DOMAIN-SUFFIX,smmimg.com,GFW
 
 #cydia
 DOMAIN-SUFFIX,cydia.angelxwind.net,GFW
@@ -261,10 +266,13 @@ DOMAIN-SUFFIX,clubhouseapi.com,GFW
 DOMAIN-SUFFIX,joinclubhouse.com,GFW
 
 DOMAIN-SUFFIX,64memo.com,GFW
+DOMAIN-SUFFIX,androidcentral.com,GFW 
 DOMAIN-SUFFIX,appsliced.co,GFW 
+DOMAIN-SUFFIX,bochk.com,GFW 
 DOMAIN-SUFFIX,cloud.andrewjr.wang,GFW
 DOMAIN-SUFFIX,cloudcone.com.cn,GFW
 DOMAIN-SUFFIX,cloudflare.com,GFW
+DOMAIN-SUFFIX,club.topsage.com,GFW
 DOMAIN-SUFFIX,code.jquery.com,GFW
 DOMAIN-SUFFIX,digitpatrox.com,GFW
 DOMAIN-SUFFIX,disquscdn.com,GFW 
@@ -276,12 +284,8 @@ DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
 DOMAIN-SUFFIX,kouwobb.com,GFW
-//DOMAIN-SUFFIX,hkinsu.com,GFW
-//DOMAIN-SUFFIX,inkbunny.net,GFW
-//DOMAIN-SUFFIX,mangakakalot.com,GFW
 DOMAIN-SUFFIX,metapix.net,GFW
 DOMAIN-SUFFIX,ntdimg.com,GFW
-//DOMAIN-SUFFIX,shopeemobile.com,GFW
 DOMAIN-SUFFIX,ptwxz.com,GFW 
 DOMAIN-SUFFIX,pysmei.com,GFW 
 DOMAIN-SUFFIX,rsc.cdn77.org,GFW
@@ -293,6 +297,7 @@ DOMAIN-SUFFIX,tingtalk.me,GFW
 DOMAIN-SUFFIX,translatetheweb.com,GFW
 DOMAIN-SUFFIX,ultrareach.com,GFW
 DOMAIN-SUFFIX,ultrasurf.us,GFW
+DOMAIN-SUFFIX,voovmeeting.com,GFW
 DOMAIN-SUFFIX,weebly.com,GFW
 DOMAIN-SUFFIX,wemp.app,GFW
 DOMAIN-SUFFIX,wucuoxs.com,GFW
