@@ -84,7 +84,6 @@ DOMAIN,artofpeacefoundation.org,Proxy
 DOMAIN,artsy.net,Proxy
 DOMAIN,asdfg.jp,Proxy
 DOMAIN,asg.to,Proxy
-DOMAIN,asianews.it,Proxy
 DOMAIN,atchinese.com,Proxy
 DOMAIN,atgfw.org,Proxy
 DOMAIN,av.nightlife141.com,Proxy
@@ -1042,7 +1041,6 @@ DOMAIN,tibetsupportgroup.org,Proxy
 DOMAIN,tibettimes.net,Proxy
 DOMAIN,timdir.com,Proxy
 DOMAIN,time.com,Proxy
-DOMAIN,timesofindia.indiatimes.com,Proxy
 DOMAIN,tintuc101.com,Proxy
 DOMAIN,tiny.cc,Proxy
 DOMAIN,tinychat.com,Proxy
@@ -1604,6 +1602,7 @@ DOMAIN-SUFFIX,asacp.org,Proxy
 DOMAIN-SUFFIX,asia-gaming.com,Proxy
 DOMAIN-SUFFIX,asiaharvest.org,Proxy
 DOMAIN-SUFFIX,asianage.com,Proxy
+DOMAIN-SUFFIX,asianews.it,Proxy
 DOMAIN-SUFFIX,asiansexdiary.com,Proxy
 DOMAIN-SUFFIX,asianspiss.com,Proxy
 DOMAIN-SUFFIX,asianwomensfilm.de,Proxy
@@ -1648,6 +1647,7 @@ DOMAIN-SUFFIX,axureformac.com,Proxy
 DOMAIN-SUFFIX,azerbaycan.tv,Proxy
 DOMAIN-SUFFIX,azubu.tv,Proxy
 DOMAIN-SUFFIX,b0ne.com,Proxy
+DOMAIN-SUFFIX,babylonbee.com,Proxy
 DOMAIN-SUFFIX,backchina.com,Proxy
 DOMAIN-SUFFIX,backpackers.com.tw,Proxy
 DOMAIN-SUFFIX,badiucao.com,Proxy
@@ -3148,7 +3148,10 @@ DOMAIN-SUFFIX,incapdns.net,Proxy
 DOMAIN-SUFFIX,incloak.com,Proxy
 DOMAIN-SUFFIX,incredibox.fr,Proxy
 DOMAIN-SUFFIX,independent.co.uk,Proxy
+DOMAIN-SUFFIX,indiablooms.com,Proxy
+DOMAIN-SUFFIX,indianarrative.com,Proxy
 DOMAIN-SUFFIX,indiandefensenews.in,Proxy
+DOMAIN-SUFFIX,indiatimes.com,Proxy
 DOMAIN-SUFFIX,indiemerch.com,Proxy
 DOMAIN-SUFFIX,initiativesforchina.org,Proxy
 DOMAIN-SUFFIX,inkui.com,Proxy
@@ -3562,6 +3565,7 @@ DOMAIN-SUFFIX,meetav.com,Proxy
 DOMAIN-SUFFIX,meetup.com,Proxy
 DOMAIN-SUFFIX,mefound.com,Proxy
 DOMAIN-SUFFIX,mega.co.nz,Proxy
+DOMAIN-SUFFIX,mega.io,Proxy
 DOMAIN-SUFFIX,mega.nz,Proxy
 DOMAIN-SUFFIX,megaproxy.com,Proxy
 DOMAIN-SUFFIX,megarotic.com,Proxy
