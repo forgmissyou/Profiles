@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: clvMDN73b08BQn4nQCqyBQ
+! Checksum: R4yB3WmaCfQ/mvUVal4Izw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 16 May 2021 11:18:44 -0400
+! Last Modified: Sun, 30 May 2021 10:14:33 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2240,7 +2240,7 @@ asg.to
 .asiaharvest.org
 ||asiaharvest.org
 ||asianage.com
-asianews.it
+||asianews.it
 |http://japanfirst.asianfreeforum.com/
 ||asiansexdiary.com
 ||asianwomensfilm.de
@@ -2295,6 +2295,7 @@ boxun*.azurewebsites.net
 !--------------------BB-------------------------
 ||b-ok.cc
 forum.baby-kingdom.com
+||babylonbee.com
 babynet.com.hk
 backchina.com
 ||backchina.com
@@ -4692,14 +4693,15 @@ in-disguise.com
 ||incloak.com
 ||incredibox.fr
 ||independent.co.uk
+||indiablooms.com
 ||indiandefensenews.in
-timesofindia.indiatimes.com/dalai
-timesofindia.indiatimes.com/defaultinterstitial.cms
+||indianarrative.com
+||timesofindia.indiatimes.com
 .indiemerch.com
 ||indiemerch.com
 info-graf.fr
 website.informer.com
-.initiativesforchina.org
+||initiativesforchina.org
 .inkui.com
 .inmediahk.net
 ||inmediahk.net
@@ -5273,6 +5275,7 @@ mcreasite.com
 mefeedia.com
 jihadintel.meforum.org
 ||mega.co.nz
+||mega.io
 ||mega.nz
 ||megaproxy.com
 ||megarotic.com
@@ -8306,4 +8309,3 @@ ultrasurf
 @@|http://ime.baidu.jp
 !################Whitelist End##################
 !---------------------EOF-----------------------
-
