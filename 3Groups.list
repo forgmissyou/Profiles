@@ -231,18 +231,20 @@ DOMAIN-KEYWORD,jinkela,GFW
 DOMAIN,blog.wateroot.com,GFW
 DOMAIN,cutt.ly,GFW
 DOMAIN,i.loli.net,GFW
+DOMAIN,relay.firefox.com
 DOMAIN,search.avira.com,GFW
 DOMAIN,us.weibo.com,GFW
 DOMAIN,www.suavetech.com,GFW
 
-DOMAIN,www.iavnight.com,GFW
+DOMAIN-SUFFIX,iavnight.com,GFW
 
 DOMAIN-KEYWORD,91p,GFW
 
+DOMAIN-SUFFIX,51fengliu.com,GFW 
 DOMAIN-SUFFIX,liveviptv.xyz,GFW
 DOMAIN-SUFFIX,mdapp1.pw,GFW
+DOMAIN-SUFFIX,onlyfans.com,GFW 
 DOMAIN-SUFFIX,qqj68.com,GFW
-DOMAIN-SUFFIX,umei.fun,GFW
 DOMAIN-SUFFIX,xsnvshen.com,GFW
 DOMAIN-SUFFIX,xsnvshen.net,GFW
 
@@ -268,12 +270,14 @@ DOMAIN-SUFFIX,joinclubhouse.com,GFW
 DOMAIN-SUFFIX,64memo.com,GFW
 DOMAIN-SUFFIX,androidcentral.com,GFW 
 DOMAIN-SUFFIX,appsliced.co,GFW 
+DOMAIN-SUFFIX,bdwk.588230.com,GFW 
 DOMAIN-SUFFIX,bochk.com,GFW 
 DOMAIN-SUFFIX,cloud.andrewjr.wang,GFW
 DOMAIN-SUFFIX,cloudcone.com.cn,GFW
 DOMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,club.topsage.com,GFW
 DOMAIN-SUFFIX,code.jquery.com,GFW
+DOMAIN-SUFFIX,cyzone.cn,GFW
 DOMAIN-SUFFIX,digitpatrox.com,GFW
 DOMAIN-SUFFIX,disquscdn.com,GFW 
 DOMAIN-SUFFIX,dlink.za.group,GFW
@@ -283,9 +287,16 @@ DOMAIN-SUFFIX,ft.com,GFW
 DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
+DOMAIN-SUFFIX,githubmemory.com,GFW 
+DOMAIN-SUFFIX,goop.ai,GFW 
+DOMAIN-SUFFIX,instabio.cc,GFW 
 DOMAIN-SUFFIX,kouwobb.com,GFW
+DOMAIN-SUFFIX,kylc.com,GFW 
+DOMAIN-SUFFIX,libgen.rs,GFW 
+DOMAIN-SUFFIX,medrxiv.org,GFW 
 DOMAIN-SUFFIX,metapix.net,GFW
 DOMAIN-SUFFIX,ntdimg.com,GFW
+DOMAIN-SUFFIX,picdiet.com,GFW 
 DOMAIN-SUFFIX,ptwxz.com,GFW 
 DOMAIN-SUFFIX,pysmei.com,GFW 
 DOMAIN-SUFFIX,rsc.cdn77.org,GFW
@@ -301,7 +312,9 @@ DOMAIN-SUFFIX,voovmeeting.com,GFW
 DOMAIN-SUFFIX,weebly.com,GFW
 DOMAIN-SUFFIX,wemp.app,GFW
 DOMAIN-SUFFIX,wucuoxs.com,GFW
+DOMAIN-SUFFIX,yopmail.com,GFW 
 DOMAIN-SUFFIX,zh.z-lib.org,GFW
+DOMAIN-SUFFIX,zhaojiaren.club,GFW 
 
 # Telegram
 IP-CIDR,67.198.55.0/24,GFW
