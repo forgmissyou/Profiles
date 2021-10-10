@@ -1,4 +1,4 @@
-hostname = duckduckgo.com,mobi.360doc.com,dxy.com,link.zhihu.com,oia.zhihu.com
+hostname = duckduckgo.com
 
 ########################################自定义########################################
 # Redirect Duckduckgo
@@ -8,15 +8,3 @@ hostname = duckduckgo.com,mobi.360doc.com,dxy.com,link.zhihu.com,oia.zhihu.com
 ^https:\/\/duckduckgo.com\/\?q=yd\+([^&]+).+ url 302 https://dict.youdao.com/search?q=$1
 ^https:\/\/duckduckgo.com\/\?q=ddg\+([^&]+).+ url 302 https://duckduckgo.com/?ia=about&q=$1
 ^https:\/\/duckduckgo.com\/\?q=([^&]+).+ url 302 https://www.google.com/search?q=$1
-
-# > 360doc
-^https?:\/\/mobi\.360doc\.com\/v\d{2}\/Ajax\/festival\.ashx\?op=getfestivaltheme url reject-200
-
-# > 丁香医生
-^https?:\/\/dxy\.com\/app\/i\/ask\/biz\/feed\/launch url reject-200
-
-# > 知乎
-# 去掉知乎的中间跳转
-^https?://link.zhihu.com/\?target=(https?)%3A//(.*) url 307 $1://$2
-# 知乎专栏跳转
-^https://oia\.zhihu\.com url 307 https://zhuanlan.zhihu.com
