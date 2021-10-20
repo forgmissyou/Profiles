@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,app-measurement.com,DIRECT
 DOMAIN-SUFFIX,recaptcha.net,DIRECT
 
 DOMAIN,gtm.oasisfeng.com,DIRECT
-DOMAIN,cn.gravatar.com,DIRECT
 
 DOMAIN,checkin.gstatic.com,DIRECT
 DOMAIN,connectivitycheck.gstatic.com,DIRECT
@@ -49,22 +48,7 @@ DOMAIN,cache.pack.google.com,DIRECT
 DOMAIN,corp.google.com,DIRECT
 DOMAIN,dl.l.google.com,DIRECT
 DOMAIN,dl.google.com,DIRECT
-DOMAIN,kh.google.com,DIRECT
-DOMAIN,khm.google.com,DIRECT
-DOMAIN,khm0.google.com,DIRECT
-DOMAIN,khm1.google.com,DIRECT
-DOMAIN,khm2.google.com,DIRECT
-DOMAIN,khm3.google.com,DIRECT
-DOMAIN,khmdb.google.com,DIRECT
-DOMAIN,mtalk.google.com,DIRECT
-DOMAIN,alt1-mtalk.google.com,DIRECT
-DOMAIN,alt2-mtalk.google.com,DIRECT
-DOMAIN,alt3-mtalk.google.com,DIRECT
-DOMAIN,alt4-mtalk.google.com,DIRECT
-DOMAIN,alt5-mtalk.google.com,DIRECT
-DOMAIN,alt6-mtalk.google.com,DIRECT
-DOMAIN,alt7-mtalk.google.com,DIRECT
-DOMAIN,alt8-mtalk.google.com,DIRECT
+
 DOMAIN,pagead-googlehosted.l.google.com,DIRECT
 DOMAIN,safebrowsing-cache.google.com,DIRECT
 DOMAIN,ssl-google-analytics.l.google.com,DIRECT
@@ -76,15 +60,8 @@ DOMAIN,www-googletagmanager.l.google.com,DIRECT
 DOMAIN,clientservices.googleapis.com,DIRECT
 DOMAIN,fonts.googleapis.com,DIRECT
 DOMAIN,imasdk.googleapis.com,DIRECT
-DOMAIN,khm.googleapis.com,DIRECT
-DOMAIN,khm0.googleapis.com,DIRECT
-DOMAIN,khm1.googleapis.com,DIRECT
-DOMAIN,khm2.googleapis.com,DIRECT
-DOMAIN,khm3.googleapis.com,DIRECT
-DOMAIN,khmdb.googleapis.com,DIRECT
 DOMAIN,safebrowsing.googleapis.com,DIRECT
-DOMAIN,storage.googleapis.com,DIRECT
-#DOMAIN,translate.googleapis.com,DIRECT
+DOMAIN,translate.googleapis.com,DIRECT
 DOMAIN,update.googleapis.com,DIRECT
 
 DOMAIN-SUFFIX,googleanalytics.com,DIRECT
