@@ -35,7 +35,7 @@ DOMAIN,www.gstatic.com,DIRECT
 
 DOMAIN,redirector.gvt1.com,DIRECT
 DOMAIN,beacons.gcp.gvt2.com,DIRECT
-DOMAIN,beacons.gvt2.com
+DOMAIN,beacons.gvt2.com,DIRECT
 DOMAIN,beacons2.gvt2.com,DIRECT
 DOMAIN,beacons3.gvt2.com,DIRECT
 
