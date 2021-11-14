@@ -42,6 +42,7 @@ DOMAIN-SUFFIX,1pondo.tv,GFW
 DOMAIN-SUFFIX,2000fun.com,GFW
 DOMAIN-SUFFIX,2008xianzhang.info,GFW
 DOMAIN-SUFFIX,2017.hk,GFW
+DOMAIN-SUFFIX,2021hkcharter.com,GFW
 DOMAIN-SUFFIX,2047.name,GFW
 DOMAIN-SUFFIX,2049bbs.xyz,GFW
 DOMAIN-SUFFIX,21andy.com,GFW
@@ -573,6 +574,7 @@ DOMAIN-SUFFIX,blinkx.com,GFW
 DOMAIN-SUFFIX,blinw.com,GFW
 DOMAIN-SUFFIX,blip.tv,GFW
 DOMAIN-SUFFIX,blockcn.com,GFW
+DOMAIN-SUFFIX,blockedbyhk.com,GFW
 DOMAIN-SUFFIX,blockless.com,GFW
 DOMAIN-SUFFIX,blog.de,GFW
 DOMAIN-SUFFIX,blog.jp,GFW
@@ -615,6 +617,7 @@ DOMAIN-SUFFIX,bongacams.com,GFW
 DOMAIN-SUFFIX,boobstagram.com,GFW
 DOMAIN-SUFFIX,book.com.tw,GFW
 DOMAIN-SUFFIX,book.zi5.me,GFW
+DOMAIN-SUFFIX,bookdepository.com,GFW
 DOMAIN-SUFFIX,bookepub.com,GFW
 DOMAIN-SUFFIX,books.com.tw,GFW
 DOMAIN-SUFFIX,booktopia.com.au,GFW
@@ -698,6 +701,7 @@ DOMAIN-SUFFIX,bwh1.net,GFW
 DOMAIN-SUFFIX,bwsj.hk,GFW
 DOMAIN-SUFFIX,bx.in.th,GFW
 DOMAIN-SUFFIX,bx.tl,GFW
+DOMAIN-SUFFIX,bybit.com,GFW
 DOMAIN-SUFFIX,bynet.co.il,GFW
 DOMAIN-SUFFIX,bypasscensorship.org,GFW
 DOMAIN-SUFFIX,c100tibet.org,GFW
@@ -994,7 +998,9 @@ DOMAIN-SUFFIX,coin2co.in,GFW
 DOMAIN-SUFFIX,coinbene.com,GFW
 DOMAIN-SUFFIX,coinegg.com,GFW
 DOMAIN-SUFFIX,coinex.com,GFW
+DOMAIN-SUFFIX,coingecko.com,GFW
 DOMAIN-SUFFIX,coingi.com,GFW
+DOMAIN-SUFFIX,coinmarketcap.com,GFW
 DOMAIN-SUFFIX,coinrail.co.kr,GFW
 DOMAIN-SUFFIX,cointiger.com,GFW
 DOMAIN-SUFFIX,cointobe.com,GFW
@@ -1788,6 +1794,7 @@ DOMAIN-SUFFIX,ftp1.biz,GFW
 DOMAIN-SUFFIX,ftpserver.biz,GFW
 DOMAIN-SUFFIX,ftv.com.tw,GFW
 DOMAIN-SUFFIX,ftvnews.com.tw,GFW
+DOMAIN-SUFFIX,ftx.com,GFW
 DOMAIN-SUFFIX,fucd.com,GFW
 DOMAIN-SUFFIX,fuckcnnic.net,GFW
 DOMAIN-SUFFIX,fuckgfw.org,GFW
@@ -1917,6 +1924,7 @@ DOMAIN-SUFFIX,giga-web.jp,GFW
 DOMAIN-SUFFIX,gigporno.ru,GFW
 DOMAIN-SUFFIX,girlbanker.com,GFW
 DOMAIN-SUFFIX,git.io,GFW
+DOMAIN-SUFFIX,githack.com,GFW
 DOMAIN-SUFFIX,github.blog,GFW
 DOMAIN-SUFFIX,github.com,GFW
 DOMAIN-SUFFIX,github.io,GFW
@@ -1981,6 +1989,7 @@ DOMAIN-SUFFIX,goo.gl,GFW
 DOMAIN-SUFFIX,goo.ne.jp,GFW
 DOMAIN-SUFFIX,gooday.xyz,GFW
 DOMAIN-SUFFIX,gooddns.info,GFW
+DOMAIN-SUFFIX,goodhope.school,GFW
 DOMAIN-SUFFIX,goodreaders.com,GFW
 DOMAIN-SUFFIX,goodreads.com,GFW
 DOMAIN-SUFFIX,goodtv.com.tw,GFW
@@ -2246,6 +2255,7 @@ DOMAIN-SUFFIX,hopedialogue.org,GFW
 DOMAIN-SUFFIX,hopto.org,GFW
 DOMAIN-SUFFIX,hornygamer.com,GFW
 DOMAIN-SUFFIX,hornytrip.com,GFW
+DOMAIN-SUFFIX,horrorporn.com,GFW
 DOMAIN-SUFFIX,hotair.com,GFW
 DOMAIN-SUFFIX,hotav.tv,GFW
 DOMAIN-SUFFIX,hotbak.net,GFW
@@ -3206,6 +3216,7 @@ DOMAIN-SUFFIX,mynetav.org,GFW
 DOMAIN-SUFFIX,mynumber.org,GFW
 DOMAIN-SUFFIX,myparagliding.com,GFW
 DOMAIN-SUFFIX,mypicture.info,GFW
+DOMAIN-SUFFIX,mypikpak.com,GFW
 DOMAIN-SUFFIX,mypop3.net,GFW
 DOMAIN-SUFFIX,mypop3.org,GFW
 DOMAIN-SUFFIX,mypopescu.com,GFW
@@ -3367,6 +3378,7 @@ DOMAIN-SUFFIX,nordstrom.com,GFW
 DOMAIN-SUFFIX,nordstromimage.com,GFW
 DOMAIN-SUFFIX,nordstromrack.com,GFW
 DOMAIN-SUFFIX,nordvpn.com,GFW
+DOMAIN-SUFFIX,notepad-plus-plus.org,GFW
 DOMAIN-SUFFIX,notion.so,GFW
 DOMAIN-SUFFIX,nottinghampost.com,GFW
 DOMAIN-SUFFIX,novelasia.com,GFW
@@ -3440,6 +3452,7 @@ DOMAIN-SUFFIX,o0-1.com,GFW
 DOMAIN-SUFFIX,o0-2.com,GFW
 DOMAIN-SUFFIX,o0-3.com,GFW
 DOMAIN-SUFFIX,o0-4.com,GFW
+DOMAIN-SUFFIX,oanda.com,GFW
 DOMAIN-SUFFIX,oasisfeng.com,GFW
 DOMAIN-SUFFIX,oauth.net,GFW
 DOMAIN-SUFFIX,observechina.net,GFW
@@ -4133,6 +4146,7 @@ DOMAIN-SUFFIX,shadowsocks.org,GFW
 DOMAIN-SUFFIX,shadowsocks9.com,GFW
 DOMAIN-SUFFIX,shadowsocks-r.com,GFW
 DOMAIN-SUFFIX,shafaqna.com,GFW
+DOMAIN-SUFFIX,shahit.biz,GFW
 DOMAIN-SUFFIX,shambalapost.com,GFW
 DOMAIN-SUFFIX,shambhalasun.com,GFW
 DOMAIN-SUFFIX,shangfang.org,GFW
@@ -4797,6 +4811,7 @@ DOMAIN-SUFFIX,toytractorshow.com,GFW
 DOMAIN-SUFFIX,tparents.org,GFW
 DOMAIN-SUFFIX,tpi.org.tw,GFW
 DOMAIN-SUFFIX,tracfone.com,GFW
+DOMAIN-SUFFIX,tradingview.com,GFW
 DOMAIN-SUFFIX,traffichaus.com,GFW
 DOMAIN-SUFFIX,translate.goog,GFW
 DOMAIN-SUFFIX,transparency.org,GFW
@@ -5229,6 +5244,7 @@ DOMAIN-SUFFIX,wahas.com,GFW
 DOMAIN-SUFFIX,waigaobu.com,GFW
 DOMAIN-SUFFIX,waikeung.org,GFW
 DOMAIN-SUFFIX,wailaike.net,GFW
+DOMAIN-SUFFIX,wainao.me,GFW
 DOMAIN-SUFFIX,waiwaier.com,GFW
 DOMAIN-SUFFIX,wallmama.com,GFW
 DOMAIN-SUFFIX,wallornot.org,GFW
@@ -5526,6 +5542,7 @@ DOMAIN-SUFFIX,xysblogs.org,GFW
 DOMAIN-SUFFIX,xyy69.com,GFW
 DOMAIN-SUFFIX,xyy69.info,GFW
 DOMAIN-SUFFIX,y2mate.com,GFW
+DOMAIN-SUFFIX,yadi.sk,GFW
 DOMAIN-SUFFIX,yahoo.co.jp,GFW
 DOMAIN-SUFFIX,yahoo.com,GFW
 DOMAIN-SUFFIX,yahoo.com.hk,GFW
@@ -5625,6 +5642,7 @@ DOMAIN-SUFFIX,yx51.net,GFW
 DOMAIN-SUFFIX,yyii.org,GFW
 DOMAIN-SUFFIX,yyjlymb.xyz,GFW
 DOMAIN-SUFFIX,yzzk.com,GFW
+DOMAIN-SUFFIX,z-lib.org,GFW
 DOMAIN-SUFFIX,zacebook.com,GFW
 DOMAIN-SUFFIX,zalmos.com,GFW
 DOMAIN-SUFFIX,zannel.com,GFW
