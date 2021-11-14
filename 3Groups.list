@@ -106,8 +106,8 @@ DOMAIN-SUFFIX,cdn20.com,Apple
 DOMAIN-SUFFIX,cdn-apple.com,Apple
 DOMAIN-SUFFIX,crashlytics.com,Apple
 DOMAIN-SUFFIX,edgekey.net,Apple
-DOMAIN-SUFFIX,icloud.com,Apple
-DOMAIN-SUFFIX,icloud-content.com,Apple
+DOMAIN-SUFFIX,icloud.com,AppleiCloud
+DOMAIN-SUFFIX,icloud-content.com,AppleiCloud
 DOMAIN-SUFFIX,itunes.com,Apple
 DOMAIN-SUFFIX,me.com,Apple
 DOMAIN-SUFFIX,mwcloudcdn.com,Apple
