@@ -217,6 +217,7 @@ DOMAIN,www.suavetech.com,GFW
 DOMAIN-SUFFIX,iavnight.com,GFW
 
 DOMAIN-KEYWORD,91p,GFW
+DOMAIN,blackmorase.com
 DOMAIN,i.p04.space,GFW
 
 DOMAIN-SUFFIX,51fengliu.com,GFW 
@@ -228,7 +229,15 @@ DOMAIN-SUFFIX,xsnvshen.com,GFW
 DOMAIN-SUFFIX,xsnvshen.net,GFW
 
 DOMAIN-SUFFIX,luoimg.com,GFW
+DOMAIN-SUFFIX,luoimg.xyz,GFW
+DOMAIN-SUFFIX,picnew.com,GFW
+DOMAIN-SUFFIX,privacypic.com,GFW
+DOMAIN-SUFFIX,s3tu.com,GFW
+DOMAIN-SUFFIX,skeimg.com,GFW
 DOMAIN-SUFFIX,smmimg.com,GFW
+DOMAIN-SUFFIX,sxotu.com,GFW
+DOMAIN-SUFFIX,xaimg.com,GFW
+DOMAIN-SUFFIX,yuoimg.com,GFW
 
 #cydia
 DOMAIN-SUFFIX,cydia.angelxwind.net,GFW
@@ -250,7 +259,7 @@ DOMAIN-SUFFIX,64memo.com,GFW
 DOMAIN-SUFFIX,androidcentral.com,GFW 
 DOMAIN-SUFFIX,appsliced.co,GFW 
 DOMAIN-SUFFIX,bdwk.588230.com,GFW 
-DOMAIN-SUFFIX,bochk.com,GFW 
+//DOMAIN-SUFFIX,bochk.com,GFW 
 DOMAIN-SUFFIX,cloud.andrewjr.wang,GFW
 DOMAIN-SUFFIX,cloudcone.com.cn,GFW
 DOMAIN-SUFFIX,cloudflare.com,GFW
@@ -285,6 +294,7 @@ DOMAIN-SUFFIX,theappstore.org,GFW
 DOMAIN-SUFFIX,thenationalpulse.com,GFW
 DOMAIN-SUFFIX,tingtalk.me,GFW
 DOMAIN-SUFFIX,translatetheweb.com,GFW
+DOMAIN-SUFFIX,tv.ci,GFW
 DOMAIN-SUFFIX,ultrareach.com,GFW
 DOMAIN-SUFFIX,ultrasurf.us,GFW
 DOMAIN-SUFFIX,voovmeeting.com,GFW
