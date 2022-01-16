@@ -224,7 +224,6 @@ DOMAIN-SUFFIX,51fengliu.com,GFW
 DOMAIN-SUFFIX,liveviptv.xyz,GFW
 DOMAIN-SUFFIX,mdapp1.pw,GFW
 DOMAIN-SUFFIX,onlyfans.com,GFW 
-DOMAIN-SUFFIX,qqj68.com,GFW
 DOMAIN-SUFFIX,xsnvshen.com,GFW
 DOMAIN-SUFFIX,xsnvshen.net,GFW
 
@@ -254,11 +253,14 @@ DOMAIN-SUFFIX,cloudcone.com.cn,GFW
 DOMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,club.topsage.com,GFW
 DOMAIN-SUFFIX,code.jquery.com,GFW
+DOMAIN-SUFFIX,cydialmp.vip,GFW
 DOMAIN-SUFFIX,cyzone.cn,GFW
+DOMAIN-SUFFIX,dawanews.com,GFW
 DOMAIN-SUFFIX,digitpatrox.com,GFW
 DOMAIN-SUFFIX,disquscdn.com,GFW 
 DOMAIN-SUFFIX,dlink.za.group,GFW
 DOMAIN-SUFFIX,easyatm.com.tw,GFW 
+DOMAIN-SUFFIX,eprice.com.hk,GFW 
 DOMAIN-SUFFIX,feed43.com,GFW
 DOMAIN-SUFFIX,flurry.com,GFW
 DOMAIN-SUFFIX,ft.com,GFW 
@@ -268,6 +270,7 @@ DOMAIN-SUFFIX,gitbook.io,GFW
 DOMAIN-SUFFIX,githubmemory.com,GFW 
 DOMAIN-SUFFIX,goop.ai,GFW 
 DOMAIN-SUFFIX,instabio.cc,GFW 
+DOMAIN-SUFFIX,ixue.io,GFW 
 DOMAIN-SUFFIX,kouwobb.com,GFW
 DOMAIN-SUFFIX,kylc.com,GFW 
 DOMAIN-SUFFIX,libgen.rs,GFW 
@@ -275,7 +278,9 @@ DOMAIN-SUFFIX,limbopro.com,GFW
 DOMAIN-SUFFIX,limbopro.pro,GFW 
 DOMAIN-SUFFIX,medrxiv.org,GFW 
 DOMAIN-SUFFIX,metapix.net,GFW
+DOMAIN-SUFFIX,myguide.hk,GFW
 DOMAIN-SUFFIX,newsify.co,GFW
+DOMAIN-SUFFIX,nyxz166.cn,GFW
 DOMAIN-SUFFIX,ntdimg.com,GFW
 DOMAIN-SUFFIX,picdiet.com,GFW 
 DOMAIN-SUFFIX,ptwxz.com,GFW 
@@ -290,10 +295,12 @@ DOMAIN-SUFFIX,translatetheweb.com,GFW
 DOMAIN-SUFFIX,tv.ci,GFW
 DOMAIN-SUFFIX,ultrareach.com,GFW
 DOMAIN-SUFFIX,ultrasurf.us,GFW
+DOMAIN-SUFFIX,videoplayerhub.com,GFW
 DOMAIN-SUFFIX,voovmeeting.com,GFW
 DOMAIN-SUFFIX,weebly.com,GFW
 DOMAIN-SUFFIX,wemp.app,GFW
 DOMAIN-SUFFIX,wucuoxs.com,GFW
+DOMAIN-SUFFIX,ybex.io,GFW 
 DOMAIN-SUFFIX,yopmail.com,GFW 
 DOMAIN-SUFFIX,zhaojiaren.club,GFW 
 
