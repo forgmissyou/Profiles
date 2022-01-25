@@ -77,21 +77,23 @@ DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,AIA
 DOMAIN-SUFFIX,cvent.com,AIA
 
 # Apple
+> ios and macOS proxy
 DOMAIN,lookup-api.apple.com,GFW
 DOMAIN,testflight.apple.com,GFW
 DOMAIN-SUFFIX,apple.comscoreresearch.com,GFW
 DOMAIN-SUFFIX,smoot.apple.com,GFW
 DOMAIN-SUFFIX,safebrowsing.apple,GFW
 
-# > iOS updates
+> iOS updates
 DOMAIN,appldnld.apple.com,AppleUpdate
 DOMAIN,ns.itunes.apple.com,AppleUpdate
-# > iOS, tvOS, and macOS
+> iOS, tvOS, and macOS updates
 DOMAIN,mesu.apple.com,AppleUpdate
 DOMAIN,updates.cdn-apple.com,AppleUpdate
 DOMAIN,updates-http.cdn-apple.com,AppleUpdate
 DOMAIN,xp.apple.com,AppleUpdate
 
+> icloud
 DOMAIN-SUFFIX,icloud.com,AppleiCloud
 DOMAIN-SUFFIX,icloud-content.com,AppleiCloud
 
@@ -222,7 +224,7 @@ DOMAIN,i.p04.space,GFW
 
 DOMAIN-SUFFIX,45maoee.com,GFW 
 DOMAIN-SUFFIX,51fengliu.com,GFW 
-DOMAIN-SUFFIX,liveviptv.xyz,GFW
+DOMAIN-SUFFIX,fenglouge.net,GFW
 DOMAIN-SUFFIX,mdapp1.pw,GFW
 DOMAIN-SUFFIX,onlyfans.com,GFW 
 DOMAIN-SUFFIX,xsnvshen.com,GFW
@@ -277,6 +279,7 @@ DOMAIN-SUFFIX,kylc.com,GFW
 DOMAIN-SUFFIX,libgen.rs,GFW 
 DOMAIN-SUFFIX,limbopro.com,GFW 
 DOMAIN-SUFFIX,limbopro.pro,GFW 
+DOMAIN-SUFFIX,liveviptv.xyz,GFW
 DOMAIN-SUFFIX,medrxiv.org,GFW 
 DOMAIN-SUFFIX,metapix.net,GFW
 DOMAIN-SUFFIX,myguide.hk,GFW
