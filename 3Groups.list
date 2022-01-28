@@ -77,23 +77,23 @@ DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,AIA
 DOMAIN-SUFFIX,cvent.com,AIA
 
 # Apple
-
+# > iOS and macOS Proxy
 DOMAIN,lookup-api.apple.com,GFW
 DOMAIN,testflight.apple.com,GFW
 DOMAIN-SUFFIX,apple.comscoreresearch.com,GFW
 DOMAIN-SUFFIX,smoot.apple.com,GFW
 DOMAIN-SUFFIX,safebrowsing.apple,GFW
 
-> iOS updates
+# > iOS updates
 DOMAIN,appldnld.apple.com,AppleUpdate
 DOMAIN,ns.itunes.apple.com,AppleUpdate
-> iOS, tvOS, and macOS updates
+# > iOS, tvOS, and macOS updates
 DOMAIN,mesu.apple.com,AppleUpdate
 DOMAIN,updates.cdn-apple.com,AppleUpdate
 DOMAIN,updates-http.cdn-apple.com,AppleUpdate
 DOMAIN,xp.apple.com,AppleUpdate
 
-> icloud
+# > icloud
 DOMAIN-SUFFIX,icloud.com,AppleiCloud
 DOMAIN-SUFFIX,icloud-content.com,AppleiCloud
 
