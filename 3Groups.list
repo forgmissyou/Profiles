@@ -77,7 +77,7 @@ DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,AIA
 DOMAIN-SUFFIX,cvent.com,AIA
 
 # Apple
-> ios and macOS GFW
+
 DOMAIN,lookup-api.apple.com,GFW
 DOMAIN,testflight.apple.com,GFW
 DOMAIN-SUFFIX,apple.comscoreresearch.com,GFW
