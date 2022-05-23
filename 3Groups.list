@@ -237,7 +237,10 @@ DOMAIN-SUFFIX,thenationalpulse.com,GFW
 # HK and TW
 DOMAIN-SUFFIX,easyatm.com.tw,GFW 
 DOMAIN-SUFFIX,myguide.hk,GFW
+DOMAIN-SUFFIX,edigest.hk,GFW
 DOMAIN-SUFFIX,eprice.com.hk,GFW 
+DOMAIN-SUFFIX,unwire.hk,GFW
+
 
 # rss
 DOMAIN-SUFFIX,feed43.com,GFW
@@ -251,6 +254,7 @@ DOMAIN-SUFFIX,weebly.com,GFW
 DOMAIN-SUFFIX,yopmail.com,GFW 
 
 # 网络
+DIMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,code.jquery.com,GFW
 DOMAIN-SUFFIX,digitpatrox.com,GFW
 DOMAIN-SUFFIX,disquscdn.com,GFW 
