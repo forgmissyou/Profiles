@@ -254,7 +254,7 @@ DOMAIN-SUFFIX,weebly.com,GFW
 DOMAIN-SUFFIX,yopmail.com,GFW 
 
 # 网络
-DIMAIN-SUFFIX,cloudflare.com,GFW
+DOMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,code.jquery.com,GFW
 DOMAIN-SUFFIX,digitpatrox.com,GFW
 DOMAIN-SUFFIX,disquscdn.com,GFW 
