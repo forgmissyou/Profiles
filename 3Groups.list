@@ -1,19 +1,4 @@
-# Unbreak
-DOMAIN,app.adjust.com,DIRECT
-
-DOMAIN,bdtj.tagtic.cn,DIRECT
-
-DOMAIN,log.mmstat.com,DIRECT
-DOMAIN,sycm.mmstat.com,DIRECT
-
-DOMAIN,analytics.strava.com,DIRECT
-
-DOMAIN,fairplay.l.qq.com,DIRECT
-DOMAIN,livew.l.qq.com,DIRECT
-DOMAIN,vd.l.qq.com,DIRECT
-
-DOMAIN,msg.umeng.com,DIRECT
-DOMAIN,msg.umengcloud.com,DIRECT
+DOMAIN-KEYWORD,jinkela,GFW
 
 # Direct
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
@@ -65,55 +50,6 @@ DOMAIN,update.googleapis.com,DIRECT
 
 DOMAIN-SUFFIX,googleanalytics.com,DIRECT
 DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
-
-# AIA
-DOMAIN-SUFFIX,aia.com,AIA
-DOMAIN-SUFFIX,aia.com.hk,AIA
-DOMAIN-SUFFIX,aiagroup.sc.omtrdc.net,AIA
-DOMAIN-SUFFIX,aiaprod.appgreen.com,AIA
-DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,AIA
-DOMAIN-SUFFIX,cvent.com,AIA
-
-# Apple
-# > iOS and macOS Proxy
-DOMAIN,lookup-api.apple.com,GFW
-DOMAIN,testflight.apple.com,GFW
-DOMAIN-SUFFIX,apple.comscoreresearch.com,GFW
-DOMAIN-SUFFIX,smoot.apple.com,GFW
-DOMAIN-SUFFIX,safebrowsing.apple,GFW
-
-# > iOS updates
-DOMAIN,appldnld.apple.com,AppleUpdate
-DOMAIN,ns.itunes.apple.com,AppleUpdate
-# > iOS, tvOS, and macOS updates
-DOMAIN,mesu.apple.com,AppleUpdate
-DOMAIN,updates.cdn-apple.com,AppleUpdate
-DOMAIN,updates-http.cdn-apple.com,AppleUpdate
-DOMAIN,xp.apple.com,AppleUpdate
-
-# > icloud
-DOMAIN-SUFFIX,icloud.com,AppleiCloud
-DOMAIN-SUFFIX,icloud-content.com,AppleiCloud
-
-DOMAIN-SUFFIX,aaplimg.com,Apple
-DOMAIN-SUFFIX,akadns.net,Apple
-DOMAIN-SUFFIX,akamaiedge.net,Apple
-DOMAIN-SUFFIX,apple.co,Apple
-DOMAIN-SUFFIX,apple.com,Apple
-DOMAIN-SUFFIX,apple.com.cn,Apple
-DOMAIN-SUFFIX,apple-cloudkit.com,Apple
-DOMAIN-SUFFIX,apple-mapkit.com,Apple
-DOMAIN-SUFFIX,appsto.re,Apple
-DOMAIN-SUFFIX,appstore.com,Apple
-DOMAIN-SUFFIX,cdn20.com,Apple
-DOMAIN-SUFFIX,cdn-apple.com,Apple
-DOMAIN-SUFFIX,crashlytics.com,Apple
-DOMAIN-SUFFIX,edgekey.net,Apple
-DOMAIN-SUFFIX,itunes.com,Apple
-DOMAIN-SUFFIX,me.com,Apple
-DOMAIN-SUFFIX,mwcloudcdn.com,Apple
-DOMAIN-SUFFIX,mwcname.com,Apple
-DOMAIN-SUFFIX,mzstatic.com,Apple
 
 # Microsoft
 # https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
@@ -201,6 +137,70 @@ DOMAIN-SUFFIX,yammerusercontent.com,Microsoft
 
 DOMAIN-KEYWORD,microsoft,Microsoft
 
+# AIA
+DOMAIN-SUFFIX,aia.com,AIA
+DOMAIN-SUFFIX,aia.com.hk,AIA
+DOMAIN-SUFFIX,aiagroup.sc.omtrdc.net,AIA
+DOMAIN-SUFFIX,aiaprod.appgreen.com,AIA
+DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,AIA
+DOMAIN-SUFFIX,cvent.com,AIA
+
+# PayPal
+USER-AGENT,PayPal*,PayPal
+DOMAIN-SUFFIX,paypal.com,PayPal
+DOMAIN-SUFFIX,paypal.me,PayPal
+DOMAIN-SUFFIX,paypal-mktg.com,PayPal
+DOMAIN-SUFFIX,paypalobjects.com,PayPal
+
+# 小红书
+DOMAIN-SUFFIX,xhscdn.com,xhs
+DOMAIN-SUFFIX,xiaohongshu.com,xhs
+
+# Speed Test
+USER-AGENT,SpeedTest*,Speedtest
+DOMAIN-KEYWORD,speedtest,Speedtest
+
+# Apple
+# > iOS and macOS Proxy
+DOMAIN,lookup-api.apple.com,GFW
+DOMAIN,testflight.apple.com,GFW
+DOMAIN-SUFFIX,apple.comscoreresearch.com,GFW
+DOMAIN-SUFFIX,smoot.apple.com,GFW
+DOMAIN-SUFFIX,safebrowsing.apple,GFW
+
+# > iOS updates
+DOMAIN,appldnld.apple.com,AppleUpdate
+DOMAIN,ns.itunes.apple.com,AppleUpdate
+# > iOS, tvOS, and macOS updates
+DOMAIN,mesu.apple.com,AppleUpdate
+DOMAIN,updates.cdn-apple.com,AppleUpdate
+DOMAIN,updates-http.cdn-apple.com,AppleUpdate
+DOMAIN,xp.apple.com,AppleUpdate
+
+# > iCloud
+DOMAIN-SUFFIX,icloud.com,AppleiCloud
+DOMAIN-SUFFIX,icloud-content.com,AppleiCloud
+
+DOMAIN-SUFFIX,aaplimg.com,Apple
+DOMAIN-SUFFIX,akadns.net,Apple
+DOMAIN-SUFFIX,akamaiedge.net,Apple
+DOMAIN-SUFFIX,apple.co,Apple
+DOMAIN-SUFFIX,apple.com,Apple
+DOMAIN-SUFFIX,apple.com.cn,Apple
+DOMAIN-SUFFIX,apple-cloudkit.com,Apple
+DOMAIN-SUFFIX,apple-mapkit.com,Apple
+DOMAIN-SUFFIX,appsto.re,Apple
+DOMAIN-SUFFIX,appstore.com,Apple
+DOMAIN-SUFFIX,cdn20.com,Apple
+DOMAIN-SUFFIX,cdn-apple.com,Apple
+DOMAIN-SUFFIX,crashlytics.com,Apple
+DOMAIN-SUFFIX,edgekey.net,Apple
+DOMAIN-SUFFIX,itunes.com,Apple
+DOMAIN-SUFFIX,me.com,Apple
+DOMAIN-SUFFIX,mwcloudcdn.com,Apple
+DOMAIN-SUFFIX,mwcname.com,Apple
+DOMAIN-SUFFIX,mzstatic.com,Apple
+
 # Clubhouse
 DOMAIN,clubhouse.pubnub.com,GFW
 DOMAIN-SUFFIX,clubhouseapi.com,GFW
@@ -240,7 +240,6 @@ DOMAIN-SUFFIX,myguide.hk,GFW
 DOMAIN-SUFFIX,edigest.hk,GFW
 DOMAIN-SUFFIX,eprice.com.hk,GFW 
 DOMAIN-SUFFIX,unwire.hk,GFW
-
 
 # rss
 DOMAIN-SUFFIX,feed43.com,GFW
@@ -365,7 +364,3 @@ IP6-CIDR,2001:b28:f23f::/48,Telegram
 IP6-CIDR,2001:b28:f23f::/48,Telegram
 IP6-CIDR,2001:b28:f23f:f005::a/128,Telegram
 IP6-CIDR,2001:b28:f242::/48,Telegram
-
-# Speed Test
-USER-AGENT,SpeedTest*,Speedtest
-DOMAIN-KEYWORD,speedtest,Speedtest
