@@ -140,10 +140,20 @@ DOMAIN-KEYWORD,microsoft,Microsoft
 # AIA
 DOMAIN-SUFFIX,aia.com,AIA
 DOMAIN-SUFFIX,aia.com.hk,AIA
-DOMAIN-SUFFIX,aiagroup.sc.omtrdc.net,AIA
-DOMAIN-SUFFIX,aiaprod.appgreen.com,AIA
+#DOMAIN-SUFFIX,assets.adobedtm.com,AIA
+#DOMAIN-SUFFIX,cvent.com,AIA
+#DOMAIN-SUFFIX,dpm.demdex.net,AIA
+#DOMAIN-SUFFIX,ocsp.digicert.com,AIA
+
+# > 友联系
+DOMAIN-SUFFIX,aiaconnect.b2clogin.com,AIA
+DOMAIN-SUFFIX,aiagroup.demdex.net,AIA
+# > iEngage
 DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,AIA
-DOMAIN-SUFFIX,cvent.com,AIA
+DOMAIN-SUFFIX,aiagroup.sc.omtrdc.net,AIA
+# > 营业员专业
+DOMAIN-SUFFIX,app.ichat-aia.com,AIA
+DOMAIN-SUFFIX,aiaprod.appgreen.com,AIA
 
 # PayPal
 USER-AGENT,PayPal*,PayPal
