@@ -23,9 +23,6 @@ DOMAIN,beacons2.gvt2.com,DIRECT
 DOMAIN,beacons3.gvt2.com,DIRECT
 
 DOMAIN,crl.pki.goog,DIRECT
-DOMAIN,ocsp.pki.goog,DIRECT
-
-DOMAIN,translate.google.cn,DIRECT
 
 DOMAIN,c.android.clients.google.com,DIRECT
 DOMAIN,cache.pack.google.com,DIRECT
@@ -45,7 +42,6 @@ DOMAIN,clientservices.googleapis.com,DIRECT
 DOMAIN,fonts.googleapis.com,DIRECT
 DOMAIN,imasdk.googleapis.com,DIRECT
 DOMAIN,safebrowsing.googleapis.com,DIRECT
-DOMAIN,translate.googleapis.com,DIRECT
 DOMAIN,update.googleapis.com,DIRECT
 
 DOMAIN-SUFFIX,googleanalytics.com,DIRECT
@@ -246,9 +242,10 @@ DOMAIN-SUFFIX,thenationalpulse.com,GFW
 
 # HK and TW
 DOMAIN-SUFFIX,easyatm.com.tw,GFW 
-DOMAIN-SUFFIX,myguide.hk,GFW
 DOMAIN-SUFFIX,edigest.hk,GFW
 DOMAIN-SUFFIX,eprice.com.hk,GFW 
+DOMAIN-SUFFIX,hongkongcard.com,GFW 
+DOMAIN-SUFFIX,myguide.hk,GFW
 DOMAIN-SUFFIX,unwire.hk,GFW
 
 # rss
