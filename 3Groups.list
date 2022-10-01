@@ -7,46 +7,6 @@ DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
 DOMAIN-SUFFIX,app-measurement.com,DIRECT
 DOMAIN-SUFFIX,recaptcha.net,DIRECT
 
-DOMAIN,gtm.oasisfeng.com,DIRECT
-
-DOMAIN,checkin.gstatic.com,DIRECT
-DOMAIN,connectivitycheck.gstatic.com,DIRECT
-DOMAIN,csi.gstatic.com,DIRECT
-DOMAIN,fonts.gstatic.com,DIRECT
-DOMAIN,ssl.gstatic.com,DIRECT
-DOMAIN,www.gstatic.com,DIRECT
-
-DOMAIN,redirector.gvt1.com,DIRECT
-DOMAIN,beacons.gcp.gvt2.com,DIRECT
-DOMAIN,beacons.gvt2.com,DIRECT
-DOMAIN,beacons2.gvt2.com,DIRECT
-DOMAIN,beacons3.gvt2.com,DIRECT
-
-DOMAIN,crl.pki.goog,DIRECT
-
-DOMAIN,c.android.clients.google.com,DIRECT
-DOMAIN,cache.pack.google.com,DIRECT
-DOMAIN,corp.google.com,DIRECT
-DOMAIN,dl.l.google.com,DIRECT
-DOMAIN,dl.google.com,DIRECT
-
-DOMAIN,pagead-googlehosted.l.google.com,DIRECT
-DOMAIN,safebrowsing-cache.google.com,DIRECT
-DOMAIN,ssl-google-analytics.l.google.com,DIRECT
-DOMAIN,toolbarqueries.google.com,DIRECT
-DOMAIN,tools.google.com,DIRECT
-DOMAIN,tools.l.google.com,DIRECT
-DOMAIN,www-googletagmanager.l.google.com,DIRECT
-
-DOMAIN,clientservices.googleapis.com,DIRECT
-DOMAIN,fonts.googleapis.com,DIRECT
-DOMAIN,imasdk.googleapis.com,DIRECT
-DOMAIN,safebrowsing.googleapis.com,DIRECT
-DOMAIN,update.googleapis.com,DIRECT
-
-DOMAIN-SUFFIX,googleanalytics.com,DIRECT
-DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
-
 # Microsoft
 # https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
 
@@ -253,11 +213,14 @@ DOMAIN-SUFFIX,feed43.com,GFW
 DOMAIN-SUFFIX,newsify.co,GFW
 
 # 实用工具类网站
+DOMAIN,privacy.aiuys.com,GFW 
+DOMAIN-SUFFIX,freeonlinephone.org,GFW 
 DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,libgen.rs,GFW 
 DOMAIN-SUFFIX,translatetheweb.com,GFW
 DOMAIN-SUFFIX,weebly.com,GFW
 DOMAIN-SUFFIX,yopmail.com,GFW 
+DOMAIN-SUFFIX,youtube4kdownloader.com,GFW 
 
 # 网络
 DOMAIN-SUFFIX,cloudflare.com,GFW
