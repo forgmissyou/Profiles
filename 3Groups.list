@@ -10,8 +10,8 @@ DOMAIN-SUFFIX,recaptcha.net,DIRECT
 # Microsoft
 # https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
 
-DOMAIN,jdsharedresourcescdn.azureedge.net,Microsoft
-# DOMAIN,www.bing.com,GFW
+DOMAIN,jdsharedresourcescdn.azureedge.net,GFW
+DOMAIN-SUFFIX,bing.com,newBing
 
 DOMAIN-SUFFIX,1drv.com,Microsoft
 DOMAIN-SUFFIX,aadrm.com,Microsoft
@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,azure.com,Microsoft
 DOMAIN-SUFFIX,azure.net,Microsoft
 DOMAIN-SUFFIX,azureedge.net,Microsoft
 DOMAIN-SUFFIX,azurerms.com,Microsoft
-DOMAIN-SUFFIX,bing.com,Microsoft
+# DOMAIN-SUFFIX,bing.com,Microsoft
 DOMAIN-SUFFIX,cloudapp.net,Microsoft
 DOMAIN-SUFFIX,cloudappsecurity.com,Microsoft
 DOMAIN-SUFFIX,gfx.ms,Microsoft
@@ -210,6 +210,7 @@ DOMAIN-SUFFIX,feed43.com,GFW
 DOMAIN-SUFFIX,newsify.co,GFW
 
 # 实用工具类网站
+DOMAIN,ilovexjp.pages.dev,GFW
 DOMAIN,privacy.aiuys.com,GFW
 DOMAIN-SUFFIX,fakenamegenerator.com,GFW 
 DOMAIN-SUFFIX,freeonlinephone.org,GFW 
