@@ -1,4 +1,4 @@
-DOMAIN-KEYWORD,jinkela,GFW
+DOMAIN-KEYWORD,jinkela,DIRECT
 
 # Direct
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
@@ -93,11 +93,6 @@ DOMAIN-KEYWORD,microsoft,Microsoft
 # AIA
 DOMAIN-SUFFIX,aia.com,AIA
 DOMAIN-SUFFIX,aia.com.hk,AIA
-#DOMAIN-SUFFIX,assets.adobedtm.com,AIA
-#DOMAIN-SUFFIX,cvent.com,AIA
-#DOMAIN-SUFFIX,dpm.demdex.net,AIA
-#DOMAIN-SUFFIX,ocsp.digicert.com,AIA
-
 # > 友联系
 DOMAIN-SUFFIX,aiaconnect.b2clogin.com,AIA
 DOMAIN-SUFFIX,aiagroup.demdex.net,AIA
@@ -108,6 +103,10 @@ DOMAIN-SUFFIX,aiagroup.sc.omtrdc.net,AIA
 DOMAIN-SUFFIX,app.ichat-aia.com,AIA
 DOMAIN-SUFFIX,aiaprod.appgreen.com,AIA
 
+# Nike
+DOMAIN-SUFFIX,nike.com,NIKE
+DOMAIN-SUFFIX,nikecdn.com,NIKE
+  
 # PayPal
 USER-AGENT,PayPal*,PayPal
 DOMAIN-SUFFIX,paypal.com,PayPal
@@ -169,10 +168,6 @@ DOMAIN,clubhouse.pubnub.com,GFW
 DOMAIN-SUFFIX,clubhouseapi.com,GFW
 DOMAIN-SUFFIX,joinclubhouse.com,GFW
 
-# dubox
-DOMAIN-SUFFIX,dubox.com,GFW
-DOMAIN-SUFFIX,duboxcdn.com,GFW
-
 # code
 DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
@@ -203,6 +198,7 @@ DOMAIN-SUFFIX,edigest.hk,GFW
 DOMAIN-SUFFIX,eprice.com.hk,GFW 
 DOMAIN-SUFFIX,hongkongcard.com,GFW 
 DOMAIN-SUFFIX,myguide.hk,GFW
+DOMAIN-SUFFIX,thinkhk.com,GFW 
 DOMAIN-SUFFIX,unwire.hk,GFW
 
 # rss
@@ -234,25 +230,27 @@ DOMAIN-SUFFIX,limbopro.com,GFW
 DOMAIN-SUFFIX,limbopro.pro,GFW 
 DOMAIN-SUFFIX,tingtalk.me,GFW
 
-# 视频网站
+# 视频图片
 DOMAIN-SUFFIX,ntdimg.com,GFW
+DOMAIN-SUFFIX,imgur.io,GFW 
 
 # 小说
+DOMAIN-SUFFIX,feiazw.com,GFW 
 DOMAIN-SUFFIX,ptwxz.com,GFW 
 DOMAIN-SUFFIX,pysmei.com,GFW 
+DOMAIN-SUFFIX,ranwen8.com,GFW  
 
 # porn
 DOMAIN-KEYWORD,91p,GFW
 DOMAIN,blackmorase.com,GFW
 DOMAIN,i.p04.space,GFW
 
-DOMAIN-SUFFIX,45maoee.com,GFW 
 DOMAIN-SUFFIX,51fengliu.com,GFW 
 DOMAIN-SUFFIX,fenglouge.net,GFW
 DOMAIN-SUFFIX,iavnight.com,GFW
-DOMAIN-SUFFIX,kouwobb.com,GFW
 DOMAIN-SUFFIX,mdapp1.pw,GFW
 DOMAIN-SUFFIX,onlyfans.com,GFW 
+DOMAIN-SUFFIX,xsnvshen.co,GFW
 DOMAIN-SUFFIX,xsnvshen.com,GFW
 DOMAIN-SUFFIX,xsnvshen.net,GFW
 
