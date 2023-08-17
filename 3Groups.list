@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,recaptcha.net,DIRECT
 
 DOMAIN,jdsharedresourcescdn.azureedge.net,GFW
 DOMAIN-SUFFIX,bing.com,newBing
+DOMAIN-SUFFIX,bing.net,newBing
 
 DOMAIN-SUFFIX,1drv.com,Microsoft
 DOMAIN-SUFFIX,aadrm.com,Microsoft
@@ -146,6 +147,7 @@ DOMAIN-SUFFIX,icloud-content.com,AppleiCloud
 DOMAIN-SUFFIX,aaplimg.com,Apple
 DOMAIN-SUFFIX,akadns.net,Apple
 DOMAIN-SUFFIX,akamaiedge.net,Apple
+DOMAIN-SUFFIX,apple.cn,Apple
 DOMAIN-SUFFIX,apple.co,Apple
 DOMAIN-SUFFIX,apple.com,Apple
 DOMAIN-SUFFIX,apple.com.cn,Apple
