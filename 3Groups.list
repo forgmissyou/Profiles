@@ -1,5 +1,3 @@
-DOMAIN-KEYWORD,jinkela,DIRECT
-
 # Direct
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
 
@@ -27,6 +25,7 @@ DOMAIN-SUFFIX,azure.net,Microsoft
 DOMAIN-SUFFIX,azureedge.net,Microsoft
 DOMAIN-SUFFIX,azurerms.com,Microsoft
 # DOMAIN-SUFFIX,bing.com,Microsoft
+DOMAIN-SUFFIX,bingapis.com,Microsoft
 DOMAIN-SUFFIX,cloudapp.net,Microsoft
 DOMAIN-SUFFIX,cloudappsecurity.com,Microsoft
 DOMAIN-SUFFIX,gfx.ms,Microsoft
@@ -183,7 +182,6 @@ DOMAIN-SUFFIX,ryleyangus.com,GFW
 DOMAIN-SUFFIX,thebigboss.org,GFW
 
 # jailbreaken website
-DOMAIN-SUFFIX,cydialmp.vip,GFW
 DOMAIN-SUFFIX,nyxz166.cn,GFW
 
 # news
@@ -192,6 +190,7 @@ DOMAIN-SUFFIX,dawanews.com,GFW
 DOMAIN-SUFFIX,zhaojiaren.club,GFW 
 
 DOMAIN-SUFFIX,ft.com,GFW 
+DOMAIN-SUFFIX,html.bad.news,GFW 
 DOMAIN-SUFFIX,thenationalpulse.com,GFW
 
 # HK and TW
@@ -205,6 +204,7 @@ DOMAIN-SUFFIX,unwire.hk,GFW
 
 # rss
 DOMAIN-SUFFIX,newsify.co,GFW
+DOMAIN-SUFFIX,huangjiwei.com,GFW 
 
 # 实用工具类网站
 DOMAIN,ilovexjp.pages.dev,GFW
@@ -219,15 +219,16 @@ DOMAIN-SUFFIX,yopmail.com,GFW
 DOMAIN-SUFFIX,youtube4kdownloader.com,GFW 
 
 # 网络
+DOMAIN-SUFFIX,cdn.jsdelivr.net,GFW
 DOMAIN-SUFFIX,cloudflare.com,GFW
 DOMAIN-SUFFIX,code.jquery.com,GFW
 DOMAIN-SUFFIX,digitpatrox.com,GFW
 DOMAIN-SUFFIX,disquscdn.com,GFW 
 DOMAIN-SUFFIX,flurry.com,GFW
+DOMAIN-SUFFIX,storage.bhs.cloud.ovh.net,GFW
 
 # personal website
 DOMAIN-SUFFIX,ixue.io,GFW
-DOMAIN-SUFFIX,wemp.app,GFW
 DOMAIN-SUFFIX,limbopro.com,GFW 
 DOMAIN-SUFFIX,limbopro.pro,GFW 
 DOMAIN-SUFFIX,tingtalk.me,GFW
@@ -237,17 +238,16 @@ DOMAIN-SUFFIX,ntdimg.com,GFW
 DOMAIN-SUFFIX,imgur.io,GFW 
 
 # 小说
-DOMAIN-SUFFIX,feiazw.com,GFW 
-DOMAIN-SUFFIX,ptwxz.com,GFW 
-DOMAIN-SUFFIX,pysmei.com,GFW 
 DOMAIN-SUFFIX,ranwen8.com,GFW  
+DOMAIN-SUFFIX,sumingxs.com,GFW 
 
 # porn
 DOMAIN-KEYWORD,91p,GFW
 DOMAIN,blackmorase.com,GFW
 DOMAIN,i.p04.space,GFW
-DOMAIN-SUFFIX,sb-cd.com,GFW
+DOMAIN-SUFFIX,killcovid2021.com,GFW
 DOMAIN-SUFFIX,ptgncdn.com,GFW
+DOMAIN-SUFFIX,sb-cd.com,GFW
 
 DOMAIN-SUFFIX,51fengliu.com,GFW 
 DOMAIN-SUFFIX,fenglouge.net,GFW
