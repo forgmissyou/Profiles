@@ -286,6 +286,8 @@ DOMAIN-SUFFIX,nyxz166.cn,GFW
 
 # news
 DOMAIN-SUFFIX,64memo.com,GFW
+DOMAIN-SUFFIX,bad.news,GFW
+DOMAIN-SUFFIX,businessinsider.in,GFW
 DOMAIN-SUFFIX,dawanews.com,GFW
 DOMAIN-SUFFIX,zhaojiaren.club,GFW 
 
@@ -345,6 +347,8 @@ DOMAIN,blackmorase.com,GFW
 DOMAIN,i.p04.space,GFW
 DOMAIN-SUFFIX,book18.com,GFW
 DOMAIN-SUFFIX,cartoon18.com,GFW
+DOMAIN-SUFFIX,crisp.chat,GFW
+DOMAIN-SUFFIX,btc35000.com,GFW
 DOMAIN-SUFFIX,killcovid2021.com,GFW
 DOMAIN-SUFFIX,ptgncdn.com,GFW
 DOMAIN-SUFFIX,sb-cd.com,GFW
@@ -353,6 +357,7 @@ DOMAIN-SUFFIX,141-hk.com,GFW
 DOMAIN-SUFFIX,midland.com.hk,GFW 
 DOMAIN-SUFFIX,hkbigman.net,GFW 
 
+DOMAIN-SUFFIX,51cg.fun,GFW
 DOMAIN-SUFFIX,51fengliu.com,GFW 
 #https://fenglougo.github.io/
 DOMAIN-SUFFIX,fenglouge.net,GFW
