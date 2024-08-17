@@ -8,39 +8,6 @@ DOMAIN-SUFFIX,recaptcha.net,DIRECT
 # Microsoft
 # https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
 
-DOMAIN,browser-intake-datadoghq.com,OpenAI
-DOMAIN,static.cloudflareinsights.com,OpenAI
-DOMAIN-SUFFIX,ai.com,OpenAI
-DOMAIN-SUFFIX,algolia.net,OpenAI
-DOMAIN-SUFFIX,api.statsig.com,OpenAI
-DOMAIN-SUFFIX,auth0.com,OpenAI
-DOMAIN-SUFFIX,chatgpt.com,OpenAI
-DOMAIN-SUFFIX,chatgpt.livekit.cloud,OpenAI
-DOMAIN-SUFFIX,client-api.arkoselabs.com,OpenAI
-DOMAIN-SUFFIX,events.statsigapi.net,OpenAI
-DOMAIN-SUFFIX,featuregates.org,OpenAI
-DOMAIN-SUFFIX,DOMAIN.livekit.cloud,OpenAI
-DOMAIN-SUFFIX,identrust.com,OpenAI
-DOMAIN-SUFFIX,intercom.io,OpenAI
-DOMAIN-SUFFIX,intercomcdn.com,OpenAI
-DOMAIN-SUFFIX,launchdarkly.com,OpenAI
-DOMAIN-SUFFIX,oaistatic.com,OpenAI
-DOMAIN-SUFFIX,oaiusercontent.com,OpenAI
-DOMAIN-SUFFIX,observeit.net,OpenAI
-DOMAIN-SUFFIX,poe.com,OpenAI
-DOMAIN-SUFFIX,segment.io,OpenAI
-DOMAIN-SUFFIX,sentry.io,OpenAI
-DOMAIN-SUFFIX,stripe.com,OpenAI
-DOMAIN-SUFFIX,turn.livekit.cloud,OpenAI
-DOMAIN-KEYWORD,openai,OpenAI
-IP-CIDR,24.199.123.28/32,OpenAI
-IP-CIDR,64.23.132.171/32,OpenAI
-IP-ASN,20473,OpenAI
-
-DOMAIN-SUFFIX,bing.com,newBing
-DOMAIN-SUFFIX,bing.net,newBing
-DOMAIN-SUFFIX,bingapis.com,newBing
-
 DOMAIN-SUFFIX,1drv.com,Microsoft
 DOMAIN-SUFFIX,aadrm.com,Microsoft
 DOMAIN-SUFFIX,acompli.com,Microsoft
@@ -53,6 +20,9 @@ DOMAIN-SUFFIX,azure.com,Microsoft
 DOMAIN-SUFFIX,azure.net,Microsoft
 DOMAIN-SUFFIX,azureedge.net,Microsoft
 DOMAIN-SUFFIX,azurerms.com,Microsoft
+DOMAIN-SUFFIX,bing.com,Microsoft
+DOMAIN-SUFFIX,bing.net,Microsoft
+DOMAIN-SUFFIX,bingapis.com,Microsoft
 DOMAIN-SUFFIX,cloudapp.net,Microsoft
 DOMAIN-SUFFIX,cloudappsecurity.com,Microsoft
 DOMAIN-SUFFIX,gfx.ms,Microsoft
@@ -274,13 +244,6 @@ DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
 DOMAIN-SUFFIX,githubmemory.com,GFW 
 
-# cydia
-DOMAIN-SUFFIX,cydia.angelxwind.net,GFW
-DOMAIN-SUFFIX,getdelta.co,GFW
-DOMAIN-SUFFIX,hackyouriphone.org,GFW
-DOMAIN-SUFFIX,ryleyangus.com,GFW
-DOMAIN-SUFFIX,thebigboss.org,GFW
-
 # jailbreaken website
 DOMAIN-SUFFIX,nyxz166.cn,GFW
 
@@ -295,12 +258,12 @@ DOMAIN-SUFFIX,businessinsider.in,GFW
 DOMAIN-SUFFIX,thenationalpulse.com,GFW
 
 # HK and TW
-DOMAIN-SUFFIX,easyatm.com.tw,GFW 
 DOMAIN-SUFFIX,edigest.hk,GFW
 DOMAIN-SUFFIX,eprice.com.hk,GFW 
 DOMAIN-SUFFIX,hongkongcard.com,GFW 
 DOMAIN-SUFFIX,myguide.hk,GFW
-DOMAIN-SUFFIX,thinkhk.com,GFW 
+DOMAIN-SUFFIX,thinkhk.com,GFW
+DOMAIN-SUFFIX,ulifestyle.com.hk,GFW
 DOMAIN-SUFFIX,unwire.hk,GFW
 
 # rss
@@ -310,11 +273,17 @@ DOMAIN-SUFFIX,huangjiwei.com,GFW
 # 实用工具类网站
 DOMAIN,ilovexjp.pages.dev,GFW
 DOMAIN,privacy.aiuys.com,GFW
+DOMAIN-SUFFIX,airpano.org.cn,GFW 
+DOMAIN-SUFFIX,annas-archive.org,GFW 
 DOMAIN-SUFFIX,fakenamegenerator.com,GFW 
+DOMAIN-SUFFIX,fotor.com,GFW 
 DOMAIN-SUFFIX,freeonlinephone.org,GFW 
 DOMAIN-SUFFIX,geacron.com,GFW
+DOMAIN-SUFFIX,haodoo.net,GFW
 DOMAIN-SUFFIX,libgen.rs,GFW 
+DOMAIN-SUFFIX,singlelogin.re,GFW
 DOMAIN-SUFFIX,translatetheweb.com,GFW
+DOMAIN-SUFFIX,ttsmaker.com,GFW
 DOMAIN-SUFFIX,weebly.com,GFW
 DOMAIN-SUFFIX,yopmail.com,GFW 
 DOMAIN-SUFFIX,youtube4kdownloader.com,GFW 
@@ -353,6 +322,7 @@ DOMAIN-SUFFIX,ptgncdn.com,GFW
 DOMAIN-SUFFIX,sb-cd.com,GFW
 
 DOMAIN-SUFFIX,141-hk.com,GFW 
+DOMAIN-SUFFIX,zh141.com,GFW 
 DOMAIN-SUFFIX,midland.com.hk,GFW 
 DOMAIN-SUFFIX,hkbigman.net,GFW 
 
