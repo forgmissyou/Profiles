@@ -257,10 +257,11 @@ DOMAIN-SUFFIX,bad.news,GFW
 DOMAIN-SUFFIX,businessinsider.in,GFW
 DOMAIN-SUFFIX,thenationalpulse.com,GFW
 
-# HK and TW
+# HK TW US
 DOMAIN-SUFFIX,edigest.hk,GFW
-DOMAIN-SUFFIX,eprice.com.hk,GFW 
-DOMAIN-SUFFIX,hongkongcard.com,GFW 
+DOMAIN-SUFFIX,eprice.com.hk,GFW
+DOMAIN-SUFFIX,evus.gov,GFW
+DOMAIN-SUFFIX,hongkongcard.com,GFW
 DOMAIN-SUFFIX,myguide.hk,GFW
 DOMAIN-SUFFIX,thinkhk.com,GFW
 DOMAIN-SUFFIX,ulifestyle.com.hk,GFW
@@ -281,6 +282,7 @@ DOMAIN-SUFFIX,freeonlinephone.org,GFW
 DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,haodoo.net,GFW
 DOMAIN-SUFFIX,libgen.rs,GFW 
+DOMAIN-SUFFIX,linktr.ee,GFW 
 DOMAIN-SUFFIX,singlelogin.re,GFW
 DOMAIN-SUFFIX,translatetheweb.com,GFW
 DOMAIN-SUFFIX,ttsmaker.com,GFW
@@ -325,6 +327,9 @@ DOMAIN-SUFFIX,141-hk.com,GFW
 DOMAIN-SUFFIX,zh141.com,GFW 
 DOMAIN-SUFFIX,midland.com.hk,GFW 
 DOMAIN-SUFFIX,hkbigman.net,GFW 
+
+DOMAIN-SUFFIX,sex-positions.online,GFW 
+DOMAIN-SUFFIX,mcusercontent.com,GFW 
 
 DOMAIN-SUFFIX,51cg.fun,GFW
 DOMAIN-SUFFIX,51fengliu.com,GFW 
