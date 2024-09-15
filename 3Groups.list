@@ -87,39 +87,6 @@ DOMAIN-SUFFIX,yammerusercontent.com,Microsoft
 
 DOMAIN-KEYWORD,microsoft,Microsoft
 
-# AIA
-DOMAIN-SUFFIX,aia.com,AIA
-DOMAIN-SUFFIX,aia.com.hk,AIA
-# > 友联系
-DOMAIN-SUFFIX,aiaconnect.b2clogin.com,AIA
-DOMAIN-SUFFIX,aiagroup.demdex.net,AIA
-# > iEngage
-DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,AIA
-DOMAIN-SUFFIX,aiagroup.sc.omtrdc.net,AIA
-# > 营业员专页
-DOMAIN-SUFFIX,app.ichat-aia.com,AIA
-DOMAIN-SUFFIX,aiaprod.appgreen.com,AIA
-  
-# PayPal
-USER-AGENT,PayPal*,PayPal
-DOMAIN-SUFFIX,paypal.com,PayPal
-DOMAIN-SUFFIX,paypal.me,PayPal
-DOMAIN-SUFFIX,paypal-mktg.com,PayPal
-DOMAIN-SUFFIX,paypalobjects.com,PayPal
-
-# Nike
-DOMAIN-SUFFIX,nike.com,NIKE
-DOMAIN-SUFFIX,nikecdn.com,NIKE
-
-# Speed Test
-USER-AGENT,SpeedTest*,Speedtest
-DOMAIN-KEYWORD,speedtest,Speedtest
-
-# 小红书
-DOMAIN-SUFFIX,xhscdn.com,xhs
-DOMAIN-SUFFIX,xhscdn.net,xhs
-DOMAIN-SUFFIX,xiaohongshu.com,xhs
-
 # Apple
 # > iOS and macOS Proxy
 DOMAIN,lookup-api.apple.com,GFW
@@ -161,6 +128,39 @@ DOMAIN-SUFFIX,me.com,Apple
 DOMAIN-SUFFIX,mwcloudcdn.com,Apple
 DOMAIN-SUFFIX,mwcname.com,Apple
 DOMAIN-SUFFIX,mzstatic.com,Apple
+
+# AIA
+DOMAIN-SUFFIX,aia.com,AIA
+DOMAIN-SUFFIX,aia.com.hk,AIA
+# > 友联系
+DOMAIN-SUFFIX,aiaconnect.b2clogin.com,AIA
+DOMAIN-SUFFIX,aiagroup.demdex.net,AIA
+# > iEngage
+DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,AIA
+DOMAIN-SUFFIX,aiagroup.sc.omtrdc.net,AIA
+# > 营业员专页
+DOMAIN-SUFFIX,app.ichat-aia.com,AIA
+DOMAIN-SUFFIX,aiaprod.appgreen.com,AIA
+
+# Nike
+DOMAIN-SUFFIX,nike.com,NIKE
+DOMAIN-SUFFIX,nikecdn.com,NIKE
+
+# PayPal
+USER-AGENT,PayPal*,PayPal
+DOMAIN-SUFFIX,paypal.com,PayPal
+DOMAIN-SUFFIX,paypal.me,PayPal
+DOMAIN-SUFFIX,paypal-mktg.com,PayPal
+DOMAIN-SUFFIX,paypalobjects.com,PayPal
+
+# Speed Test
+USER-AGENT,SpeedTest*,Speedtest
+DOMAIN-KEYWORD,speedtest,Speedtest
+
+# 小红书
+DOMAIN-SUFFIX,xhscdn.com,xhs
+DOMAIN-SUFFIX,xhscdn.net,xhs
+DOMAIN-SUFFIX,xiaohongshu.com,xhs
 
 # Telegram
 IP-CIDR,67.198.55.0/24,Telegram
@@ -274,6 +274,7 @@ DOMAIN-SUFFIX,huangjiwei.com,GFW
 # 实用工具类网站
 DOMAIN,ilovexjp.pages.dev,GFW
 DOMAIN,privacy.aiuys.com,GFW
+DOMAIN,www.businessgo.hsbc.com,GFW
 DOMAIN-SUFFIX,airpano.org.cn,GFW 
 DOMAIN-SUFFIX,annas-archive.org,GFW 
 DOMAIN-SUFFIX,fakenamegenerator.com,GFW 
