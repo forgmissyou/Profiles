@@ -132,11 +132,12 @@ DOMAIN-SUFFIX,mzstatic.com,Apple
 # AIA
 DOMAIN-SUFFIX,aia.com,AIA
 DOMAIN-SUFFIX,aia.com.hk,AIA
-# > 友联系
-DOMAIN-SUFFIX,aiaconnect.b2clogin.com,AIA
-DOMAIN-SUFFIX,aiagroup.demdex.net,AIA
-# > iEngage
+DOMAIN-SUFFIX,aia-pt.com.hk,AIA
+
 DOMAIN-SUFFIX,aiacdnprod.4d.com.hk,AIA
+DOMAIN-SUFFIX,aiaconnect.b2clogin.com,AIA
+DOMAIN-SUFFIX,aiagroup.data.adobedc.net,AIA
+DOMAIN-SUFFIX,aiagroup.demdex.net,AIA
 DOMAIN-SUFFIX,aiagroup.sc.omtrdc.net,AIA
 # > 营业员专页
 DOMAIN-SUFFIX,app.ichat-aia.com,AIA
@@ -259,13 +260,20 @@ DOMAIN-SUFFIX,thenationalpulse.com,GFW
 
 # HK TW US
 DOMAIN-SUFFIX,edigest.hk,GFW
-DOMAIN-SUFFIX,eprice.com.hk,GFW
+DOMAIN-SUFFIX,eprice.com.hk,GFW 
 DOMAIN-SUFFIX,evus.gov,GFW
-DOMAIN-SUFFIX,hongkongcard.com,GFW
+DOMAIN-SUFFIX,hongkongcard.com,GFW 
 DOMAIN-SUFFIX,myguide.hk,GFW
-DOMAIN-SUFFIX,thinkhk.com,GFW
+DOMAIN-SUFFIX,thinkhk.com,GFW 
 DOMAIN-SUFFIX,ulifestyle.com.hk,GFW
 DOMAIN-SUFFIX,unwire.hk,GFW
+DOMAIN-SUFFIX,uscardforum.com,GFW
+DOMAIN-SUFFIX,wise.com,GFW 
+
+# HK银行证券
+DOMAIN-SUFFIX,prod-mox.com,GFW
+DOMAIN-SUFFIX,webull.hk,GFW
+DOMAIN-SUFFIX,zhangle.com,GFW
 
 # rss
 DOMAIN-SUFFIX,newsify.co,GFW
@@ -277,6 +285,7 @@ DOMAIN,privacy.aiuys.com,GFW
 DOMAIN,www.businessgo.hsbc.com,GFW
 DOMAIN-SUFFIX,airpano.org.cn,GFW 
 DOMAIN-SUFFIX,annas-archive.org,GFW 
+DOMAIN-SUFFIX,bk.hallowlib.org,GFW
 DOMAIN-SUFFIX,fakenamegenerator.com,GFW 
 DOMAIN-SUFFIX,fotor.com,GFW 
 DOMAIN-SUFFIX,freeonlinephone.org,GFW 
@@ -324,8 +333,12 @@ DOMAIN-SUFFIX,killcovid2021.com,GFW
 DOMAIN-SUFFIX,ptgncdn.com,GFW
 DOMAIN-SUFFIX,sb-cd.com,GFW
 
-DOMAIN-SUFFIX,141-hk.com,GFW 
-DOMAIN-SUFFIX,zh141.com,GFW 
+DOMAIN-SUFFIX,141-161.com,GFW 
+DOMAIN-SUFFIX,141club.com,GFW 
+DOMAIN-SUFFIX,141hongkong.com,GFW 
+DOMAIN-SUFFIX,141love.net,GFW 
+DOMAIN-SUFFIX,zh141.net,GFW
+
 DOMAIN-SUFFIX,midland.com.hk,GFW 
 DOMAIN-SUFFIX,hkbigman.net,GFW 
 
