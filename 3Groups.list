@@ -285,11 +285,12 @@ DOMAIN,privacy.aiuys.com,GFW
 DOMAIN,www.businessgo.hsbc.com,GFW
 DOMAIN-SUFFIX,airpano.org.cn,GFW 
 DOMAIN-SUFFIX,annas-archive.org,GFW 
-DOMAIN-SUFFIX,bk.hallowlib.org,GFW
+DOMAIN-SUFFIX,basicappleguy.com,GFW
 DOMAIN-SUFFIX,fakenamegenerator.com,GFW 
 DOMAIN-SUFFIX,fotor.com,GFW 
 DOMAIN-SUFFIX,freeonlinephone.org,GFW 
 DOMAIN-SUFFIX,geacron.com,GFW
+DOMAIN-SUFFIX,hallowlib.org,GFW
 DOMAIN-SUFFIX,haodoo.net,GFW
 DOMAIN-SUFFIX,libgen.rs,GFW 
 DOMAIN-SUFFIX,linktr.ee,GFW 
@@ -315,6 +316,7 @@ DOMAIN-SUFFIX,limbopro.com,GFW
 DOMAIN-SUFFIX,limbopro.pro,GFW 
 DOMAIN-SUFFIX,springwood.me,GFW 
 DOMAIN-SUFFIX,tingtalk.me,GFW
+DOMAIN-SUFFIX,wangwanglaifu.com,GFW
 
 # 视频图片
 DOMAIN-SUFFIX,ntdimg.com,GFW
@@ -340,6 +342,7 @@ DOMAIN-SUFFIX,play-cdn15.com,GFW
 DOMAIN-SUFFIX,pornbest.co,GFW
 DOMAIN-SUFFIX,ptt.co,GFW
 DOMAIN-SUFFIX,ptt.sex,GFW
+DOMAIN-SUFFIX,shasha.skin,GFW
 
 DOMAIN-SUFFIX,141-161.com,GFW 
 DOMAIN-SUFFIX,141-hk.com, GFW
