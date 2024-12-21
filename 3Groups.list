@@ -232,21 +232,33 @@ IP6-CIDR,2001:b28:f23f::/48,Telegram
 IP6-CIDR,2001:b28:f23f:f005::a/128,Telegram
 IP6-CIDR,2001:b28:f242::/48,Telegram
 
-# AI
-DOMAIN-SUFFIX,chatdoc.com,GFW
+# HK TW
+DOMAIN-SUFFIX,28hse.com,HK
+DOMAIN-SUFFIX,edigest.hk,HK
+DOMAIN-SUFFIX,eprice.com.hk,HK
+DOMAIN-SUFFIX,hongkongcard.com,HK
+DOMAIN-SUFFIX,hongkongwatch.org,HK
+DOMAIN-SUFFIX,midland.com.hk,HK
+DOMAIN-SUFFIX,myguide.hk,HK
+DOMAIN-SUFFIX,techritual.com,HK
+DOMAIN-SUFFIX,thinkhk.com,HK
+DOMAIN-SUFFIX,ulifestyle.com.hk,HK
+DOMAIN-SUFFIX,unwire.hk,HK
 
-# Clubhouse
-DOMAIN,clubhouse.pubnub.com,GFW
-DOMAIN-SUFFIX,clubhouseapi.com,GFW
-DOMAIN-SUFFIX,joinclubhouse.com,GFW
+# HK银行证券
+DOMAIN-SUFFIX,futuhk.com,HK
+DOMAIN-SUFFIX,prod-mox.com,HK
+DOMAIN-SUFFIX,webull.hk,HK
+DOMAIN-SUFFIX,zhangle.com,HK
+
+# 其他国家
+DOMAIN-SUFFIX,evus.gov,PROXY
+DOMAIN-SUFFIX,wise.com,PROXY
 
 # code
 DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
 DOMAIN-SUFFIX,githubmemory.com,GFW 
-
-# jailbreaken website
-DOMAIN-SUFFIX,nyxz166.cn,GFW
 
 # news
 DOMAIN-SUFFIX,64memo.com,GFW
@@ -254,30 +266,8 @@ DOMAIN-SUFFIX,dawanews.com,GFW
 DOMAIN-SUFFIX,zhaojiaren.club,GFW 
 
 DOMAIN-SUFFIX,ft.com,GFW 
-DOMAIN-SUFFIX,bad.news,GFW 
 DOMAIN-SUFFIX,businessinsider.in,GFW
 DOMAIN-SUFFIX,thenationalpulse.com,GFW
-
-# HK TW US
-DOMAIN-SUFFIX,edigest.hk,GFW
-DOMAIN-SUFFIX,eprice.com.hk,GFW 
-DOMAIN-SUFFIX,evus.gov,GFW
-DOMAIN-SUFFIX,hongkongcard.com,GFW 
-DOMAIN-SUFFIX,myguide.hk,GFW
-DOMAIN-SUFFIX,thinkhk.com,GFW 
-DOMAIN-SUFFIX,ulifestyle.com.hk,GFW
-DOMAIN-SUFFIX,unwire.hk,GFW
-DOMAIN-SUFFIX,uscardforum.com,GFW
-DOMAIN-SUFFIX,wise.com,GFW 
-
-# HK银行证券
-DOMAIN-SUFFIX,prod-mox.com,GFW
-DOMAIN-SUFFIX,webull.hk,GFW
-DOMAIN-SUFFIX,zhangle.com,GFW
-
-# rss
-DOMAIN-SUFFIX,newsify.co,GFW
-DOMAIN-SUFFIX,huangjiwei.com,GFW 
 
 # 实用工具类网站
 DOMAIN,ilovexjp.pages.dev,GFW
@@ -294,6 +284,7 @@ DOMAIN-SUFFIX,hallowlib.org,GFW
 DOMAIN-SUFFIX,haodoo.net,GFW
 DOMAIN-SUFFIX,libgen.rs,GFW 
 DOMAIN-SUFFIX,linktr.ee,GFW 
+DOMAIN-SUFFIX,newsify.co,GFW
 DOMAIN-SUFFIX,singlelogin.re,GFW
 DOMAIN-SUFFIX,translatetheweb.com,GFW
 DOMAIN-SUFFIX,ttsmaker.com,GFW
@@ -301,19 +292,9 @@ DOMAIN-SUFFIX,weebly.com,GFW
 DOMAIN-SUFFIX,yopmail.com,GFW 
 DOMAIN-SUFFIX,youtube4kdownloader.com,GFW 
 
-# 网络
-DOMAIN-SUFFIX,cdn.jsdelivr.net,GFW
-DOMAIN-SUFFIX,cloudflare.com,GFW
-DOMAIN-SUFFIX,code.jquery.com,GFW
-DOMAIN-SUFFIX,digitpatrox.com,GFW
-DOMAIN-SUFFIX,disquscdn.com,GFW 
-DOMAIN-SUFFIX,flurry.com,GFW
-DOMAIN-SUFFIX,storage.bhs.cloud.ovh.net,GFW
-
 # personal website
+DOMAIN-SUFFIX,huangjiwei.com,GFW 
 DOMAIN-SUFFIX,ixue.io,GFW
-DOMAIN-SUFFIX,limbopro.com,GFW 
-DOMAIN-SUFFIX,limbopro.pro,GFW 
 DOMAIN-SUFFIX,springwood.me,GFW 
 DOMAIN-SUFFIX,tingtalk.me,GFW
 DOMAIN-SUFFIX,wangwanglaifu.com,GFW
@@ -325,24 +306,7 @@ DOMAIN-SUFFIX,sinatra.ishowsapp.com,GFW
 
 # porn
 DOMAIN-KEYWORD,91p,GFW
-DOMAIN,blackmorase.com,GFW
-DOMAIN,i.p04.space,GFW
-DOMAIN-SUFFIX,btc35000.com,GFW
-
-DOMAIN-SUFFIX,crisp.chat,GFW
 DOMAIN-SUFFIX,killcovid2021.com,GFW
-
-DOMAIN-SUFFIX,ptgncdn.com,GFW
-DOMAIN-SUFFIX,sb-cd.com,GFW
-
-DOMAIN-SUFFIX,book18.org,GFW
-DOMAIN-SUFFIX,cartoon18.com,GFW
-DOMAIN-SUFFIX,photos18.com,GFW
-DOMAIN-SUFFIX,play-cdn15.com,GFW
-DOMAIN-SUFFIX,pornbest.co,GFW
-DOMAIN-SUFFIX,ptt.co,GFW
-DOMAIN-SUFFIX,ptt.sex,GFW
-DOMAIN-SUFFIX,shasha.skin,GFW
 
 DOMAIN-SUFFIX,141-161.com,GFW 
 DOMAIN-SUFFIX,141-hk.com, GFW
@@ -351,14 +315,10 @@ DOMAIN-SUFFIX,141hongkong.com,GFW
 DOMAIN-SUFFIX,141love.net,GFW 
 DOMAIN-SUFFIX,zh141.net,GFW
 
-DOMAIN-SUFFIX,midland.com.hk,GFW 
-DOMAIN-SUFFIX,hkbigman.net,GFW 
-
 DOMAIN-SUFFIX,sex-positions.online,GFW 
 DOMAIN-SUFFIX,mcusercontent.com,GFW 
 
 DOMAIN-SUFFIX,51cg.fun,GFW
-DOMAIN-SUFFIX,51fengliu.com,GFW 
 #https://fenglougo.github.io/
 DOMAIN-SUFFIX,fenglouge.net,GFW
 DOMAIN-SUFFIX,iavnight.com,GFW
@@ -367,10 +327,3 @@ DOMAIN-SUFFIX,onlyfans.com,GFW
 DOMAIN-SUFFIX,xsnvshen.co,GFW
 DOMAIN-SUFFIX,xsnvshen.com,GFW
 DOMAIN-SUFFIX,xsnvshen.net,GFW
-
-# Proxy
-DOMAIN,cutt.ly,GFW
-DOMAIN,i.loli.net,GFW
-DOMAIN,relay.firefox.com,GFW
-DOMAIN,search.avira.com,GFW
-DOMAIN,us.weibo.com,GFW
