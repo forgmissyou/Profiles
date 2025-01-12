@@ -233,17 +233,20 @@ IP6-CIDR,2001:b28:f23f:f005::a/128,Telegram
 IP6-CIDR,2001:b28:f242::/48,Telegram
 
 # HK TW
-DOMAIN-SUFFIX,28hse.com,HK
-DOMAIN-SUFFIX,edigest.hk,HK
-DOMAIN-SUFFIX,eprice.com.hk,HK
-DOMAIN-SUFFIX,hongkongcard.com,HK
-DOMAIN-SUFFIX,hongkongwatch.org,HK
-DOMAIN-SUFFIX,midland.com.hk,HK
-DOMAIN-SUFFIX,myguide.hk,HK
-DOMAIN-SUFFIX,techritual.com,HK
-DOMAIN-SUFFIX,thinkhk.com,HK
-DOMAIN-SUFFIX,ulifestyle.com.hk,HK
-DOMAIN-SUFFIX,unwire.hk,HK
+DOMAIN-SUFFIX,28hse.com,HKproxy
+DOMAIN-SUFFIX,edigest.hk,HKproxy
+DOMAIN-SUFFIX,eprice.com.hk,HKproxy
+DOMAIN-SUFFIX,globalsim.hk,HKproxy
+DOMAIN-SUFFIX,hongkongcard.com,HKproxy
+DOMAIN-SUFFIX,hongkongwatch.org,HKproxy
+DOMAIN-SUFFIX,lih.kg,HKproxy
+DOMAIN-SUFFIX,midland.com.hk,HKproxy
+DOMAIN-SUFFIX,myguide.hk,HKproxy
+DOMAIN-SUFFIX,simworld.net,HKproxy
+DOMAIN-SUFFIX,techritual.com,HKproxy
+DOMAIN-SUFFIX,thinkhk.com,HKproxy
+DOMAIN-SUFFIX,ulifestyle.com.hk,HKproxy
+DOMAIN-SUFFIX,unwire.hk,HKproxy
 
 # HK银行证券
 DOMAIN-SUFFIX,futuhk.com,HK
