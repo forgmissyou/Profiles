@@ -249,10 +249,10 @@ DOMAIN-SUFFIX,ulifestyle.com.hk,HKproxy
 DOMAIN-SUFFIX,unwire.hk,HKproxy
 
 # HK银行证券
-DOMAIN-SUFFIX,futuhk.com,HK
-DOMAIN-SUFFIX,prod-mox.com,HK
-DOMAIN-SUFFIX,webull.hk,HK
-DOMAIN-SUFFIX,zhangle.com,HK
+DOMAIN-SUFFIX,futuhk.com,HKproxy
+DOMAIN-SUFFIX,prod-mox.com,HKproxy
+DOMAIN-SUFFIX,webull.hk,HKproxy
+DOMAIN-SUFFIX,zhangle.com,HKproxy
 
 # 其他国家
 DOMAIN-SUFFIX,evus.gov,PROXY
