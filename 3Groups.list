@@ -268,6 +268,10 @@ DOMAIN-SUFFIX,businessinsider.in,GFW
 DOMAIN-SUFFIX,ft.com,GFW 
 DOMAIN-SUFFIX,thenationalpulse.com,GFW
 
+# 视频图片
+DOMAIN-SUFFIX,imgur.io,GFW 
+DOMAIN-SUFFIX,sinatra.ishowsapp.com,GFW
+
 # 实用工具类网站
 DOMAIN,ilovexjp.pages.dev,GFW
 DOMAIN,privacy.aiuys.com,GFW
@@ -299,14 +303,12 @@ DOMAIN-SUFFIX,springwood.me,GFW
 DOMAIN-SUFFIX,tingtalk.me,GFW
 DOMAIN-SUFFIX,wangwanglaifu.com,GFW
 
-# 视频图片
-DOMAIN-SUFFIX,imgur.io,GFW 
-DOMAIN-SUFFIX,sinatra.ishowsapp.com,GFW
 
 # porn
 DOMAIN-KEYWORD,91p,GFW
 DOMAIN-SUFFIX,killcovid2021.com,GFW
 
+DOMAIN-SUFFIX,7000.me,GFW
 DOMAIN-SUFFIX,634.tv,GFW
 DOMAIN-SUFFIX,69tang.org,GFW
 
