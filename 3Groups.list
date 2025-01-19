@@ -242,13 +242,15 @@ DOMAIN-SUFFIX,unwire.hk,HKproxy
 DOMAIN-SUFFIX,info.gov.hk,HKproxy
 
 # HK银行证券
-DOMAIN-SUFFIX,futuhk.com,HKproxy
 DOMAIN-SUFFIX,prod-mox.com,HKproxy
+
+DOMAIN-SUFFIX,futuhk.com,HKproxy
 DOMAIN-SUFFIX,webull.hk,HKproxy
 DOMAIN-SUFFIX,zhangle.com,HKproxy
 
 # 其他国家
 DOMAIN-SUFFIX,gov.tw,TW
+
 DOMAIN-SUFFIX,evus.gov,PROXY
 DOMAIN-SUFFIX,wise.com,PROXY
 
@@ -262,8 +264,8 @@ DOMAIN-SUFFIX,64memo.com,GFW
 DOMAIN-SUFFIX,dawanews.com,GFW
 DOMAIN-SUFFIX,zhaojiaren.club,GFW 
 
-DOMAIN-SUFFIX,ft.com,GFW 
 DOMAIN-SUFFIX,businessinsider.in,GFW
+DOMAIN-SUFFIX,ft.com,GFW 
 DOMAIN-SUFFIX,thenationalpulse.com,GFW
 
 # 实用工具类网站
@@ -279,6 +281,7 @@ DOMAIN-SUFFIX,freeonlinephone.org,GFW
 DOMAIN-SUFFIX,geacron.com,GFW
 DOMAIN-SUFFIX,hallowlib.org,GFW
 DOMAIN-SUFFIX,haodoo.net,GFW
+DOMAIN-SUFFIX,ixue.io,GFW
 DOMAIN-SUFFIX,libgen.rs,GFW 
 DOMAIN-SUFFIX,linktr.ee,GFW 
 DOMAIN-SUFFIX,newsify.co,GFW
@@ -292,13 +295,11 @@ DOMAIN-SUFFIX,youtube4kdownloader.com,GFW
 
 # personal website
 DOMAIN-SUFFIX,huangjiwei.com,GFW 
-DOMAIN-SUFFIX,ixue.io,GFW
 DOMAIN-SUFFIX,springwood.me,GFW 
 DOMAIN-SUFFIX,tingtalk.me,GFW
 DOMAIN-SUFFIX,wangwanglaifu.com,GFW
 
 # 视频图片
-DOMAIN-SUFFIX,ntdimg.com,GFW
 DOMAIN-SUFFIX,imgur.io,GFW 
 DOMAIN-SUFFIX,sinatra.ishowsapp.com,GFW
 
@@ -317,7 +318,6 @@ DOMAIN-SUFFIX,141love.net,GFW
 DOMAIN-SUFFIX,zh141.net,GFW
 
 DOMAIN-SUFFIX,sex-positions.online,GFW 
-DOMAIN-SUFFIX,mcusercontent.com,GFW 
 
 DOMAIN-SUFFIX,51cg.fun,GFW
 #https://fenglougo.github.io/
