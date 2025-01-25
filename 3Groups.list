@@ -290,6 +290,7 @@ DOMAIN-SUFFIX,libgen.rs,GFW
 DOMAIN-SUFFIX,linktr.ee,GFW 
 DOMAIN-SUFFIX,newsify.co,GFW
 DOMAIN-SUFFIX,nodeseek.com,GFW
+DOMAIN-SUFFIX,scribdassets.com,GFW
 DOMAIN-SUFFIX,singlelogin.re,GFW
 DOMAIN-SUFFIX,translatetheweb.com,GFW
 DOMAIN-SUFFIX,ttsmaker.com,GFW
@@ -299,6 +300,7 @@ DOMAIN-SUFFIX,youtube4kdownloader.com,GFW
 
 # personal website
 DOMAIN-SUFFIX,huangjiwei.com,GFW 
+DOMAIN-SUFFIX,shuzijumin.com,GFW
 DOMAIN-SUFFIX,springwood.me,GFW 
 DOMAIN-SUFFIX,tingtalk.me,GFW
 DOMAIN-SUFFIX,wangwanglaifu.com,GFW
