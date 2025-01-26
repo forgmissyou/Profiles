@@ -277,8 +277,10 @@ DOMAIN,ilovexjp.pages.dev,GFW
 DOMAIN,privacy.aiuys.com,GFW
 DOMAIN,www.businessgo.hsbc.com,GFW
 DOMAIN-SUFFIX,airpano.org.cn,GFW 
+DOMAIN-SUFFIX,alohabrowser.com,GFW
 DOMAIN-SUFFIX,annas-archive.org,GFW 
 DOMAIN-SUFFIX,basicappleguy.com,GFW
+DOMAIN-SUFFIX,braze.eu,GFW
 DOMAIN-SUFFIX,fakenamegenerator.com,GFW 
 DOMAIN-SUFFIX,fotor.com,GFW 
 DOMAIN-SUFFIX,freeonlinephone.org,GFW 
