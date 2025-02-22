@@ -230,6 +230,12 @@ DOMAIN-SUFFIX,yahoo.com.hk,Yahoo
 DOMAIN-SUFFIX,yahoo.com.tw,Yahoo
 
 
+# HK银行证券
+DOMAIN-SUFFIX,futuhk.com,HKproxy
+DOMAIN-SUFFIX,webull.hk,HKproxy
+DOMAIN-SUFFIX,wise.com,HKproxy
+DOMAIN-SUFFIX,zhangle.com,HKproxy
+
 # HK
 DOMAIN-SUFFIX,28hse.com,HKproxy
 DOMAIN-SUFFIX,edigest.hk,HKproxy
@@ -248,15 +254,6 @@ DOMAIN-SUFFIX,ulifestyle.com.hk,HKproxy
 DOMAIN-SUFFIX,unwire.hk,HKproxy
 
 DOMAIN-SUFFIX,info.gov.hk,HKproxy
-
-# HK银行证券
-DOMAIN-SUFFIX,hkbea.com,HKproxy
-DOMAIN-SUFFIX,prod-mox.com,HKproxy
-
-DOMAIN-SUFFIX,futuhk.com,HKproxy
-DOMAIN-SUFFIX,webull.hk,HKproxy
-DOMAIN-SUFFIX,wise.com,HKproxy
-DOMAIN-SUFFIX,zhangle.com,HKproxy
 
 # 其他国家
 DOMAIN-SUFFIX,gov.tw,TW
