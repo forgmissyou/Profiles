@@ -224,6 +224,7 @@ DOMAIN-SUFFIX,xhscdn.net,xhs
 DOMAIN-SUFFIX,xiaohongshu.com,xhs
 
 # yahoo
+DOMAIN-SUFFIX,techcrunch.com,Yahoo
 DOMAIN-SUFFIX,yahoo.co.jp,Yahoo
 DOMAIN-SUFFIX,yahoo.com,Yahoo
 DOMAIN-SUFFIX,yahoo.com.hk,Yahoo
