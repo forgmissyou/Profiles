@@ -237,11 +237,17 @@ DOMAIN-SUFFIX,webull.hk,HKproxy
 DOMAIN-SUFFIX,wise.com,HKproxy
 DOMAIN-SUFFIX,zhangle.com,HKproxy
 
+DOMAIN-SUFFIX,portfoliox.io,HKproxy
+
+DOMAIN-SUFFIX,primecredit.com,HKproxy
+DOMAIN-SUFFIX,wewacard.com,HKproxy
+
 # HK
 DOMAIN-SUFFIX,28hse.com,HKproxy
 DOMAIN-SUFFIX,edigest.hk,HKproxy
 DOMAIN-SUFFIX,eprice.com.hk,HKproxy
 DOMAIN-SUFFIX,evus.gov,HKproxy
+DOMAIN-SUFFIX,flyformiles.hk,HKproxy
 DOMAIN-SUFFIX,globalsim.hk,HKproxy
 DOMAIN-SUFFIX,hongkongcard.com,HKproxy
 DOMAIN-SUFFIX,hongkongwatch.org,HKproxy
