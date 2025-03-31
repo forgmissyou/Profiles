@@ -260,7 +260,7 @@ DOMAIN-SUFFIX,thinkhk.com,HKproxy
 DOMAIN-SUFFIX,ulifestyle.com.hk,HKproxy
 DOMAIN-SUFFIX,unwire.hk,HKproxy
 
-DOMAIN-SUFFIX,info.gov.hk,HKproxy
+DOMAIN-SUFFIX,gov.hk,HKproxy
 
 # 其他国家
 DOMAIN-SUFFIX,gov.tw,TW
