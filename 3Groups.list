@@ -5,6 +5,20 @@ DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
 DOMAIN-SUFFIX,app-measurement.com,DIRECT
 DOMAIN-SUFFIX,recaptcha.net,DIRECT
 
+DOMAIN-SUFFIX,g.page,GFW
+
+DOMAIN-SUFFIX,cloud.goog,Google
+DOMAIN-SUFFIX,domain.goog,Google
+DOMAIN-SUFFIX,nic.goog,Google
+DOMAIN-SUFFIX,pki.goog,Google
+DOMAIN-SUFFIX,search.goog,Google
+DOMAIN-SUFFIX,ssl.goog,Google
+DOMAIN-SUFFIX,translate.goog,Google
+DOMAIN-SUFFIX,telephony.goog,Google
+DOMAIN-SUFFIX,usercontent.goog,Google
+
+DOMAIN-KEYWORD,google,Google
+
 # Microsoft
 # https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
 
@@ -150,73 +164,44 @@ USER-AGENT,SpeedTest*,Speedtest
 DOMAIN-KEYWORD,speedtest,Speedtest
 
 # Telegram
-IP-CIDR,67.198.55.0/24,Telegram
-IP-CIDR,91.108.12.0/22,Telegram
-IP-CIDR,91.108.12.0/22,Telegram
-IP-CIDR,91.108.12.0/27,Telegram
+# > AS62041
+IP-CIDR,91.108.4.0/22,Telegram
+IP-CIDR,91.108.8.0/22,Telegram
+IP-CIDR,91.108.56.0/22,Telegram
+IP-CIDR,95.161.64.0/20,Telegram
+IP-CIDR,149.154.160.0/22,Telegram
+IP-CIDR,149.154.160.0/23,Telegram
+IP-CIDR,149.154.162.0/23,Telegram
+IP-CIDR,149.154.164.0/22,Telegram
+IP-CIDR,149.154.164.0/23,Telegram
+IP-CIDR,149.154.166.0/23,Telegram
+IP6-CIDR,2001:67c:4e8::/48,Telegram
+
+# > AS62014
 IP-CIDR,91.108.16.0/22,Telegram
-IP-CIDR,91.108.16.0/22,Telegram
-IP-CIDR,91.108.16.0/27,Telegram
+IP-CIDR,91.108.56.0/23,Telegram
+IP-CIDR,149.154.168.0/22,Telegram
+IP6-CIDR,2001:b28:f23f::/48,Telegram
+
+# > AS59930
+IP-CIDR,91.108.12.0/22,Telegram
+IP-CIDR,149.154.172.0/22,Telegram
+IP6-CIDR,2001:b28:f23d::/48,Telegram
+
+# > AS44907
 IP-CIDR,91.108.20.0/22,Telegram
 IP-CIDR,91.108.20.0/23,Telegram
-IP-CIDR,91.108.4.0/22,Telegram
-IP-CIDR,91.108.4.0/22,Telegram
-IP-CIDR,91.108.4.0/24,Telegram
-IP-CIDR,91.108.56.0/22,Telegram
-IP-CIDR,91.108.56.0/22,Telegram
-IP-CIDR,91.108.56.0/23,Telegram
-IP-CIDR,91.108.56.0/24,Telegram
-IP-CIDR,91.108.8.0/22,Telegram
-IP-CIDR,91.108.8.0/22,Telegram
-IP-CIDR,91.108.8.0/27,Telegram
-IP-CIDR,95.161.64.0/20,Telegram
-IP-CIDR,95.161.84.0/23,Telegram
-IP-CIDR,109.239.140.0/24,Telegram
-IP-CIDR,149.154.160.0/20,Telegram
-IP-CIDR,149.154.160.0/22,Telegram
-IP-CIDR,149.154.160.0/22,Telegram
-IP-CIDR,149.154.164.0/22,Telegram
-IP-CIDR,149.154.164.0/22,Telegram
-IP-CIDR,149.154.164.250/32,Telegram
-IP-CIDR,149.154.164.8/29,Telegram
-IP-CIDR,149.154.165.120/32,Telegram
-IP-CIDR,149.154.166.120/32,Telegram
-IP-CIDR,149.154.167.117/32,Telegram
-IP-CIDR,149.154.167.118/32,Telegram
-IP-CIDR,149.154.167.192/27,Telegram
-IP-CIDR,149.154.167.40/32,Telegram
-IP-CIDR,149.154.167.42/32,Telegram
-IP-CIDR,149.154.167.50/32,Telegram
-IP-CIDR,149.154.167.51/32,Telegram
-IP-CIDR,149.154.167.90/32,Telegram
-IP-CIDR,149.154.167.91/32,Telegram
-IP-CIDR,149.154.167.99/32,Telegram
-IP-CIDR,149.154.168.0/22,Telegram
-IP-CIDR,149.154.168.0/22,Telegram
-IP-CIDR,149.154.172.0/22,Telegram
-IP-CIDR,149.154.172.0/22,Telegram
-IP-CIDR,149.154.175.10/32,Telegram
-IP-CIDR,149.154.175.100/32,Telegram
-IP-CIDR,149.154.175.117/32,Telegram
-IP-CIDR,149.154.175.50/32,Telegram
-
-IP6-CIDR,2001:67c:4e8::/48,Telegram
-IP6-CIDR,2001:67c:4e8::/48,Telegram
-IP6-CIDR,2001:67c:4e8:f002::a/128,Telegram
-IP6-CIDR,2001:67c:4e8:f002::e/128,Telegram
-IP6-CIDR,2001:67c:4e8:f004::a/128,Telegram
-IP6-CIDR,2001:67c:4e8:fa60::/64,Telegram
 IP6-CIDR,2001:b28:f23c::/48,Telegram
-IP6-CIDR,2001:b28:f23d::/48,Telegram
-IP6-CIDR,2001:b28:f23d::/48,Telegram
-IP6-CIDR,2001:b28:f23d:f001::a/128,Telegram
-IP6-CIDR,2001:b28:f23d:f001::e/128,Telegram
-IP6-CIDR,2001:b28:f23d:f003::a/128,Telegram
-IP6-CIDR,2001:b28:f23d:f003::e/128,Telegram
-IP6-CIDR,2001:b28:f23f::/48,Telegram
-IP6-CIDR,2001:b28:f23f::/48,Telegram
-IP6-CIDR,2001:b28:f23f:f005::a/128,Telegram
-IP6-CIDR,2001:b28:f242::/48,Telegram
+
+# > AS211157
+IP-CIDR,91.105.192.0/23,Telegram
+IP-CIDR,185.76.151.0/24,Telegram
+IP6-CIDR,2a0a:f280:203::/48,Telegram
+
+# > 其他
+IP-CIDR,109.239.140.0/24,Telegram
+IP6-CIDR,2a0e:97c1:e7::/48,Telegram
+IP6-CIDR,2a0a:f280::/29,Telegram
 
 # 小红书
 DOMAIN-SUFFIX,xhscdn.com,xhs
@@ -245,6 +230,7 @@ DOMAIN-SUFFIX,primecredit.com,HKproxy
 DOMAIN-SUFFIX,wewacard.com,HKproxy
 
 # HK
+DOMAIN-SUFFIX,0xv9.com,HKproxy
 DOMAIN-SUFFIX,28hse.com,HKproxy
 DOMAIN-SUFFIX,edigest.hk,HKproxy
 DOMAIN-SUFFIX,eprice.com.hk,HKproxy
@@ -267,9 +253,6 @@ DOMAIN-SUFFIX,unwire.hk,HKproxy
 # 其他国家
 DOMAIN-SUFFIX,gov.tw,TW
 
-# google
-DOMAIN-SUFFIX,g.page,GFW
-
 # code
 DOMAIN-SUFFIX,gitbook.com,GFW
 DOMAIN-SUFFIX,gitbook.io,GFW
@@ -285,6 +268,7 @@ DOMAIN-SUFFIX,ft.com,GFW
 DOMAIN-SUFFIX,thenationalpulse.com,GFW
 
 # 视频图片
+DOMAIN-SUFFIX,butanediol.me,GFW 
 DOMAIN-SUFFIX,imgur.io,GFW 
 DOMAIN-SUFFIX,sinatra.ishowsapp.com,GFW
 
