@@ -5,7 +5,45 @@ DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
 DOMAIN-SUFFIX,app-measurement.com,DIRECT
 DOMAIN-SUFFIX,recaptcha.net,DIRECT
 
+DOMAIN-SUFFIX,466453.com,Google
+DOMAIN-SUFFIX,admob.com,Google
+DOMAIN-SUFFIX,adsense.com,Google
+DOMAIN-SUFFIX,adwords.com,Google
+DOMAIN-SUFFIX,android.com,Google
+DOMAIN-SUFFIX,appspot.com,Google
+DOMAIN-SUFFIX,blogger.com,Google
+DOMAIN-SUFFIX,chrome.com,Google
+DOMAIN-SUFFIX,chromebook.com,Google
+DOMAIN-SUFFIX,chromium.org,Google
+DOMAIN-SUFFIX,cobrasearch.com,Google
+DOMAIN-SUFFIX,codespot.com,Google
+DOMAIN-SUFFIX,doubleclick.com,Google
+DOMAIN-SUFFIX,doubleclick.net,Google
+DOMAIN-SUFFIX,feedburner.com,Google
+DOMAIN-SUFFIX,ggpht.com,Google
+DOMAIN-SUFFIX,gmail.com,Google
+DOMAIN-SUFFIX,gmodules.com,Google
+DOMAIN-SUFFIX,gstatic.com,Google
+DOMAIN-SUFFIX,keyhole.com,Google
+DOMAIN-SUFFIX,like.com,Google
+DOMAIN-SUFFIX,localhost.com,Google
+DOMAIN-SUFFIX,madewithcode.com,Google
+DOMAIN-SUFFIX,pagespeedmobilizer.com,Google
+DOMAIN-SUFFIX,panoramio.com,Google
+DOMAIN-SUFFIX,picasa.com,Google
+DOMAIN-SUFFIX,sketchup.com,Google
+DOMAIN-SUFFIX,urchin.com,Google
+DOMAIN-SUFFIX,waze.com,Google
+DOMAIN-SUFFIX,whatbrowser.org,Google
+DOMAIN-SUFFIX,youtu.be,Google
+DOMAIN-SUFFIX,yt.be,Google
+DOMAIN-SUFFIX,ytimg.com,Google
+
+DOMAIN-SUFFIX,g.cn,GFW
+DOMAIN-SUFFIX,g.co,GFW
 DOMAIN-SUFFIX,g.page,GFW
+DOMAIN-SUFFIX,goo.gl,Google
+DOMAIN-SUFFIX,goo.gle,Google
 
 DOMAIN-SUFFIX,cloud.goog,Google
 DOMAIN-SUFFIX,domain.goog,Google
@@ -17,7 +55,9 @@ DOMAIN-SUFFIX,translate.goog,Google
 DOMAIN-SUFFIX,telephony.goog,Google
 DOMAIN-SUFFIX,usercontent.goog,Google
 
+DOMAIN-KEYWORD,blogspot,Google
 DOMAIN-KEYWORD,google,Google
+DOMAIN-KEYWORD,youtube,Google
 
 # Microsoft
 # https://docs.microsoft.com/en-us/office365/enterprise/urls-and-ip-address-ranges
